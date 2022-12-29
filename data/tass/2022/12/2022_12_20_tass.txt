@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom"><channel><title>ТАСС</title>
+<description>ИНФОРМАЦИОННОЕ АГЕНТСТВО РОССИИ ТАСС</description>
+<language>ru-ru</language>
+<link><![CDATA[https://tass.ru]]></link>
+<copyright>ТАСС</copyright>
+<image><url><![CDATA[https://tass.ru/i/rss/logo.png]]></url>
+<title>ТАСС</title>
+<link><![CDATA[https://tass.ru]]></link>
+</image>
+<atom:link href="https://tass.ru/rss/v2.xml" rel="self" type="application/rss+xml"></atom:link>
+<item><title>Финляндия предоставит Украине новый пакет военной помощи на €28,8 млн</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645943]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645943]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:55:33 +0300</pubDate>
+<description>Хельсинки также продолжит подготовку украинских военнослужащих на территории Великобритании до конца 2023 года</description>
+<enclosure url="https://phototass2.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062393.jpg" type="image/jpeg" length="1511502"></enclosure>
+<category>Международная панорама</category>
+</item>
+<item><title>Госдеп призвал Грузию предоставить Саакашвили нужную медицинскую и психологическую помощь</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645927]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645927]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:52:57 +0300</pubDate>
+<description>Руководитель пресс-службы Госдепартамента Нед Прайс подчеркнул, что грузинское правительство должно защитить все права экс-президента</description>
+<category>Международная панорама</category>
+</item>
+<item><title>В Румынии сообщили о начале производства беспилотников Watchkeeper X</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645881]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645881]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:45:07 +0300</pubDate>
+<description>Предполагается, что на вооружение румынской армии поступит в общей сложности 21 дрон</description>
+<category>Международная панорама</category>
+</item>
+<item><title>Олимпийские чемпионы борцы Угуев и Сидаков победили на третьем турнире Лиги Поддубного</title>
+<link><![CDATA[https://tass.ru/sport/16645903]]></link>
+<guid><![CDATA[https://tass.ru/sport/16645903]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:38:46 +0300</pubDate>
+<description>Соревнования прошли в Бишкеке</description>
+<enclosure url="https://cdn2.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062389.jpg" type="image/jpeg" length="692715"></enclosure>
+<category>Спорт</category>
+<category>Летние виды спорта</category>
+<category>Летние олимпийские виды спорта</category>
+</item>
+<item><title>Госдеп считает, что отношения РФ и Ирана становятся полномасштабным оборонным партнерством</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645857]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645857]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:33:26 +0300</pubDate>
+<description>Руководитель пресс-службы Госдепартамента Нед Прайс отказался строить предположения о том, для каких целей Тегеран мог бы использовать поддержку Москвы</description>
+<enclosure url="https://phototass2.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062385.jpg" type="image/jpeg" length="3727918"></enclosure>
+<category>Международная панорама</category>
+</item>
+<item><title>Вучич осудил намерение Турции поставить &quot;Байрактары&quot; в непризнанное Косово</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645877]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645877]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:26:49 +0300</pubDate>
+<description>При этом он заверил, что в Сербии уважают турецкого лидера Реджепа Тайипа Эрдогана</description>
+<category>Международная панорама</category>
+</item>
+<item><title>Посол ЕС в Молдавии призвал власти разъяснить населению запрет телеканалов оппозиции</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645847]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645847]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:25:10 +0300</pubDate>
+<description>В пятницу комиссия по чрезвычайным ситуациям при правительстве страны приостановила на период ЧП действие шести оппозиционных телеканалов</description>
+<category>Международная панорама</category>
+</item>
+<item><title>Госдепартамент подтвердил освобождение двух задержанных в Афганистане американцев</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645813]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645813]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:23:17 +0300</pubDate>
+<description>Руководитель пресс-службы Госдепа Нед Прайс заверил, что США намерены продолжать отстаивать права человека в Афганистане</description>
+<category>Международная панорама</category>
+</item>
+<item><title>Эксперт считает, что российский фактор будет сказываться на выборах за рубежом в 2023 году</title>
+<link><![CDATA[https://tass.ru/politika/16645673]]></link>
+<guid><![CDATA[https://tass.ru/politika/16645673]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:23:09 +0300</pubDate>
+<description>Как заявил директор Фонда прогрессивной политики Олег Бондаренко, &quot;в предыдущее десятилетие Россия могла претендовать быть флагманом консервативного интернационала для многих сил в Европе&quot;</description>
+<category>Политика</category>
+</item>
+<item><title>В ВТО в 61-й раз не смогли договориться о начале отбора арбитров в Апелляционный орган</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645531]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645531]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:20:09 +0300</pubDate>
+<description>Достижение консенсуса вновь заблокировали США</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Деятели культуры Армении проводят акцию с требованием открыть Лачинский коридор</title>
+<link><![CDATA[https://tass.ru/obschestvo/16645465]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16645465]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:18:19 +0300</pubDate>
+<description>Участники акции прошли по центру Еревана от здания оперы к посольствам Франции и России, затем направились к представительству ООН в Армении</description>
+<category>Общество</category>
+</item>
+<item><title>Макрон подтвердил свою позицию по гарантиям для России после перемирия на Украине</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645803]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645803]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:17:42 +0300</pubDate>
+<description>Необходимо, чтобы Москва была за столом переговоров как сторона конфликта, чтобы построить устойчивый мир, подчеркнул президент Франции</description>
+<enclosure url="https://cdn4.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062351.jpg" type="image/jpeg" length="1597015"></enclosure>
+<category>Международная панорама</category>
+</item>
+<item><title>Новогодние огни зажглись на главной ели Петербурга</title>
+<link><![CDATA[https://tass.ru/obschestvo/16645643]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16645643]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:15:23 +0300</pubDate>
+<description>В 2022 году дерево нарядили в ретро-стиле 50-60-х годов XX века, в комплект украшений вошли более 300 елочных игрушек, 300 м серпантина, 5 тыс. м светодиодных гирлянд, 300 м ретрогирлянд из стилизованных флажков и 300 м световых гирлянд из лампочек</description>
+<enclosure url="https://phototass4.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062347.jpg" type="image/jpeg" length="13860258"></enclosure>
+<category>Общество</category>
+<category>Северо-Запад</category>
+<category>Новый год и Рождество</category>
+</item>
+<item><title>В США обвинили двух американцев в кибератаке якобы в сговоре с российскими хакерами</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645777]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645777]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:14:29 +0300</pubDate>
+<description>По утверждению прокуратуры Южного округа штата Нью-Йорк, американцы &quot;в сговоре с российскими гражданами&quot; взломали электронную диспетчерскую систему службы такси в аэропорту имени Джона Кеннеди</description>
+<category>Международная панорама</category>
+<category>Общество</category>
+</item>
+<item><title>Tez tour в ближайшие два дня вывезет из Хургады в РФ более 1,5 тыс. туристов</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645743]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645743]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:11:54 +0300</pubDate>
+<description>Генеральный консул РФ в Хургаде Виктор Воропаев сообщил, что все россияне &quot;находятся в местных комфортабельных отелях за счет туроператора&quot;</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>На сухогрузе у побережья Турции возник пожар</title>
+<link><![CDATA[https://tass.ru/proisshestviya/16645787]]></link>
+<guid><![CDATA[https://tass.ru/proisshestviya/16645787]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:11:33 +0300</pubDate>
+<description>Погиб один человек</description>
+<category>Происшествия</category>
+</item>
+<item><title>Госдеп: Иран &quot;убил возможность быстрого взаимного возвращения&quot; к ядерной сделке</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645763]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645763]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:04:22 +0300</pubDate>
+<category>Международная панорама</category>
+<category>Ситуация вокруг ядерной программы Ирана</category>
+</item>
+<item><title>Армия Израиля сообщила о перестрелке на военном посту у Наблуса на Западном берегу</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645735]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645735]]></guid>
+<pubDate>Tue, 20 Dec 2022 23:03:02 +0300</pubDate>
+<description>Сообщений о ранениях среди военнослужащих не поступало</description>
+<category>Международная панорама</category>
+</item>
+<item><title>Всемирный банк одобрил новый пакет помощи для Украины объемом $610 млн</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645721]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645721]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:59:37 +0300</pubDate>
+<description>Он включает в себя проекты по активизации усилий по оказанию помощи и восстановлению страны</description>
+<category>Международная панорама</category>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>В СКФО планируют создать более 79 тыс. рабочих мест к 2030 году</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645603]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645603]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:58:38 +0300</pubDate>
+<description>Достичь такого показателя округу поможет реализация 35 прорывных проектов в разных отраслях промышленности, также это позволит привлечь 1,7 трлн рублей инвестиций </description>
+<category>Экономика и бизнес</category>
+<category>Северный Кавказ</category>
+</item>
+<item><title>Госдеп: США сочтут серьезной эскалацией новый ядерный взрыв или испытание МБР в КНДР</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645685]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645685]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:55:45 +0300</pubDate>
+<description>В Вашингтоне заявили, что отнесутся к этому &quot;очень серьезно&quot;</description>
+<category>Международная панорама</category>
+<category>Ракетные запуски в КНДР</category>
+<category>Ситуация на Корейском полуострове</category>
+</item>
+<item><title>Академия балета и ГИТИС в 2023 году запустят цифровые кафедры</title>
+<link><![CDATA[https://tass.ru/kultura/16645653]]></link>
+<guid><![CDATA[https://tass.ru/kultura/16645653]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:54:40 +0300</pubDate>
+<description>Студенты учебных заведений смогут получить на этих кафедрах дополнительную квалификацию в области IT, цифровых компетенций</description>
+<category>Общество</category>
+<category>Культура</category>
+<category>Образование</category>
+</item>
+<item><title>СК поручил завести дело после лишения квартиры в Петербурге ветерана Великой Отечественной</title>
+<link><![CDATA[https://tass.ru/proisshestviya/16645575]]></link>
+<guid><![CDATA[https://tass.ru/proisshestviya/16645575]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:51:40 +0300</pubDate>
+<description>Женщину обманула сиделка, которая попросила ее подписать документы, которые якобы нужны были для ухода за ветераном</description>
+<category>Происшествия</category>
+<category>Северо-Запад</category>
+</item>
+<item><title>Путин: иностранные СМИ &quot;не подают голоса&quot; об украинских обстрелах мирных жителей Донецка</title>
+<link><![CDATA[https://tass.ru/obschestvo/16645635]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16645635]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:48:00 +0300</pubDate>
+<description>Врио главы ДНР Денис Пушилин в ходе встречи с президентом РФ отметил, что система двойных стандартов в данном случае налицо</description>
+<category>Общество</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>Пушилин попросил Путина способствовать усилению системы ПВО в ДНР</title>
+<link><![CDATA[https://tass.ru/politika/16645649]]></link>
+<guid><![CDATA[https://tass.ru/politika/16645649]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:47:44 +0300</pubDate>
+<description>Временно исполняющий обязанности главы республики объяснил это необходимостью обеспечения безопасности городов и отодвигания противника</description>
+<category>Политика</category>
+<category>Внешняя политика</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>Пушилин заявил об отсутствии серьезных проблем в сфере здравоохранения в ДНР</title>
+<link><![CDATA[https://tass.ru/obschestvo/16645615]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16645615]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:45:29 +0300</pubDate>
+<description>Временно исполняющий обязанности главы республики отметил, что ситуация с ковидом контролируемая, но по гриппу немного хуже</description>
+<category>Общество</category>
+</item>
+<item><title>Путин заявил, что удары со стороны ВСУ приходятся прямо по жилым кварталам Донецка</title>
+<link><![CDATA[https://tass.ru/proisshestviya/16645619]]></link>
+<guid><![CDATA[https://tass.ru/proisshestviya/16645619]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:45:28 +0300</pubDate>
+<description>Врио главы ДНР Денис Пушилин привел данные, согласно которым в период со 2 по 18 декабря в Донецке под обстрелами погиб 21 мирный житель</description>
+<category>Происшествия</category>
+</item>
+<item><title>Под Тверью к 100-летию СССР откроют выставку о достижениях и недостатках советской эпохи</title>
+<link><![CDATA[https://tass.ru/kultura/16645545]]></link>
+<guid><![CDATA[https://tass.ru/kultura/16645545]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:45:11 +0300</pubDate>
+<description>На выставке можно будет увидеть карты СССР 1922 года с республиками, подписавших союзный договор, портреты лидеров СССР,  &quot;Книгу Памяти&quot; Тверской области, детские игрушки, мебель, технику тех времен и другие экспонаты</description>
+<category>Культура</category>
+</item>
+<item><title>Путин заявил о возможности перевода в федеральные больницы некоторых пациентов из ДНР</title>
+<link><![CDATA[https://tass.ru/obschestvo/16645609]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16645609]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:44:04 +0300</pubDate>
+<description>Глава государства также считает необходимой помощь в повышении уровня квалификации региональных медицинских работников</description>
+<category>Общество</category>
+</item>
+<item><title>Толпа помешала сборной Аргентины по футболу завершить чемпионский парад в Буэнос-Айресе</title>
+<link><![CDATA[https://tass.ru/sport/16645589]]></link>
+<guid><![CDATA[https://tass.ru/sport/16645589]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:43:07 +0300</pubDate>
+<description>За четыре часа кортеж c футболистами смог проехать всего несколько километров</description>
+<enclosure url="https://cdn4.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062335.jpg" type="image/jpeg" length="7198000"></enclosure>
+<category>Спорт</category>
+<category>Футбол</category>
+<category>ЧМ-2022 по футболу</category>
+</item>
+<item><title>Пушилин попросил Путина о повышенных коэффициентах оплаты труда в прифронтовых районах ДНР</title>
+<link><![CDATA[https://tass.ru/politika/16645585]]></link>
+<guid><![CDATA[https://tass.ru/politika/16645585]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:41:46 +0300</pubDate>
+<category>Политика</category>
+</item>
+<item><title>Пушилин заявил о необходимости ускорить налаживание работы МФЦ в ДНР</title>
+<link><![CDATA[https://tass.ru/politika/16645571]]></link>
+<guid><![CDATA[https://tass.ru/politika/16645571]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:40:39 +0300</pubDate>
+<category>Политика</category>
+</item>
+<item><title>Пушилин: украинские обстрелы препятствуют полноценному налаживанию теплоснабжения в ДНР</title>
+<link><![CDATA[https://tass.ru/politika/16645567]]></link>
+<guid><![CDATA[https://tass.ru/politika/16645567]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:40:03 +0300</pubDate>
+<description>Как указал врио главы республики, специалисты постоянно работают над теплоснабжением, но решить проблему повсеместно пока не удается</description>
+<category>Политика</category>
+<category>Внутренняя политика</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>Кабмин утвердил положение о единой цифровой платформе &quot;Гостех&quot;</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645509]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645509]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:39:03 +0300</pubDate>
+<description>Согласно опубликованному документу, предполагается создание каталога цифровых продуктов платформы, а также унификация механизмов информационной безопасности, функции оператора платформы будет выполнять Минцифры</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Госдеп: США с союзниками примут меры против талибов из-за ограничений для студенток</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645551]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645551]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:39:01 +0300</pubDate>
+<category>Международная панорама</category>
+</item>
+<item><title>Пушилин: проблема теплоснабжения Мариуполя решена максимально возможно</title>
+<link><![CDATA[https://tass.ru/politika/16645547]]></link>
+<guid><![CDATA[https://tass.ru/politika/16645547]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:37:10 +0300</pubDate>
+<category>Политика</category>
+</item>
+<item><title>Пушилин рассказал о работе по восстановлению водоснабжения в ДНР</title>
+<link><![CDATA[https://tass.ru/politika/16645541]]></link>
+<guid><![CDATA[https://tass.ru/politika/16645541]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:36:44 +0300</pubDate>
+<description>Власти республики совместно с федеральными ведомствами провели большую работу по восстановлению водоснабжения, но проблема решена лишь частично, заявил временно исполняющий обязанности главы региона</description>
+<category>Политика</category>
+<category>Внутренняя политика</category>
+</item>
+<item><title>Путин отдельно обсудит с Пушилиным тему усиливающихся обстрелов Донецка войсками Украины</title>
+<link><![CDATA[https://tass.ru/politika/16645521]]></link>
+<guid><![CDATA[https://tass.ru/politika/16645521]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:32:46 +0300</pubDate>
+<description>Президент РФ предложил врио главы ДНР начать разговор &quot;с таких проблем, которые касаются каждого жителя Донецкой республики&quot;</description>
+<category>Политика</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>Путин проводит рабочую встречу с Пушилиным</title>
+<link><![CDATA[https://tass.ru/politika/16645515]]></link>
+<guid><![CDATA[https://tass.ru/politika/16645515]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:31:38 +0300</pubDate>
+<description>Это их первая протокольная рабочая встреча с момента принятия в состав России четырех новых регионов</description>
+<category>Политика</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>МО РФ: истребители Израиля нанесли удар по военным объектам в провинции Дамаск</title>
+<link><![CDATA[https://tass.ru/armiya-i-opk/16645417]]></link>
+<guid><![CDATA[https://tass.ru/armiya-i-opk/16645417]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:17:02 +0300</pubDate>
+<description>Как сообщили в Центре по примирению враждующих сторон, двое сирийских военных получили ранения</description>
+<category>Армия и ОПК</category>
+</item>
+<item><title>Губернатор Тюменской области вручил Звезду Героя РФ отцу погибшего в ходе СВО командира</title>
+<link><![CDATA[https://tass.ru/obschestvo/16645401]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16645401]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:08:55 +0300</pubDate>
+<description>В регионе в честь Жумабая Раизова намерены назвать одну из тюменских улиц</description>
+<category>Общество</category>
+<category>Новости Урала</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>Эксперты: США не выплатили компенсации многим работникам на базах Пентагона в Афганистане</title>
+<link><![CDATA[https://tass.ru/obschestvo/16645281]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16645281]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:08:24 +0300</pubDate>
+<description>Военные компании разными способами обходили положения закона и не платили рабочим, которые часто не были информированы о своих правах, говорится в исследовании Университета Брауна</description>
+<category>Общество</category>
+</item>
+<item><title>Пентагон заявил, что у США есть самолеты для сдерживания после приостановки полетов B-2</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645393]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645393]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:07:46 +0300</pubDate>
+<description>У ВВС есть широкий набор возможностей, особенно когда речь идет о стратегических бомбардировщиках, отметили в ведомстве</description>
+<category>Международная панорама</category>
+</item>
+<item><title>Более 50 студентов из ДНР и ЛНР пройдут психологическую реабилитацию в Москве</title>
+<link><![CDATA[https://tass.ru/obschestvo/16645343]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16645343]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:03:07 +0300</pubDate>
+<description>Тур организован в рамках программы поощрительных поездок &quot;Больше, чем путешествие&quot;, которая реализуется президентской платформой &quot;Россия - страна возможностей&quot;, Российским обществом &quot;Знание&quot;, Росмолодежью и Министерством науки и высшего образования РФ</description>
+<category>Москва</category>
+<category>Общество</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>Около 20 индустриальных объектов в России станут участниками фестиваля &quot;Ночь заводов&quot;</title>
+<link><![CDATA[https://tass.ru/obschestvo/16645327]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16645327]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:02:00 +0300</pubDate>
+<description>Прием заявок на участие в проекте продлится до 15 февраля</description>
+<category>Общество</category>
+</item>
+<item><title>МО РФ: переселенцы заявили о бедственной обстановке в оккупированной США зоне Эт-Танф</title>
+<link><![CDATA[https://tass.ru/armiya-i-opk/16645405]]></link>
+<guid><![CDATA[https://tass.ru/armiya-i-opk/16645405]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:01:59 +0300</pubDate>
+<description>Как сообщили в Центре по примирению враждующих сторон, не хватает продовольствия, предметов первой необходимости, медикаментов и источников тепла</description>
+<category>Армия и ОПК</category>
+</item>
+<item><title>Песков подтвердил посещение Путиным зоны СВО 16 декабря</title>
+<link><![CDATA[https://tass.ru/politika/16645383]]></link>
+<guid><![CDATA[https://tass.ru/politika/16645383]]></guid>
+<pubDate>Tue, 20 Dec 2022 22:00:05 +0300</pubDate>
+<description>В этот день президент РФ работал в объединенном штабе войск </description>
+<enclosure url="https://cdn2.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062317.jpg" type="image/jpeg" length="3974275"></enclosure>
+<category>Политика</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>В Нижнем Новгороде открыли выставку об эпохе Возрождения и ее интерпретациях в искусстве</title>
+<link><![CDATA[https://tass.ru/kultura/16645331]]></link>
+<guid><![CDATA[https://tass.ru/kultura/16645331]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:59:18 +0300</pubDate>
+<description>На экспозиции представлены гравюры Андреа Мантеньи, графические произведения по рисункам Филиппино Липпи и Рафаэля Санти, картины Лоренцо ди Креди и Виллема Кея</description>
+<enclosure url="https://phototass2.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062321.jpg" type="image/jpeg" length="3124222"></enclosure>
+<category>Культура</category>
+<category>Нижегородская область</category>
+</item>
+<item><title>Экс-советник главы Пентагона опасается, что Байден может отправить войска на запад Украины</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645373]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645373]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:58:43 +0300</pubDate>
+<description>При этом Дуглас Макгрегор усомнился в перспективах введения на Украину американских войск с территории Польши</description>
+<enclosure url="https://phototass4.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062331.jpg" type="image/jpeg" length="13586989"></enclosure>
+<category>Международная панорама</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>В Санкт-Петербурге 21 декабря ожидается ледяной дождь</title>
+<link><![CDATA[https://tass.ru/obschestvo/16645347]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16645347]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:57:22 +0300</pubDate>
+<description>Синоптики прогнозируют такой же дождь в Ленинградской и Новгородской областях, а в Вологодской области - сильный снег с ледяным дождем, метелью и гололедом</description>
+<category>Общество</category>
+<category>Северо-Запад</category>
+</item>
+<item><title>В Пентагоне признают наличие риска недооценить возможности России в ходе СВО</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645359]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16645359]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:57:17 +0300</pubDate>
+<description>В ведомстве отметили, что США продолжат работать с Украиной и международным сообществом над обеспечением того, чтобы Киев имел все необходимое для защиты страны</description>
+<category>Международная панорама</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>АСИ предложило создать в регионах площадки для представителей креативных отраслей</title>
+<link><![CDATA[https://tass.ru/obschestvo/16645303]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16645303]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:54:22 +0300</pubDate>
+<description>По мнению замдиректора направления &quot;Молодые профессионалы&quot; АСИ Юлии Ханьжиной, площадки должны поспособствовать продвижению проектов индустрии творчества</description>
+<category>Общество</category>
+</item>
+<item><title>&quot;Динамо&quot; второй раз подряд победило &quot;Спартак&quot; в матче КХЛ</title>
+<link><![CDATA[https://tass.ru/sport/16645319]]></link>
+<guid><![CDATA[https://tass.ru/sport/16645319]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:49:28 +0300</pubDate>
+<description>Встреча завершилась со счетом 5:2 в пользу бело-голубых</description>
+<enclosure url="https://cdn2.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062309.jpg" type="image/jpeg" length="1087783"></enclosure>
+<category>Спорт</category>
+<category>Хоккей</category>
+<category>КХЛ</category>
+</item>
+<item><title>Посол РФ: Запад вбрасывает версии &quot;русского следа&quot; в конфликте в Косове</title>
+<link><![CDATA[https://tass.ru/politika/16645287]]></link>
+<guid><![CDATA[https://tass.ru/politika/16645287]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:48:02 +0300</pubDate>
+<description>Как заявил Александр Боцан-Харченко, &quot;Запад неизменно нацелен на поддержку Приштины&quot;</description>
+<category>Политика</category>
+<category>Обострение обстановки в Косове</category>
+</item>
+<item><title>Путин заверил, что оказание плановой медпомощи жителям ЛНР продолжится без сбоев</title>
+<link><![CDATA[https://tass.ru/obschestvo/16645297]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16645297]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:45:46 +0300</pubDate>
+<description>Президент пообещал работать над этим</description>
+<category>Общество</category>
+<category>Здоровье</category>
+</item>
+<item><title>Люксембург разрешил временно разморозить активы НРД в рамках девятого пакета санкций ЕС</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645265]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645265]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:42:42 +0300</pubDate>
+<description>Министерство финансов страны &quot;разрешает разблокирование активов структуры, находящейся в санкционном списке на 101-й позиции&quot;, сроком до 7 января 2023 года</description>
+<enclosure url="https://phototass2.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062313.jpg" type="image/jpeg" length="7478871"></enclosure>
+<category>Экономика и бизнес</category>
+<category>Санкции в отношении России</category>
+</item>
+<item><title>Минфин США упростил предоставление гуманитарной помощи в рамках режима санкций</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645259]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645259]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:38:51 +0300</pubDate>
+<description>Обновленные генеральные лицензии ведомства касаются четырех категорий предоставления помощи</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Путин пообещал помощь ЛНР с кадрами для налаживания систем связи</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645225]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645225]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:34:00 +0300</pubDate>
+<description>Врио руководителя ЛНР Леонид Пасечник во время встречи с президентом пожаловался на нехватку специалистов по мобильной связи и интернету</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Пасечник попросил Путина о субсидиях на дрова и уголь для населения</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645221]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645221]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:33:19 +0300</pubDate>
+<description>Как заявил врио главы ЛНР, в ходе боевых действий в республике разрушена значительная часть жилого фонда, люди вынуждены отапливать дома буржуйками</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Путин: закрыть &quot;копанки&quot; в ЛНР проще всего, но могут возникнуть проблемы с занятостью</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645209]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645209]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:32:52 +0300</pubDate>
+<description>Как заявил президент РФ, людям негде будет работать</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Пасечник заявил о необходимости обеспечить рабочими местами демобилизованных шахтеров</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645187]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645187]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:31:23 +0300</pubDate>
+<description>Власти обязаны о них позаботиться, отметил врио главы ЛНР</description>
+<category>Экономика и бизнес</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>Пасечник попросил Путина обеспечить шахтерам ЛНР бронь от воинской службы</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645217]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645217]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:30:48 +0300</pubDate>
+<description>Как заявил врио главы ЛНР, такое решение необходимо для того, чтобы люди пошли работать на угледобывающие госпредприятия</description>
+<category>Экономика и бизнес</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>В Минздраве считают нужным создание консорциума медвузов Донбасса и других регионов</title>
+<link><![CDATA[https://tass.ru/obschestvo/16645191]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16645191]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:29:57 +0300</pubDate>
+<description>Замминистра здравоохранения Татьяна Семенова уточнила, что руководители вузов ЛНР и ДНР являются членами Ассоциации ректоров медвузов и уже адаптируют образовательные программы под российские с 2018-2019 годов</description>
+<category>Общество</category>
+</item>
+<item><title>Пасечник попросил Путина включить ЛНР в госпрограммы РФ по поставкам угля</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645161]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645161]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:25:07 +0300</pubDate>
+<description>Как заявил врио главы республики, он понимает, что регион составляет конкуренцию Кузбассу, но надеется, что где-то будет нужен и уголь из ЛНР</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Путин: никто не будет навязывать ЛНР решений по теме приватизации угольных предприятий</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645171]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645171]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:24:47 +0300</pubDate>
+<description>Как отметил президент, в России государственных угольных предприятий практически не осталось, но это не значит, что в республике не может быть предприятий с государственной формой собственности</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Путин пообещал субсидии ЛНР на зарплаты шахтерам</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645179]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645179]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:23:30 +0300</pubDate>
+<description>Президент РФ заверил, что власти сделают это в кратчайшие сроки</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Лионель Месси посвятил победу на чемпионате мира Марадоне и народу Аргентины</title>
+<link><![CDATA[https://tass.ru/sport/16645143]]></link>
+<guid><![CDATA[https://tass.ru/sport/16645143]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:22:55 +0300</pubDate>
+<description>Аргентинцы стали чемпионами мира 18 декабря, обыграв в финале сборную Франции</description>
+<enclosure url="https://cdn4.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062287.jpg" type="image/jpeg" length="994514"></enclosure>
+<category>Спорт</category>
+<category>Футбол</category>
+<category>ЧМ-2022 по футболу</category>
+</item>
+<item><title>ОКР признал Большунова и Щербакову лучшими спортсменами Олимпиады в Пекине</title>
+<link><![CDATA[https://tass.ru/sport/16645155]]></link>
+<guid><![CDATA[https://tass.ru/sport/16645155]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:22:39 +0300</pubDate>
+<description>Аналогичные награды за выступления на Олимпийских играх в Токио получили Евгений Рылов и София Позднякова</description>
+<enclosure url="https://cdn2.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062293.jpg" type="image/jpeg" length="3701497"></enclosure>
+<category>Спорт</category>
+<category>Зимние виды спорта</category>
+<category>Зимние олимпийские виды спорта</category>
+</item>
+<item><title>Слуцкий: России и КНР не нужно ничего делать для развала НАТО, альянс распадется изнутри</title>
+<link><![CDATA[https://tass.ru/politika/16645073]]></link>
+<guid><![CDATA[https://tass.ru/politika/16645073]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:18:39 +0300</pubDate>
+<description>Депутат отметил, что если бы не &quot;бездумная политика в отношении натовского расширения на Восток, и не проект &quot;анти-Россия&quot;, то кризиса на Украине можно было бы избежать</description>
+<category>Политика</category>
+<category>Внешняя политика</category>
+</item>
+<item><title>Пасечник заявил, что в 2022 году 58% шахтеров ЛНР ушли на фронт</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645101]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645101]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:16:58 +0300</pubDate>
+<description>Это сильно сказалось на добыче угля, сообщил врио главы республики</description>
+<category>Экономика и бизнес</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>&quot;Мираторг&quot; вложил 2,3 млрд рублей в логистический проект в Брянской области</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645011]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645011]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:14:07 +0300</pubDate>
+<description>В компании считают, что проект расширяет логистическую инфраструктуру холдинга, оптимизирует цепочку поставок, позволяет уйти от аренды складских помещений и избавиться от дополнительных автомобильных перевозок</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Путин заявил, что ситуация в ЛНР остается весьма сложной</title>
+<link><![CDATA[https://tass.ru/politika/16645051]]></link>
+<guid><![CDATA[https://tass.ru/politika/16645051]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:12:18 +0300</pubDate>
+<description>Ключевой вопрос сейчас - это безопасность людей, отметил президент РФ</description>
+<enclosure url="https://phototass4.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062299.jpg" type="image/jpeg" length="4592886"></enclosure>
+<category>Политика</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>Средства населения в российских банках в ноябре выросли на 311 млрд рублей</title>
+<link><![CDATA[https://tass.ru/ekonomika/16644987]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16644987]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:12:13 +0300</pubDate>
+<description>При этом средства юрлиц выросли на 0,7 трлн рублей после сокращения в октябре на 1,1%</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Путин проводит в Кремле рабочую встречу с Пасечником</title>
+<link><![CDATA[https://tass.ru/politika/16645045]]></link>
+<guid><![CDATA[https://tass.ru/politika/16645045]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:11:41 +0300</pubDate>
+<description>Врио руководителя ЛНР ранее, как и другие главы новых регионов, получил орден из рук главы государства на торжественной церемонии в Кремле</description>
+<category>Политика</category>
+</item>
+<item><title>Путин образовал рабочую группу по вопросам мобилизации и соцподдержки участников СВО</title>
+<link><![CDATA[https://tass.ru/politika/16645035]]></link>
+<guid><![CDATA[https://tass.ru/politika/16645035]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:09:39 +0300</pubDate>
+<description>Ее возглавил Андрей Турчак</description>
+<enclosure url="https://phototass4.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062283.jpg" type="image/jpeg" length="7034325"></enclosure>
+<category>Политика</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>Вузы новых регионов в 2023 году станут участниками федеральных образовательных программ</title>
+<link><![CDATA[https://tass.ru/obschestvo/16645021]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16645021]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:09:27 +0300</pubDate>
+<description>Как сообщили в министерстве науки и высшего образования РФ, по нацпроекту &quot;Наука и университеты&quot; они смогут участвовать в некоторых программах</description>
+<category>Общество</category>
+</item>
+<item><title>СМИ: ПСЖ до конца года намерен продлить контракт с Лионелем Месси</title>
+<link><![CDATA[https://tass.ru/sport/16645019]]></link>
+<guid><![CDATA[https://tass.ru/sport/16645019]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:08:46 +0300</pubDate>
+<description>Действующее соглашение аргентинского футболиста с французским клубом истекает в июне 2023 года</description>
+<enclosure url="https://cdn4.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062279.jpg" type="image/jpeg" length="2915300"></enclosure>
+<category>Спорт</category>
+<category>Футбол</category>
+<category>Футбол во Франции</category>
+</item>
+<item><title>Корпоративное кредитование в ноябре выросло на 1%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645013]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645013]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:08:11 +0300</pubDate>
+<description>Розничное кредитование выросло на 1,2%, сообщили в ЦБ</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Астраханской области выделят около 23 млн рублей на расширенный неонатальный скрининг</title>
+<link><![CDATA[https://tass.ru/obschestvo/16643913]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16643913]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:06:49 +0300</pubDate>
+<description>Средства регион получит в 2023 году</description>
+<category>Общество</category>
+</item>
+<item><title>Рогов сообщил, что на ЗАЭС за последние месяцы перехватили около 60 беспилотников ВСУ</title>
+<link><![CDATA[https://tass.ru/armiya-i-opk/16644657]]></link>
+<guid><![CDATA[https://tass.ru/armiya-i-opk/16644657]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:03:49 +0300</pubDate>
+<description>По словам председателя движения &quot;Мы вместе с Россией&quot;, беспилотники переносили мины, гранаты и взрывчатку - в тротиловом эквиваленте мощность боеприпасов доходила до 2-3 кг</description>
+<category>Армия и ОПК</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>Ипотечный портфель банков РФ в ноябре ускорил рост до 2%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16645005]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16645005]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:02:32 +0300</pubDate>
+<description>По данным ЦБ, выдачи кредитов выросли в основном за счет увеличения льготного кредитования</description>
+<category>Экономика и бизнес</category>
+<category>Недвижимость</category>
+</item>
+<item><title>СК возбудил дело после обстрела больницы в Донецке</title>
+<link><![CDATA[https://tass.ru/proisshestviya/16644963]]></link>
+<guid><![CDATA[https://tass.ru/proisshestviya/16644963]]></guid>
+<pubDate>Tue, 20 Dec 2022 21:01:14 +0300</pubDate>
+<description>В результате обстрела был тяжело ранен один человек</description>
+<category>Происшествия</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>Путин наградил героев СВО, Берлин просит Пекин повлиять на Москву. События вокруг Украины</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16644887]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16644887]]></guid>
+<pubDate>Tue, 20 Dec 2022 20:59:47 +0300</pubDate>
+<description>Президент Украины Владимир Зеленский посетил Артемовск, расположенный в подконтрольной Киеву части ДНР</description>
+<enclosure url="https://phototass4.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062275.jpg" type="image/jpeg" length="4443487"></enclosure>
+<category>Международная панорама</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>Небензя: Россия призывает США вернуть замороженные средства афганского народа</title>
+<link><![CDATA[https://tass.ru/politika/16644941]]></link>
+<guid><![CDATA[https://tass.ru/politika/16644941]]></guid>
+<pubDate>Tue, 20 Dec 2022 20:56:02 +0300</pubDate>
+<description>Попытки США и других крупных доноров использовать афганские средства в качестве предлога для решения своих задач аморальны, заявил постпред РФ при ООН</description>
+<category>Политика</category>
+</item>
+<item><title>В древнем поселке Изборск под Псковом открылась выставка живописи на исторические темы</title>
+<link><![CDATA[https://tass.ru/kultura/16644865]]></link>
+<guid><![CDATA[https://tass.ru/kultura/16644865]]></guid>
+<pubDate>Tue, 20 Dec 2022 20:53:23 +0300</pubDate>
+<description>Посетители экспозиции смогут увидеть работы &quot;Боярышня-девица&quot; Василия Сурикова, &quot;Тихие воды&quot; Михаила Нестерова и &quot;Царевич Иван на прогулке&quot; Михаила Авилова </description>
+<enclosure url="https://cdn2.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062341.jpg" type="image/jpeg" length="3553465"></enclosure>
+<category>Культура</category>
+<category>Северо-Запад</category>
+</item>
+<item><title>Инна Гончаренко считает, что будет сложно бороться с Валиевой на чемпионате России</title>
+<link><![CDATA[https://tass.ru/sport/16644915]]></link>
+<guid><![CDATA[https://tass.ru/sport/16644915]]></guid>
+<pubDate>Tue, 20 Dec 2022 20:51:13 +0300</pubDate>
+<description>Соревновательная программа чемпионата страны пройдет с 22 по 25 декабря в Красноярске</description>
+<category>Спорт</category>
+<category>Фигурное катание</category>
+</item>
+<item><title>В Курской области при обстреле села со стороны ВСУ пострадала женщина</title>
+<link><![CDATA[https://tass.ru/proisshestviya/16644907]]></link>
+<guid><![CDATA[https://tass.ru/proisshestviya/16644907]]></guid>
+<pubDate>Tue, 20 Dec 2022 20:49:49 +0300</pubDate>
+<description>В селе Махновка также повреждены три дома, в одном из них произошел пожар</description>
+<enclosure url="https://phototass2.cdnvideo.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221220/7062305.jpg" type="image/jpeg" length="4465857"></enclosure>
+<category>Происшествия</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>В Центральной России ввод жилья на участках ДОМ.РФ вырос на 65% в 2022 году</title>
+<link><![CDATA[https://tass.ru/nedvizhimost/16644733]]></link>
+<guid><![CDATA[https://tass.ru/nedvizhimost/16644733]]></guid>
+<pubDate>Tue, 20 Dec 2022 20:48:10 +0300</pubDate>
+<description>Всего в округе сдали в эксплуатацию на участках ДОМ.РФ почти 800 тыс. кв. м жилья</description>
+<category>Экономика и бизнес</category>
+<category>Недвижимость</category>
+</item>
+<item><title>Гастрономический кластер &quot;Депо. Три вокзала&quot; представит более 15 кухонь мира в Москве</title>
+<link><![CDATA[https://tass.ru/obschestvo/16644903]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16644903]]></guid>
+<pubDate>Tue, 20 Dec 2022 20:47:47 +0300</pubDate>
+<description>Он откроется на месте бывшего 2-го троллейбусного парка, построенного в начале XX века и расположенного на Новорязанской улице</description>
+<category>Москва</category>
+<category>Общество</category>
+</item>
+<item><title>Власти ЛНР предложили запустить программу возвращения учителей из вузов других регионов</title>
+<link><![CDATA[https://tass.ru/obschestvo/16644873]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16644873]]></guid>
+<pubDate>Tue, 20 Dec 2022 20:47:35 +0300</pubDate>
+<description>Вузы региона испытывают острую потребность в научно-педагогических кадрах, сообщил министр образования и науки республики Иван Кусов</description>
+<category>Общество</category>
+</item>
+<item><title>Мурманские власти предложили Турции организовать программы студенческого обмена</title>
+<link><![CDATA[https://tass.ru/obschestvo/16644819]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16644819]]></guid>
+<pubDate>Tue, 20 Dec 2022 20:45:45 +0300</pubDate>
+<description>По словам губернатора Андрея Чибиса, образовательные программы обмена с турецкими вузами были бы наиболее важны для региона в технической сфере</description>
+<category>Общество</category>
+<category>Экономика и бизнес</category>
+<category>Северо-Запад</category>
+</item>
+<item><title>Большинство опрошенных граждан ЕС хотели бы заставить Россию и Украину пойти на переговоры</title>
+<link><![CDATA[https://tass.ru/obschestvo/16644879]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16644879]]></guid>
+<pubDate>Tue, 20 Dec 2022 20:44:55 +0300</pubDate>
+<description>Согласно опросу центра Szazadveg, наибольшую поддержку такая позиция получила в тех странах, которые активнее других выступают против санкционной политики Брюсселя</description>
+<category>Общество</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>Талибы распорядились приостановить занятия для студенток в афганских университетах</title>
+<link><![CDATA[https://tass.ru/obschestvo/16644857]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16644857]]></guid>
+<pubDate>Tue, 20 Dec 2022 20:44:19 +0300</pubDate>
+<description>Радикальное движение объясняет различные ограничения в отношении женщин и девочек необходимостью создания в государстве &quot;соответствующей исламской среды&quot;</description>
+<category>Общество</category>
+<category>Образование</category>
+</item>
+</channel>
+</rss>

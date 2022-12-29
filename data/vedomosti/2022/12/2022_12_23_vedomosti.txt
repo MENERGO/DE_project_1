@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>"Ведомости". Ежедневная деловая газета</title>
+    <link>https://www.vedomosti.ru</link>
+    <description>"Ведомости". Новости, 26.12.2022</description>
+    <image>
+      <url>https://cdn.vdmsti.ru/assets/rss_logo.gif</url>
+      <title>"Ведомости". Ежедневная деловая газета</title>
+      <link>https://www.vedomosti.ru</link>
+    </image>
+<item>
+  <title>Голикова поручила проработать запрет продажи энергетических напитков детям</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956877-golikova-poruchila-prorabotat</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956877-golikova-poruchila-prorabotat</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956877-golikova-poruchila-prorabotat</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/1bq52g/normal-1puq.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 22:47:47 +0300</pubDate>
+</item>
+<item>
+  <title>Мишустин утвердил концепцию формирования и развития культуры информбезопасности</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956874-mishustin-utverdil-kontseptsiyu</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956874-mishustin-utverdil-kontseptsiyu</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956874-mishustin-utverdil-kontseptsiyu</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/1b33pz/normal-1p0v.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 22:21:34 +0300</pubDate>
+</item>
+<item>
+  <title>Лавров: Россия не имеет отношения к решению Варданяна отправиться в Карабах</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956872-rossiya-ne-imeet-otnosheniya</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956872-rossiya-ne-imeet-otnosheniya</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956872-rossiya-ne-imeet-otnosheniya</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/1adqdz/normal-1o3z.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 21:53:10 +0300</pubDate>
+</item>
+<item>
+  <title>Минюст включил «Роскомсвободу» и Колесникова в реестр иностранных агентов</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956870-minyust-vklyuchil-roskomsvobodu</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956870-minyust-vklyuchil-roskomsvobodu</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956870-minyust-vklyuchil-roskomsvobodu</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/19lz62/normal-1n41.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 21:26:23 +0300</pubDate>
+</item>
+<item>
+  <title>Axios: миллиардер Блумберг хочет купить Dow Jones или The Washington Post</title>
+  <link>https://www.vedomosti.ru/business/news/2022/12/23/956869-blumberg-hochet-dow</link>
+  <guid>https://www.vedomosti.ru/business/news/2022/12/23/956869-blumberg-hochet-dow</guid>
+  <pdalink>https://www.vedomosti.ru/business/news/2022/12/23/956869-blumberg-hochet-dow</pdalink>
+  <author></author>
+  <category>Бизнес</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/1959qn/normal-1mic.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 21:20:08 +0300</pubDate>
+</item>
+<item>
+  <title>Нанесенный украинскими обстрелами Брянской области ущерб превысил 100 млн рублей</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956868-nanesennii-ukrainskimi-obstrelami</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956868-nanesennii-ukrainskimi-obstrelami</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956868-nanesennii-ukrainskimi-obstrelami</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/18a6w6/normal-1le3.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 20:56:47 +0300</pubDate>
+</item>
+<item>
+  <title>В Грузии подтвердили сообщения о принудительном закрытии счетов граждан России</title>
+  <link>https://www.vedomosti.ru/finance/news/2022/12/23/956867-v-gruzii-podtverdili</link>
+  <guid>https://www.vedomosti.ru/finance/news/2022/12/23/956867-v-gruzii-podtverdili</guid>
+  <pdalink>https://www.vedomosti.ru/finance/news/2022/12/23/956867-v-gruzii-podtverdili</pdalink>
+  <author></author>
+  <category>Финансы</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/17i54h/normal-1kdp.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 20:38:48 +0300</pubDate>
+</item>
+<item>
+  <title>Байден подписал военный бюджет США в размере $858 млрд</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956865-baiden-podpisal</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956865-baiden-podpisal</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956865-baiden-podpisal</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/16iwbd/normal-1j42.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 20:16:26 +0300</pubDate>
+</item>
+<item>
+  <title>Глава РФС заявил о поддержке большинством клубов РПЛ перехода в Азию</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956857-rfs-zayavil-o-podderzhke</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956857-rfs-zayavil-o-podderzhke</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956857-rfs-zayavil-o-podderzhke</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/152c19/normal-1h7x.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 19:52:36 +0300</pubDate>
+</item>
+<item>
+  <title>Путин указал на важность контроля за качеством выпускаемых в России вооружений</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956862-putin-ukazal-na-vazhnost-kontrolya</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956862-putin-ukazal-na-vazhnost-kontrolya</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956862-putin-ukazal-na-vazhnost-kontrolya</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/15sfc7/normal-1i5t.gif" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 19:35:04 +0300</pubDate>
+</item>
+<item>
+  <title>Путин обозначил ключевую задачу для предприятий ОПК</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956854-putin-oboznachil-klyuchevuyu</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956854-putin-oboznachil-klyuchevuyu</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956854-putin-oboznachil-klyuchevuyu</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/14slqd/normal-1gvb.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 19:11:04 +0300</pubDate>
+</item>
+<item>
+  <title>МАГАТЭ предложило разместить постоянные миссии на всех украинских АЭС</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956853-magate-predlozhilo-razmestit</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956853-magate-predlozhilo-razmestit</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956853-magate-predlozhilo-razmestit</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/14c6rv/normal-1ga4.gif" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 19:04:18 +0300</pubDate>
+</item>
+<item>
+  <title>Глава Запорожской области анонсировал строительство трассы Симферополь – Ростов</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956850-glava-zaporozhskoi-anonsiroval</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956850-glava-zaporozhskoi-anonsiroval</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956850-glava-zaporozhskoi-anonsiroval</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/14atqh/normal-1g8a.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 18:51:29 +0300</pubDate>
+</item>
+<item>
+  <title>Генпрокуратура утвердила обвинение распространяющим фейки про СВО иностранцам</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956847-genprokuratura-utverdila-obvinenie</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956847-genprokuratura-utverdila-obvinenie</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956847-genprokuratura-utverdila-obvinenie</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/135xlp/normal-1erc.gif" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 18:31:06 +0300</pubDate>
+</item>
+<item>
+  <title>Финляндия потребовала от России обеспечить безопасность посольства в Москве</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956844-finlyandiya-obespechit-bezopasnost-posolstva</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956844-finlyandiya-obespechit-bezopasnost-posolstva</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956844-finlyandiya-obespechit-bezopasnost-posolstva</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/12rb4s/normal-1e8b.gif" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 18:10:31 +0300</pubDate>
+</item>
+<item>
+  <title>Пушилин: необходимость проведения спецоперации была очевидна еще в конце 2021 года</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956837-pushilin-neobhodimost-spetsoperatsii</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956837-pushilin-neobhodimost-spetsoperatsii</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956837-pushilin-neobhodimost-spetsoperatsii</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/11ue7i/normal-1d1p.gif" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 17:46:09 +0300</pubDate>
+</item>
+<item>
+  <title>Компания IFly отменила рейсы в Египет по 26 декабря</title>
+  <link>https://www.vedomosti.ru/business/news/2022/12/23/956835-ifly-otmenila-reisi</link>
+  <guid>https://www.vedomosti.ru/business/news/2022/12/23/956835-ifly-otmenila-reisi</guid>
+  <pdalink>https://www.vedomosti.ru/business/news/2022/12/23/956835-ifly-otmenila-reisi</pdalink>
+  <author></author>
+  <category>Бизнес</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/11e87s/normal-1cgs.png" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 17:30:33 +0300</pubDate>
+</item>
+<item>
+  <title>Путин прибыл в Тулу для проведения совещания по обеспечению ВС РФ</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956836-putin-pribil-v-tulu</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956836-putin-pribil-v-tulu</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956836-putin-pribil-v-tulu</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/11oazc/normal-1ctr.gif" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 17:30:07 +0300</pubDate>
+</item>
+<item>
+  <title>Минобороны сообщило об уничтожении украинского Су-25 в ДНР</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956830-minoboroni-soobschilo</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956830-minoboroni-soobschilo</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956830-minoboroni-soobschilo</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/10py6q/normal-1bl9.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 17:14:40 +0300</pubDate>
+</item>
+<item>
+  <title>Цена на газ в Европе опустилась ниже $900 за тысячу куб. м впервые с июня</title>
+  <link>https://www.vedomosti.ru/economics/news/2022/12/23/956829-tsena-na-gaz-opustilas</link>
+  <guid>https://www.vedomosti.ru/economics/news/2022/12/23/956829-tsena-na-gaz-opustilas</guid>
+  <pdalink>https://www.vedomosti.ru/economics/news/2022/12/23/956829-tsena-na-gaz-opustilas</pdalink>
+  <author></author>
+  <category>Экономика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/10hu3r/normal-1bar.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 17:03:24 +0300</pubDate>
+</item>
+<item>
+  <title>Вице-премьер Армении заявил о рекордном товарообороте с Россией</title>
+  <link>https://www.vedomosti.ru/economics/news/2022/12/23/956821-vitse-premer-armenii</link>
+  <guid>https://www.vedomosti.ru/economics/news/2022/12/23/956821-vitse-premer-armenii</guid>
+  <pdalink>https://www.vedomosti.ru/economics/news/2022/12/23/956821-vitse-premer-armenii</pdalink>
+  <author></author>
+  <category>Экономика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/10efd6/normal-1b6c.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 17:00:24 +0300</pubDate>
+</item>
+<item>
+  <title>Глава Евросовета поддержал приостановку членства России в Совбезе ООН</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956828-glava-evrosoveta-sovbeze-oon</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956828-glava-evrosoveta-sovbeze-oon</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956828-glava-evrosoveta-sovbeze-oon</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/108by5/normal-1ayf.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 16:56:50 +0300</pubDate>
+</item>
+<item>
+  <title>Минтранс назвал причину задержки реконструкции погранпунктов на границе с КНР</title>
+  <link>https://www.vedomosti.ru/economics/news/2022/12/23/956826-mintrans-nazval-prichinu-zaderzhki</link>
+  <guid>https://www.vedomosti.ru/economics/news/2022/12/23/956826-mintrans-nazval-prichinu-zaderzhki</guid>
+  <pdalink>https://www.vedomosti.ru/economics/news/2022/12/23/956826-mintrans-nazval-prichinu-zaderzhki</pdalink>
+  <author></author>
+  <category>Экономика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/1002rn/normal-1anp.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 16:49:24 +0300</pubDate>
+</item>
+<item>
+  <title>МИД Азербайджана потребовал от Варданяна покинуть Нагорный Карабах</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956824-mid-azerbaidzhana-vardanyana</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956824-mid-azerbaidzhana-vardanyana</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956824-mid-azerbaidzhana-vardanyana</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/znfnx/normal-1a7b.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 16:40:54 +0300</pubDate>
+</item>
+<item>
+  <title>В российских вузах появится курс по основам военной подготовки</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956818-v-vuzah-kurs-podgotovki</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956818-v-vuzah-kurs-podgotovki</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956818-v-vuzah-kurs-podgotovki</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/zdvti/normal-19uz.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 16:31:16 +0300</pubDate>
+</item>
+<item>
+  <title>Число погибших при стрельбе в Париже выросло до трех</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956819-chislo-pogibshih-viroslo</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956819-chislo-pogibshih-viroslo</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956819-chislo-pogibshih-viroslo</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/z8i8i/normal-19nz.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 16:26:36 +0300</pubDate>
+</item>
+<item>
+  <title>Роскомнадзор проверит информацию об утечке данных водителей «Ситимобила»</title>
+  <link>https://www.vedomosti.ru/technology/news/2022/12/23/956815-roskomnadzor-utechke-sitimobila</link>
+  <guid>https://www.vedomosti.ru/technology/news/2022/12/23/956815-roskomnadzor-utechke-sitimobila</guid>
+  <pdalink>https://www.vedomosti.ru/technology/news/2022/12/23/956815-roskomnadzor-utechke-sitimobila</pdalink>
+  <author></author>
+  <category>Технологии</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/yrv9n/normal-192f.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 16:14:14 +0300</pubDate>
+</item>
+<item>
+  <title>Лавров назвал необоснованными упреки в адрес российских миротворцев в Карабахе</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956809-lavrov-nazval-neobosnovannimi-upreki</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956809-lavrov-nazval-neobosnovannimi-upreki</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956809-lavrov-nazval-neobosnovannimi-upreki</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/y8sie/normal-18dp.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 16:02:46 +0300</pubDate>
+</item>
+<item>
+  <title>Правительство упростит назначение выплат Героям труда и Героям России</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956808-pravitelstvo-uprostit-naznachenie-viplat-geroyam-truda</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956808-pravitelstvo-uprostit-naznachenie-viplat-geroyam-truda</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956808-pravitelstvo-uprostit-naznachenie-viplat-geroyam-truda</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/xwuz2/normal-17y8.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 15:52:43 +0300</pubDate>
+</item>
+<item>
+  <title>РПЦ просит закрепить отсрочку от мобилизации для духовенства указом президента</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956787-otsrochku-mobilizatsii-duhovenstva</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956787-otsrochku-mobilizatsii-duhovenstva</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956787-otsrochku-mobilizatsii-duhovenstva</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/vcffh/normal-14mf.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 15:51:51 +0300</pubDate>
+</item>
+<item>
+  <title>Сын Рогозина опроверг сообщения об ухудшении состояния здоровья отца</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956807-sin-rogozina-uhudshenii-sostoyaniya</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956807-sin-rogozina-uhudshenii-sostoyaniya</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956807-sin-rogozina-uhudshenii-sostoyaniya</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/xtxs2/normal-17ug.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 15:47:43 +0300</pubDate>
+</item>
+<item>
+  <title>В России начало расти число угонов автомобилей</title>
+  <link>https://www.vedomosti.ru/auto/news/2022/12/23/956801-v-rossii-nachalo-rasti-chislo-ugonov</link>
+  <guid>https://www.vedomosti.ru/auto/news/2022/12/23/956801-v-rossii-nachalo-rasti-chislo-ugonov</guid>
+  <pdalink>https://www.vedomosti.ru/auto/news/2022/12/23/956801-v-rossii-nachalo-rasti-chislo-ugonov</pdalink>
+  <author></author>
+  <category>Авто</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/x2cy1/normal-16up.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 15:30:19 +0300</pubDate>
+</item>
+<item>
+  <title>Два человека погибли при стрельбе в центре Парижа</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956800-dva-cheloveka-pogibli-pri-strelbe-v-tsentre-parizha</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956800-dva-cheloveka-pogibli-pri-strelbe-v-tsentre-parizha</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956800-dva-cheloveka-pogibli-pri-strelbe-v-tsentre-parizha</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/wr6x5/normal-16g8.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 15:19:41 +0300</pubDate>
+</item>
+<item>
+  <title>Правительство выделит фонду «Круг добра» грант в 70 млрд рублей</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956796-pravitelstvo-videlit-fondu-krug-dobra-grant-v-70-mlrd</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956796-pravitelstvo-videlit-fondu-krug-dobra-grant-v-70-mlrd</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956796-pravitelstvo-videlit-fondu-krug-dobra-grant-v-70-mlrd</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/wa4rz/normal-15u5.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 15:04:54 +0300</pubDate>
+</item>
+<item>
+  <title>Лавров выразил сожаление в связи с отказом МИД Армении приехать на переговоры</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956791-lavrov-virazil-sozhalenie-s-otkazom-mid-armenii-priehat-na-peregovori</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956791-lavrov-virazil-sozhalenie-s-otkazom-mid-armenii-priehat-na-peregovori</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956791-lavrov-virazil-sozhalenie-s-otkazom-mid-armenii-priehat-na-peregovori</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/vz7vv/normal-15fz.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 15:03:43 +0300</pubDate>
+</item>
+<item>
+  <title>В Калужской области запретили использовать беспилотники</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956794-v-kaluzhskoi-oblasti-zapretili-ispolzovat-bespilotniki</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956794-v-kaluzhskoi-oblasti-zapretili-ispolzovat-bespilotniki</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956794-v-kaluzhskoi-oblasti-zapretili-ispolzovat-bespilotniki</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/w3kng/normal-15ln.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 15:01:13 +0300</pubDate>
+</item>
+<item>
+  <title>ЦБ рассказал об итогах первого года тестирования неквалифицированных инвесторов</title>
+  <link>https://www.vedomosti.ru/finance/news/2022/12/23/956790-tsb-rasskazal-ob-itogah</link>
+  <guid>https://www.vedomosti.ru/finance/news/2022/12/23/956790-tsb-rasskazal-ob-itogah</guid>
+  <pdalink>https://www.vedomosti.ru/finance/news/2022/12/23/956790-tsb-rasskazal-ob-itogah</pdalink>
+  <author></author>
+  <category>Финансы</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/vimno/normal-14uh.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 14:49:26 +0300</pubDate>
+</item>
+<item>
+  <title>VK Play: 24% россиян планируют в новогоднюю ночь играть в видеоигры</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956789-24-rossiyan-planiruyut-igrat</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956789-24-rossiyan-planiruyut-igrat</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956789-24-rossiyan-planiruyut-igrat</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/v8zm3/normal-14hz.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 14:39:56 +0300</pubDate>
+</item>
+<item>
+  <title>Матвиенко призвала службы такси закупать отечественные автомобили</title>
+  <link>https://www.vedomosti.ru/business/news/2022/12/23/956786-matvienko-taksi-otechestvennie-avtomobili</link>
+  <guid>https://www.vedomosti.ru/business/news/2022/12/23/956786-matvienko-taksi-otechestvennie-avtomobili</guid>
+  <pdalink>https://www.vedomosti.ru/business/news/2022/12/23/956786-matvienko-taksi-otechestvennie-avtomobili</pdalink>
+  <author></author>
+  <category>Бизнес</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/utobu/normal-13y6.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 14:32:28 +0300</pubDate>
+</item>
+<item>
+  <title>МИД: Россия учитывала планы НАТО при подготовке концепции внешней политики</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956785-rossiya-uchitivala-nato</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956785-rossiya-uchitivala-nato</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956785-rossiya-uchitivala-nato</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/uo174/normal-13qu.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 14:24:22 +0300</pubDate>
+</item>
+<item>
+  <title>В Кремле прокомментировали сообщения о разрабатываемом Украиной «мирном плане»</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956779-v-kremle-prokommentirovali</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956779-v-kremle-prokommentirovali</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956779-v-kremle-prokommentirovali</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/uaah4/normal-1391.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 14:12:56 +0300</pubDate>
+</item>
+<item>
+  <title>Суд отказался исключить писателя Глуховского из реестра иноагентов</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956782-sud-otkazalsya-isklyuchit</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956782-sud-otkazalsya-isklyuchit</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956782-sud-otkazalsya-isklyuchit</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/tvxmu/normal-12qf.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 14:07:24 +0300</pubDate>
+</item>
+<item>
+  <title>Песков заявил о существенном продвижении в демилитаризации Украины</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956781-peskov-suschestvennom-prodvizhenii-demilitarizatsii-ukraini</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956781-peskov-suschestvennom-prodvizhenii-demilitarizatsii-ukraini</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956781-peskov-suschestvennom-prodvizhenii-demilitarizatsii-ukraini</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/tpq6d/normal-12id.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 13:47:43 +0300</pubDate>
+</item>
+<item>
+  <title>Суд прекратил дело экс-депутата Мамонтова, сбившего ребенка</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956777-sud-prekratil-delo-eks-deputata-mamontova</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956777-sud-prekratil-delo-eks-deputata-mamontova</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956777-sud-prekratil-delo-eks-deputata-mamontova</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <pubDate>Fri, 23 Dec 2022 13:36:50 +0300</pubDate>
+</item>
+<item>
+  <title>В Кремле заявили, что указ по «Газпрому» не является ответом на потолок цен ЕС</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956775-kremle-ukaz-gazpromu-otvetom-potolok-tsen</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956775-kremle-ukaz-gazpromu-otvetom-potolok-tsen</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956775-kremle-ukaz-gazpromu-otvetom-potolok-tsen</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/t1hcs/normal-11mz.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 13:30:58 +0300</pubDate>
+</item>
+<item>
+  <title>В Мелитополе взорвался автомобиль</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956771-melitopole-vzorvalsya-avtomobil</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956771-melitopole-vzorvalsya-avtomobil</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956771-melitopole-vzorvalsya-avtomobil</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/s8bd8/normal-10l5.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 13:07:59 +0300</pubDate>
+</item>
+<item>
+  <title>Суд в Москве оштрафовал комиссию по сохранению наследия Сахарова на 5 млн рублей</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956768-sud-oshtrafoval-komissiyu-sohraneniyu-naslediya-saharova</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956768-sud-oshtrafoval-komissiyu-sohraneniyu-naslediya-saharova</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956768-sud-oshtrafoval-komissiyu-sohraneniyu-naslediya-saharova</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/rvg98/normal-104h.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 12:53:16 +0300</pubDate>
+</item>
+<item>
+  <title>В Южной Корее сообщили о пуске двух баллистических ракет со стороны КНДР</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956767-v-yuzhnoi-koree-soobschili-o-puske-raket</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956767-v-yuzhnoi-koree-soobschili-o-puske-raket</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956767-v-yuzhnoi-koree-soobschili-o-puske-raket</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <pubDate>Fri, 23 Dec 2022 12:51:39 +0300</pubDate>
+</item>
+<item>
+  <title>Meta выплатит рекордные $725 млн по делу о незаконной передаче персональных данных</title>
+  <link>https://www.vedomosti.ru/technology/news/2022/12/23/956745-meta-viplatit-rekordnie-725-mln</link>
+  <guid>https://www.vedomosti.ru/technology/news/2022/12/23/956745-meta-viplatit-rekordnie-725-mln</guid>
+  <pdalink>https://www.vedomosti.ru/technology/news/2022/12/23/956745-meta-viplatit-rekordnie-725-mln</pdalink>
+  <author></author>
+  <category>Бизнес</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/qifs9/normal-ycz.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 12:47:59 +0300</pubDate>
+</item>
+<item>
+  <title>Песков заявил об отсутствии контактов по переговорам Путина и Байдена</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956765-peskov-zayavil-ob-otsutstvii-kontaktov-po-peregovoram</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956765-peskov-zayavil-ob-otsutstvii-kontaktov-po-peregovoram</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956765-peskov-zayavil-ob-otsutstvii-kontaktov-po-peregovoram</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/rd2z4/normal-zgo.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 12:44:42 +0300</pubDate>
+</item>
+<item>
+  <title>Совфед одобрил закон об уголовной ответственности за осквернение георгиевской ленты</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956756-ugolovnuyu-otvetstvennost-za-oskvernenie-georgievskoi-lenti</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956756-ugolovnuyu-otvetstvennost-za-oskvernenie-georgievskoi-lenti</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956756-ugolovnuyu-otvetstvennost-za-oskvernenie-georgievskoi-lenti</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/r26pk/normal-z2j.png" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 12:36:14 +0300</pubDate>
+</item>
+<item>
+  <title>Politico: США впервые с февраля могут начать обучать ВСУ на своей территории</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956753-politico-ssha-vpervie-s-fevralya-obuchat-vsu</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956753-politico-ssha-vpervie-s-fevralya-obuchat-vsu</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956753-politico-ssha-vpervie-s-fevralya-obuchat-vsu</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/qu0p1/normal-ys1.png" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 12:33:29 +0300</pubDate>
+</item>
+<item>
+  <title>«Коммерсантъ» узнал о возможном снижении ценза для инвесторов до 20 млн рублей</title>
+  <link>https://www.vedomosti.ru/finance/news/2022/12/23/956755-kommersant-tsenza-investorov</link>
+  <guid>https://www.vedomosti.ru/finance/news/2022/12/23/956755-kommersant-tsenza-investorov</guid>
+  <pdalink>https://www.vedomosti.ru/finance/news/2022/12/23/956755-kommersant-tsenza-investorov</pdalink>
+  <author></author>
+  <category>Финансы</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/qm13x/normal-yhl.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 12:25:07 +0300</pubDate>
+</item>
+<item>
+  <title>WSJ: врачи в США призвали снять с продажи «Терафлю» из-за его неэффективности</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956744-wsj-teraflyu</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956744-wsj-teraflyu</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956744-wsj-teraflyu</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/pg5w6/normal-wzc.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 11:50:32 +0300</pubDate>
+</item>
+<item>
+  <title>ФСБ сообщила о задержании россиян в нескольких регионах за шпионаж</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956739-fsb-o-zaderzhanii-rossiyan-za-shpionazh</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956739-fsb-o-zaderzhanii-rossiyan-za-shpionazh</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956739-fsb-o-zaderzhanii-rossiyan-za-shpionazh</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/p4t18/normal-wkn.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 11:41:46 +0300</pubDate>
+</item>
+<item>
+  <title>Новак назвал главную жертву ограничения цен на газ</title>
+  <link>https://www.vedomosti.ru/economics/news/2022/12/23/956733-novak-nazval-glavnuyu-zhertvu-ogranicheniya-tsen</link>
+  <guid>https://www.vedomosti.ru/economics/news/2022/12/23/956733-novak-nazval-glavnuyu-zhertvu-ogranicheniya-tsen</guid>
+  <pdalink>https://www.vedomosti.ru/economics/news/2022/12/23/956733-novak-nazval-glavnuyu-zhertvu-ogranicheniya-tsen</pdalink>
+  <author></author>
+  <category>Экономика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/nz3gw/normal-v2k.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 11:39:50 +0300</pubDate>
+</item>
+<item>
+  <title>Совфед одобрил приостановку взыскания долгов с мобилизованных</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956736-sovfed-odobril-priostanovku-vziskaniya-dolgov-s-mobilizovannih</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956736-sovfed-odobril-priostanovku-vziskaniya-dolgov-s-mobilizovannih</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956736-sovfed-odobril-priostanovku-vziskaniya-dolgov-s-mobilizovannih</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/ofb5b/normal-vnm.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 11:24:53 +0300</pubDate>
+</item>
+<item>
+  <title>Автостраховщики сообщили о подорожании запчастей в среднем на 27,7%</title>
+  <link>https://www.vedomosti.ru/auto/news/2022/12/23/956735-avtostrahovschiki-soobschili-o-podorozhanii-zapchastei</link>
+  <guid>https://www.vedomosti.ru/auto/news/2022/12/23/956735-avtostrahovschiki-soobschili-o-podorozhanii-zapchastei</guid>
+  <pdalink>https://www.vedomosti.ru/auto/news/2022/12/23/956735-avtostrahovschiki-soobschili-o-podorozhanii-zapchastei</pdalink>
+  <author></author>
+  <category>Авто</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/o7w1n/normal-vdy.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 11:12:42 +0300</pubDate>
+</item>
+<item>
+  <title>Совет Федерации одобрил закон о пожизненном наказании за диверсии</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956734-sovet-federatsii-nakazanii-diversii</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956734-sovet-federatsii-nakazanii-diversii</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956734-sovet-federatsii-nakazanii-diversii</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/numcn/normal-uwr.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 11:05:13 +0300</pubDate>
+</item>
+<item>
+  <title>Мурашко поручил усилить работу всей системы здравоохранения в праздники</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956728-murashko-poruchil-usilit-rabotu-vsei-sistemi</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956728-murashko-poruchil-usilit-rabotu-vsei-sistemi</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956728-murashko-poruchil-usilit-rabotu-vsei-sistemi</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/nghlv/normal-ueg.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 10:57:49 +0300</pubDate>
+</item>
+<item>
+  <title>Шойгу прибыл в Ижевск для проверки выполнения гособоронзаказа</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956729-shoigu-izhevsk-gosoboronzakaza</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956729-shoigu-izhevsk-gosoboronzakaza</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956729-shoigu-izhevsk-gosoboronzakaza</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/nimr9/normal-uh8.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 10:55:46 +0300</pubDate>
+</item>
+<item>
+  <title>Жители новых регионов смогут получить помощь в трудоустройстве с 1 января</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956723-zhiteli-novih-regionov-smogut-poluchit-pomosch-v-trudoustroistve</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956723-zhiteli-novih-regionov-smogut-poluchit-pomosch-v-trudoustroistve</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956723-zhiteli-novih-regionov-smogut-poluchit-pomosch-v-trudoustroistve</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/n1y08/normal-tvm.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 10:44:38 +0300</pubDate>
+</item>
+<item>
+  <title>Медведев прокомментировал решение ЕС ввести ценовой потолок на газ</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956727-medvedev-tsenovoi-potolok</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956727-medvedev-tsenovoi-potolok</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956727-medvedev-tsenovoi-potolok</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/n4ocy/normal-tz5.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 10:40:21 +0300</pubDate>
+</item>
+<item>
+  <title>Посол Кении ответил на слова Борреля в адрес поддерживающих Россию африканцев</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956724-posol-kenii-otvetil-na-slova-borrelya</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956724-posol-kenii-otvetil-na-slova-borrelya</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956724-posol-kenii-otvetil-na-slova-borrelya</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/mk8a8/normal-t8n.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 10:33:38 +0300</pubDate>
+</item>
+<item>
+  <title>Должность президента Татарстана переименуют в Раиса</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956725-dolzhnost-prezidenta-tatarstana-pereimenovana</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956725-dolzhnost-prezidenta-tatarstana-pereimenovana</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956725-dolzhnost-prezidenta-tatarstana-pereimenovana</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <pubDate>Fri, 23 Dec 2022 10:31:00 +0300</pubDate>
+</item>
+<item>
+  <title>ФОМ: уровень тревожности россиян вновь вырос до 57%</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956722-fom-uroven-trevozhnosti-rossiyan-vnov-viros</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956722-fom-uroven-trevozhnosti-rossiyan-vnov-viros</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956722-fom-uroven-trevozhnosti-rossiyan-vnov-viros</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/mcy4u/normal-sz7.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 10:21:10 +0300</pubDate>
+</item>
+<item>
+  <title>Сенат США одобрил изъятие российских активов в пользу Украины</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956721-senat-ssha-izyatie-rossiiskih-aktivov</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956721-senat-ssha-izyatie-rossiiskih-aktivov</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956721-senat-ssha-izyatie-rossiiskih-aktivov</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/m2kbj/normal-sls.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 10:17:03 +0300</pubDate>
+</item>
+<item>
+  <title>В Москве построят «Кобзон центр»</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956719-v-basmannom-raione-moskvi-postroyat-kobzon-tsentr</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956719-v-basmannom-raione-moskvi-postroyat-kobzon-tsentr</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956719-v-basmannom-raione-moskvi-postroyat-kobzon-tsentr</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/lxqjt/normal-sfi.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 10:16:04 +0300</pubDate>
+</item>
+<item>
+  <title>Новак: без энергоресурсов России будет сложно обеспечить глобальное экономическое развитие</title>
+  <link>https://www.vedomosti.ru/economics/news/2022/12/23/956716-novak-bez-energoresursov-rossii-budet-slozhno-obespechit-globalnoe</link>
+  <guid>https://www.vedomosti.ru/economics/news/2022/12/23/956716-novak-bez-energoresursov-rossii-budet-slozhno-obespechit-globalnoe</guid>
+  <pdalink>https://www.vedomosti.ru/economics/news/2022/12/23/956716-novak-bez-energoresursov-rossii-budet-slozhno-obespechit-globalnoe</pdalink>
+  <author></author>
+  <category>Экономика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/l1gm8/normal-r9p.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 09:51:22 +0300</pubDate>
+</item>
+<item>
+  <title>Жена Рогозина опровергла сообщения о своей контузии</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956717-zhena-rogozina-oprovergla-soobscheniya-o-svoei-kontuzii</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956717-zhena-rogozina-oprovergla-soobscheniya-o-svoei-kontuzii</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956717-zhena-rogozina-oprovergla-soobscheniya-o-svoei-kontuzii</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/l4fdf/normal-rdi.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 09:49:39 +0300</pubDate>
+</item>
+<item>
+  <title>ФАС согласовала покупку «Джамилько» российского бизнеса Mothercare</title>
+  <link>https://www.vedomosti.ru/business/news/2022/12/23/956715-fas-dzhamilko</link>
+  <guid>https://www.vedomosti.ru/business/news/2022/12/23/956715-fas-dzhamilko</guid>
+  <pdalink>https://www.vedomosti.ru/business/news/2022/12/23/956715-fas-dzhamilko</pdalink>
+  <author></author>
+  <category>Бизнес</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/kx3p2/normal-r40.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 09:42:32 +0300</pubDate>
+</item>
+<item>
+  <title>Минпросвещение: наработки нового учебника по истории представят в начале февраля</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956714-minprosveschenie-narabotki-novogo-uchebnika</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956714-minprosveschenie-narabotki-novogo-uchebnika</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956714-minprosveschenie-narabotki-novogo-uchebnika</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/ko17f/normal-qsa.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 09:39:41 +0300</pubDate>
+</item>
+<item>
+  <title>МВД зафиксировало рекордное число экстремистских преступлений с начала года</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956712-mvd-zafiksirovalo-rekordnoe-chislo-ekstremistskih-prestuplenii</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956712-mvd-zafiksirovalo-rekordnoe-chislo-ekstremistskih-prestuplenii</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956712-mvd-zafiksirovalo-rekordnoe-chislo-ekstremistskih-prestuplenii</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/kfc8e/normal-qh1.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 09:19:15 +0300</pubDate>
+</item>
+<item>
+  <title>Росавиация продлила режим ограничения полетов до 2 января</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956711-rosaviatsiya-prodlila-rezhim-ogranicheniya-poletov</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956711-rosaviatsiya-prodlila-rezhim-ogranicheniya-poletov</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956711-rosaviatsiya-prodlila-rezhim-ogranicheniya-poletov</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9x/kc51f/normal-qcu.jpg" type="image/jpeg"/>
+  <pubDate>Fri, 23 Dec 2022 09:10:02 +0300</pubDate>
+</item>
+<item>
+  <title>Раненного в Донецке Рогозина перевезут в Москву</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/23/956709-ranenogo-v-donetske-rogozina-perevezut-v-moskvu</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/23/956709-ranenogo-v-donetske-rogozina-perevezut-v-moskvu</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/23/956709-ranenogo-v-donetske-rogozina-perevezut-v-moskvu</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <pubDate>Fri, 23 Dec 2022 08:55:02 +0300</pubDate>
+</item>
+<item>
+  <title>Посол Индии заявил о планах Моди и Путина встретиться в 2023 году</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956707-o-planah-modi-i-putina-vstretitsya</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956707-o-planah-modi-i-putina-vstretitsya</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956707-o-planah-modi-i-putina-vstretitsya</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <pubDate>Fri, 23 Dec 2022 08:37:10 +0300</pubDate>
+</item>
+<item>
+  <title>Новак: Россия запретит поставки нефти в поддержавшие потолок цен страны</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956705-novak-rossiya-zapretit-postavki-nefti</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956705-novak-rossiya-zapretit-postavki-nefti</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956705-novak-rossiya-zapretit-postavki-nefti</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <pubDate>Fri, 23 Dec 2022 08:17:27 +0300</pubDate>
+</item>
+<item>
+  <title>Основателя криптобиржи FTX Бэнкмана-Фрида отпустили под залог в $250 млн</title>
+  <link>https://www.vedomosti.ru/finance/news/2022/12/23/956704-osnovatelya-kriptobirzhi-ftx-benkmana-frida-otpustili</link>
+  <guid>https://www.vedomosti.ru/finance/news/2022/12/23/956704-osnovatelya-kriptobirzhi-ftx-benkmana-frida-otpustili</guid>
+  <pdalink>https://www.vedomosti.ru/finance/news/2022/12/23/956704-osnovatelya-kriptobirzhi-ftx-benkmana-frida-otpustili</pdalink>
+  <author></author>
+  <category>Финансы</category>
+  <pubDate>Fri, 23 Dec 2022 07:56:35 +0300</pubDate>
+</item>
+<item>
+  <title>МИД: обсуждения гарантий безопасности невозможны, пока на Украине есть инструкторы НАТО</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/23/956703-obsuzhdeniya-garantii-bezopasnosti-nevozmozhni-poka-na-ukraine-est</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/23/956703-obsuzhdeniya-garantii-bezopasnosti-nevozmozhni-poka-na-ukraine-est</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/23/956703-obsuzhdeniya-garantii-bezopasnosti-nevozmozhni-poka-na-ukraine-est</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <pubDate>Fri, 23 Dec 2022 07:31:18 +0300</pubDate>
+</item>
+  </channel>
+</rss>

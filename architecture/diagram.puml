@@ -1,0 +1,42 @@
+@startuml
+!include <logos/flask.puml>
+!include <logos/django.puml>
+!include <logos/redis.puml>
+!include <logos/postgresql.puml>
+!include <logos/ElasticSearch.puml>
+!include <logos/python.puml>
+!include <logos/react.puml>
+!include <logos/kafka.puml>
+!include <logos/nginx.puml>
+'!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/master/C4_Component.puml
+!include <c4/C4_Component.puml>
+
+title ETL Service
+
+LAYOUT_LANDSCAPE()
+
+
+actor DE as DE
+actor Аналитик as Analytic
+
+Boundary(Frontend, "Новостные сайты", "<$react>") #9a9a9a;line:grey;text:white
+
+Boundary(ETL, "ETL Service") {
+  Component(Parser, "Parser", "python")
+  Component(Etl, "ETL", "python")
+  Component(Data, "DATA", "файловая система")
+}
+Boundary(Analytics, "") {
+ContainerDb(Postgresql, "News DB", "<$postgresql>", "БД\nновостей")
+}
+Component(sql, "SQL", "Формирование витрины")
+
+Rel(Frontend, Parser, "Читает rss-ленты")
+Rel_U(Parser, Data, "Пишет файлы txt\nв архив")
+Rel_U(Data, Etl, "Преобразует данные")
+Rel(Etl, Postgresql, "Пишет данные в DB")
+Rel_D(sql, Postgresql, "Формирует витрину")
+Rel_D(DE, sql, "sql запросы")
+Rel(Postgresql, Analytic, "Получает витрину")
+
+@enduml

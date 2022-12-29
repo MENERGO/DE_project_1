@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>"Ведомости". Ежедневная деловая газета</title>
+    <link>https://www.vedomosti.ru</link>
+    <description>"Ведомости". Новости, 26.12.2022</description>
+    <image>
+      <url>https://cdn.vdmsti.ru/assets/rss_logo.gif</url>
+      <title>"Ведомости". Ежедневная деловая газета</title>
+      <link>https://www.vedomosti.ru</link>
+    </image>
+<item>
+  <title>Акционеры «Роснефти» одобрили промежуточные дивиденды в размере 20,39 рубля на акцию</title>
+  <link>https://www.vedomosti.ru/finance/news/2022/12/26/957087-aktsioneri-rosnefti-odobrili-dividendi</link>
+  <guid>https://www.vedomosti.ru/finance/news/2022/12/26/957087-aktsioneri-rosnefti-odobrili-dividendi</guid>
+  <pdalink>https://www.vedomosti.ru/finance/news/2022/12/26/957087-aktsioneri-rosnefti-odobrili-dividendi</pdalink>
+  <author></author>
+  <category>Финансы</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/uiq9o/normal-13jz.jpg" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 14:25:19 +0300</pubDate>
+</item>
+<item>
+  <title>Лавров заявил о нежелании Запада и Киева идти на компромиссы</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/957088-lavrov-zayavil-o-nezhelanii</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/957088-lavrov-zayavil-o-nezhelanii</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/957088-lavrov-zayavil-o-nezhelanii</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/ul76h/normal-13n6.jpg" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 14:21:23 +0300</pubDate>
+</item>
+<item>
+  <title>Лавров допустил скорое сокращение возможностей Запада «рулить» в мировой экономике</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/957079-lavrov-dopustil-sokraschenie</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/957079-lavrov-dopustil-sokraschenie</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/957079-lavrov-dopustil-sokraschenie</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/u91zq/normal-137e.jpg" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 14:18:01 +0300</pubDate>
+</item>
+<item>
+  <title>Суд приговорил к 16 годам убийцу «вора в законе» в фитнес-клубе Москвы</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/26/957082-sud-prigovoril-k-16-godam-ubiitsu-v-fitnes-klube</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/26/957082-sud-prigovoril-k-16-godam-ubiitsu-v-fitnes-klube</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/26/957082-sud-prigovoril-k-16-godam-ubiitsu-v-fitnes-klube</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/u7aww/normal-1356.jpg" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 14:00:46 +0300</pubDate>
+</item>
+<item>
+  <title>ОДК начала летные испытания двигателя для пассажирского SSJ New</title>
+  <link>https://www.vedomosti.ru/business/news/2022/12/26/957081-odk-nachala-letnie-ispitaniya-dvigatelya-pd-8</link>
+  <guid>https://www.vedomosti.ru/business/news/2022/12/26/957081-odk-nachala-letnie-ispitaniya-dvigatelya-pd-8</guid>
+  <pdalink>https://www.vedomosti.ru/business/news/2022/12/26/957081-odk-nachala-letnie-ispitaniya-dvigatelya-pd-8</pdalink>
+  <author></author>
+  <category>Бизнес</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/tlom9/normal-12d5.jpg" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 13:53:28 +0300</pubDate>
+</item>
+<item>
+  <title>Песков: Путин не будет поздравлять Байдена с Новым годом</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/957074-peskov-baidena-novim-godom</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/957074-peskov-baidena-novim-godom</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/957074-peskov-baidena-novim-godom</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/t78nc/normal-11ue.jpg" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 13:34:09 +0300</pubDate>
+</item>
+<item>
+  <title>Лавров обвинил Белый дом в стремлениях к «концу истории» по Фукуяме</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/957068-lavrov-obvinil-belii-dom</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/957068-lavrov-obvinil-belii-dom</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/957068-lavrov-obvinil-belii-dom</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/sskg7/normal-11bf.jpg" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 13:26:48 +0300</pubDate>
+</item>
+<item>
+  <title>Южнокорейские военные заявили о вторжении пяти беспилотников из КНДР</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/957065-yuzhnokoreiskie-voennie-zayavili-o-pyati-vtorgshihsya</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/957065-yuzhnokoreiskie-voennie-zayavili-o-pyati-vtorgshihsya</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/957065-yuzhnokoreiskie-voennie-zayavili-o-pyati-vtorgshihsya</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/rym80/normal-108k.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 13:18:10 +0300</pubDate>
+</item>
+<item>
+  <title>Песков сообщил об отсутствии планов у Путина звонить Макрону</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/957067-peskov-putina-makronu</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/957067-peskov-putina-makronu</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/957067-peskov-putina-makronu</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/sc1h4/normal-10q0.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 13:09:09 +0300</pubDate>
+</item>
+<item>
+  <title>ЦБ объяснил декабрьское ослабление рубля</title>
+  <link>https://www.vedomosti.ru/economics/news/2022/12/26/957063-tsb-obyasnil-dekabrskoe-oslablenie-rublya</link>
+  <guid>https://www.vedomosti.ru/economics/news/2022/12/26/957063-tsb-obyasnil-dekabrskoe-oslablenie-rublya</guid>
+  <pdalink>https://www.vedomosti.ru/economics/news/2022/12/26/957063-tsb-obyasnil-dekabrskoe-oslablenie-rublya</pdalink>
+  <author></author>
+  <category>Экономика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/rd43l/normal-zgq.jpg" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 12:51:20 +0300</pubDate>
+</item>
+<item>
+  <title>Встречи Путина, Алиева и Пашиняна на саммите СНГ не будет</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/957061-kremle-putina-alieva-pashinyana</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/957061-kremle-putina-alieva-pashinyana</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/957061-kremle-putina-alieva-pashinyana</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/rcxgq/normal-zgj.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 12:42:21 +0300</pubDate>
+</item>
+<item>
+  <title>В Кремле сообщили о подготовке к переговорам между Путиным и Си Цзиньпином</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/957052-o-podgotovke-k-peregovoram-mezhdu-putinim-i-si</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/957052-o-podgotovke-k-peregovoram-mezhdu-putinim-i-si</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/957052-o-podgotovke-k-peregovoram-mezhdu-putinim-i-si</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <pubDate>Mon, 26 Dec 2022 12:34:44 +0300</pubDate>
+</item>
+<item>
+  <title>МИД Ирана назвал угрозы со стороны Украины безответственными</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/957050-mid-irana-nazval-ugrozi-ukraini-bezotvetstvennimi</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/957050-mid-irana-nazval-ugrozi-ukraini-bezotvetstvennimi</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/957050-mid-irana-nazval-ugrozi-ukraini-bezotvetstvennimi</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/qmh6a/normal-yi9.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 12:28:50 +0300</pubDate>
+</item>
+<item>
+  <title>ФАС одобрила покупку владельцем «Вкусно — и точка» логистического партнера McDonald’s</title>
+  <link>https://www.vedomosti.ru/business/news/2022/12/26/957049-fas-odobrila-pokupku-vladeltsem-vkusno-i-tochka-partnera-mcdonalds</link>
+  <guid>https://www.vedomosti.ru/business/news/2022/12/26/957049-fas-odobrila-pokupku-vladeltsem-vkusno-i-tochka-partnera-mcdonalds</guid>
+  <pdalink>https://www.vedomosti.ru/business/news/2022/12/26/957049-fas-odobrila-pokupku-vladeltsem-vkusno-i-tochka-partnera-mcdonalds</pdalink>
+  <author></author>
+  <category>Бизнес</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/qm32n/normal-yho.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 12:26:32 +0300</pubDate>
+</item>
+<item>
+  <title>В Херсонской области сообщили о возвращении части жителей на левый берег</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/957048-hersonskoi-oblasti-vozvraschenii-chasti-zhitelei</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/957048-hersonskoi-oblasti-vozvraschenii-chasti-zhitelei</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/957048-hersonskoi-oblasti-vozvraschenii-chasti-zhitelei</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/qi1lm/normal-yci.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 12:16:43 +0300</pubDate>
+</item>
+<item>
+  <title>Новогодние каникулы в России продлятся с 31 декабря по 8 января</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/26/957039-novogodnie-kanikuli-v-rossii-prodlyatsya-s-31-po-8</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/26/957039-novogodnie-kanikuli-v-rossii-prodlyatsya-s-31-po-8</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/26/957039-novogodnie-kanikuli-v-rossii-prodlyatsya-s-31-po-8</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/p52xd/normal-wkz.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 11:48:30 +0300</pubDate>
+</item>
+<item>
+  <title>Мантуров анонсировал увеличение доли отечественных авто до 80% к 2030 году</title>
+  <link>https://www.vedomosti.ru/business/news/2022/12/26/957041-manturov-otechestvennih-avtomobilei</link>
+  <guid>https://www.vedomosti.ru/business/news/2022/12/26/957041-manturov-otechestvennih-avtomobilei</guid>
+  <pdalink>https://www.vedomosti.ru/business/news/2022/12/26/957041-manturov-otechestvennih-avtomobilei</pdalink>
+  <author></author>
+  <category>Бизнес</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/pc99q/normal-wuc.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 11:47:58 +0300</pubDate>
+</item>
+<item>
+  <title>В Москве зарегистрировали рекордные 98 000 браков за год</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/26/957038-v-moskve-zaregistrirovali-rekordnie-98-000-brakov</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/26/957038-v-moskve-zaregistrirovali-rekordnie-98-000-brakov</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/26/957038-v-moskve-zaregistrirovali-rekordnie-98-000-brakov</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <pubDate>Mon, 26 Dec 2022 11:37:02 +0300</pubDate>
+</item>
+<item>
+  <title>Россия на 25% увеличила экспорт продовольствия в дружественные страны</title>
+  <link>https://www.vedomosti.ru/economics/news/2022/12/26/957031-rossiya-v-etom-godu-na-25-uvelichila-eksport-prodovolstviya</link>
+  <guid>https://www.vedomosti.ru/economics/news/2022/12/26/957031-rossiya-v-etom-godu-na-25-uvelichila-eksport-prodovolstviya</guid>
+  <pdalink>https://www.vedomosti.ru/economics/news/2022/12/26/957031-rossiya-v-etom-godu-na-25-uvelichila-eksport-prodovolstviya</pdalink>
+  <author></author>
+  <category>Экономика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/obnw5/normal-viw.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 11:18:29 +0300</pubDate>
+</item>
+<item>
+  <title>«Авито» назвал закрытые города с самой дорогой недвижимостью</title>
+  <link>https://www.vedomosti.ru/realty/news/2022/12/26/957033-avito-zakritie-goroda</link>
+  <guid>https://www.vedomosti.ru/realty/news/2022/12/26/957033-avito-zakritie-goroda</guid>
+  <pdalink>https://www.vedomosti.ru/realty/news/2022/12/26/957033-avito-zakritie-goroda</pdalink>
+  <author></author>
+  <category>Недвижимость</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/o6x44/normal-vcr.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 11:13:41 +0300</pubDate>
+</item>
+<item>
+  <title>Yonhap: беспилотники КНДР нарушили воздушное пространство Южной Кореи</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/957029-yonhap-bespilotniki-kndr-narushili-vozdushnoe-prostranstvo-korei</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/957029-yonhap-bespilotniki-kndr-narushili-vozdushnoe-prostranstvo-korei</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/957029-yonhap-bespilotniki-kndr-narushili-vozdushnoe-prostranstvo-korei</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <pubDate>Mon, 26 Dec 2022 11:11:48 +0300</pubDate>
+</item>
+<item>
+  <title>Стоимость поздравления от Деда Мороза и Снегурочки за год выросла на 20%</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/26/957023-stoimost-pozdravleniya-ot-deda-moroza</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/26/957023-stoimost-pozdravleniya-ot-deda-moroza</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/26/957023-stoimost-pozdravleniya-ot-deda-moroza</pdalink>
+  <author></author>
+  <category>Бизнес</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/n1cyd/normal-tuz.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 10:47:15 +0300</pubDate>
+</item>
+<item>
+  <title>Apple отказалась адаптировать телефоны под российские сети связи</title>
+  <link>https://www.vedomosti.ru/business/news/2022/12/26/957015-apple-otkazalas-adaptirovat-iphone</link>
+  <guid>https://www.vedomosti.ru/business/news/2022/12/26/957015-apple-otkazalas-adaptirovat-iphone</guid>
+  <pdalink>https://www.vedomosti.ru/business/news/2022/12/26/957015-apple-otkazalas-adaptirovat-iphone</pdalink>
+  <author></author>
+  <category>Технологии</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/mr7zl/normal-thp.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 10:43:29 +0300</pubDate>
+</item>
+<item>
+  <title>В 2022 году экспорт «Росатома» превысит $10 млрд</title>
+  <link>https://www.vedomosti.ru/business/news/2022/12/26/957014-eksport-rosatoma</link>
+  <guid>https://www.vedomosti.ru/business/news/2022/12/26/957014-eksport-rosatoma</guid>
+  <pdalink>https://www.vedomosti.ru/business/news/2022/12/26/957014-eksport-rosatoma</pdalink>
+  <author></author>
+  <category>Бизнес</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/mohxd/normal-te6.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 10:32:31 +0300</pubDate>
+</item>
+<item>
+  <title>Глава МИД Казахстана пообещал не помогать России обходить западные санкции</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/957011-glava-mid-kazahstana-poobeschal-ne-pomogat-rossii</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/957011-glava-mid-kazahstana-poobeschal-ne-pomogat-rossii</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/957011-glava-mid-kazahstana-poobeschal-ne-pomogat-rossii</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/m8x3n/normal-su1.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 10:23:49 +0300</pubDate>
+</item>
+<item>
+  <title>Спецслужбы пресекли деятельность группы, отправлявшей боевиков в Сирию и на Украину</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/957009-spetssluzhbi-presekli-deyatelnost-gruppi-otpravlyavshei-boevikov</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/957009-spetssluzhbi-presekli-deyatelnost-gruppi-otpravlyavshei-boevikov</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/957009-spetssluzhbi-presekli-deyatelnost-gruppi-otpravlyavshei-boevikov</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/llk2u/normal-rzr.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 10:01:13 +0300</pubDate>
+</item>
+<item>
+  <title>Минэкономразвития выдало технологическим компаниям гранты на 4,7 млрд рублей</title>
+  <link>https://www.vedomosti.ru/business/news/2022/12/26/957007-minekonomrazvitiya-vidalo-tehnologicheskim-kompaniyam</link>
+  <guid>https://www.vedomosti.ru/business/news/2022/12/26/957007-minekonomrazvitiya-vidalo-tehnologicheskim-kompaniyam</guid>
+  <pdalink>https://www.vedomosti.ru/business/news/2022/12/26/957007-minekonomrazvitiya-vidalo-tehnologicheskim-kompaniyam</pdalink>
+  <author></author>
+  <category>Бизнес</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/leyc4/normal-rr6.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 09:57:00 +0300</pubDate>
+</item>
+<item>
+  <title>В Минстрое предложили учитывать доходы россиян при повышении тарифов на ЖКУ</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/26/957004-v-minstroe-predlozhili-uchitivat-dohodi-rossiyan</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/26/957004-v-minstroe-predlozhili-uchitivat-dohodi-rossiyan</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/26/957004-v-minstroe-predlozhili-uchitivat-dohodi-rossiyan</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <pubDate>Mon, 26 Dec 2022 09:37:29 +0300</pubDate>
+</item>
+<item>
+  <title>Эрдоган заявил об отсутствии усилий Запада в разрешении конфликта на Украине</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/957003-erdogan-otsutstvii-usilii-zapada</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/957003-erdogan-otsutstvii-usilii-zapada</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/957003-erdogan-otsutstvii-usilii-zapada</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/ki592/normal-qkm.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 09:33:03 +0300</pubDate>
+</item>
+<item>
+  <title>Владелец сгоревшего приюта в Кемерове признал вину</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/26/957002-vladelets-sgorevshego-priyuta-v-kemerove-priznal-vinu</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/26/957002-vladelets-sgorevshego-priyuta-v-kemerove-priznal-vinu</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/26/957002-vladelets-sgorevshego-priyuta-v-kemerove-priznal-vinu</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/a0/jvtla/normal-prs.gif" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 09:28:27 +0300</pubDate>
+</item>
+<item>
+  <title>Новак спрогнозировал снижение экспорта газа на четверть по итогам года</title>
+  <link>https://www.vedomosti.ru/economics/news/2022/12/26/957001-novak-sprognoziroval-snizhenie-eksporta-gaza</link>
+  <guid>https://www.vedomosti.ru/economics/news/2022/12/26/957001-novak-sprognoziroval-snizhenie-eksporta-gaza</guid>
+  <pdalink>https://www.vedomosti.ru/economics/news/2022/12/26/957001-novak-sprognoziroval-snizhenie-eksporta-gaza</pdalink>
+  <author></author>
+  <category>Экономика</category>
+  <pubDate>Mon, 26 Dec 2022 08:51:43 +0300</pubDate>
+</item>
+<item>
+  <title>Три человека погибли на военном аэродроме в Саратовской области</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/956999-tri-cheloveka-pogibli-na-voennom-aerodrome</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/956999-tri-cheloveka-pogibli-na-voennom-aerodrome</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/956999-tri-cheloveka-pogibli-na-voennom-aerodrome</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <pubDate>Mon, 26 Dec 2022 08:22:37 +0300</pubDate>
+</item>
+<item>
+  <title>Медведев подвел итоги 2022 года</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/956998-medvedev-podvel-itogi</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/956998-medvedev-podvel-itogi</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/956998-medvedev-podvel-itogi</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <pubDate>Mon, 26 Dec 2022 08:12:51 +0300</pubDate>
+</item>
+<item>
+  <title>Сделку по продаже фабрики IKEA в Новгороде могут закрыть начале 2023 года</title>
+  <link>https://www.vedomosti.ru/business/news/2022/12/26/956997-o-planah-zakrit-sdelku-po-prodazhe-fabriki-ikea</link>
+  <guid>https://www.vedomosti.ru/business/news/2022/12/26/956997-o-planah-zakrit-sdelku-po-prodazhe-fabriki-ikea</guid>
+  <pdalink>https://www.vedomosti.ru/business/news/2022/12/26/956997-o-planah-zakrit-sdelku-po-prodazhe-fabriki-ikea</pdalink>
+  <author></author>
+  <category>Бизнес</category>
+  <pubDate>Mon, 26 Dec 2022 07:41:00 +0300</pubDate>
+</item>
+<item>
+  <title>В Саратовской области сообщили о проверке информации о ЧП на военном объекте</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/956996-v-saratovskoi-oblasti-o-chp</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/956996-v-saratovskoi-oblasti-o-chp</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/956996-v-saratovskoi-oblasti-o-chp</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <pubDate>Mon, 26 Dec 2022 07:25:13 +0300</pubDate>
+</item>
+<item>
+  <title>КС разъяснил порядок заключения соглашения с единственным участником торгов</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/26/956990-ks-razyasnil-poryadok-zaklyucheniya-soglasheniya</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/26/956990-ks-razyasnil-poryadok-zaklyucheniya-soglasheniya</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/26/956990-ks-razyasnil-poryadok-zaklyucheniya-soglasheniya</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9z/1b47ee/normal-1p2a.jpg" type="image/jpeg"/>
+  <pubDate>Mon, 26 Dec 2022 00:13:44 +0300</pubDate>
+</item>
+  </channel>
+</rss>

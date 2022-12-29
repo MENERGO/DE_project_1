@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>"Ведомости". Ежедневная деловая газета</title>
+    <link>https://www.vedomosti.ru</link>
+    <description>"Ведомости". Новости, 19.12.2022</description>
+    <image>
+      <url>https://cdn.vdmsti.ru/assets/rss_logo.gif</url>
+      <title>"Ведомости". Ежедневная деловая газета</title>
+      <link>https://www.vedomosti.ru</link>
+    </image>
+<item>
+  <title>В кабмин поступил законопроект об ответственности за кражу персональных данных</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/15/955553-v-kabmin-postupil-zakonoproekt</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/15/955553-v-kabmin-postupil-zakonoproekt</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/15/955553-v-kabmin-postupil-zakonoproekt</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9p/1cuf6c/normal-1rax.jpg" type="image/jpeg"/>
+  <pubDate>Thu, 15 Dec 2022 22:51:57 +0300</pubDate>
+</item>
+<item>
+  <title>ЕС может отложить принятие новых антироссийских санкций из-за позиции Польши</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/15/955544-es-sanktsii</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/15/955544-es-sanktsii</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/15/955544-es-sanktsii</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9p/1c1er3/normal-1q9b.jpg" type="image/jpeg"/>
+  <pubDate>Thu, 15 Dec 2022 22:29:23 +0300</pubDate>
+</item>
+<item>
+  <title>Боснии и Герцеговине предоставили статус кандидата на вступление в ЕС</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/15/955542-bosniya-gertsegovina</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/15/955542-bosniya-gertsegovina</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/15/955542-bosniya-gertsegovina</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9p/1b5zvg/normal-1p4l.jpg" type="image/jpeg"/>
+  <pubDate>Thu, 15 Dec 2022 22:02:53 +0300</pubDate>
+</item>
+<item>
+  <title>Байден предложил Африканскому союзу присоединиться к G20</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/15/955539-baiden-g20</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/15/955539-baiden-g20</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/15/955539-baiden-g20</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9p/19t293/normal-1nd7.jpg" type="image/jpeg"/>
+  <pubDate>Thu, 15 Dec 2022 21:35:28 +0300</pubDate>
+</item>
+  </channel>
+</rss>

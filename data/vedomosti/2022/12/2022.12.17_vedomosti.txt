@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>"Ведомости". Ежедневная деловая газета</title>
+    <link>https://www.vedomosti.ru</link>
+    <description>"Ведомости". Новости, 19.12.2022</description>
+    <image>
+      <url>https://cdn.vdmsti.ru/assets/rss_logo.gif</url>
+      <title>"Ведомости". Ежедневная деловая газета</title>
+      <link>https://www.vedomosti.ru</link>
+    </image>
+<item>
+  <title>Власти Крыма составят список занимающихся вбросами Telegram-каналов</title>
+  <link>https://www.vedomosti.ru/technology/news/2022/12/17/955812-krima-spisok-vbrosami-telegram-kanalov</link>
+  <guid>https://www.vedomosti.ru/technology/news/2022/12/17/955812-krima-spisok-vbrosami-telegram-kanalov</guid>
+  <pdalink>https://www.vedomosti.ru/technology/news/2022/12/17/955812-krima-spisok-vbrosami-telegram-kanalov</pdalink>
+  <author></author>
+  <category>Технологии</category>
+  <pubDate>Sat, 17 Dec 2022 21:13:56 +0300</pubDate>
+</item>
+<item>
+  <title>Захарова: Молдавия зачищает информационное поле от альтернативных точек зрения</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/17/955808-zaharova-moldaviya-zachischaet</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/17/955808-zaharova-moldaviya-zachischaet</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/17/955808-zaharova-moldaviya-zachischaet</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <pubDate>Sat, 17 Dec 2022 19:33:30 +0300</pubDate>
+</item>
+<item>
+  <title>Минцифры предупредило о массовых угонах аккаунтов в Telegram</title>
+  <link>https://www.vedomosti.ru/technology/news/2022/12/17/955807-mintsifri-massovih-ugonah-telegram</link>
+  <guid>https://www.vedomosti.ru/technology/news/2022/12/17/955807-mintsifri-massovih-ugonah-telegram</guid>
+  <pdalink>https://www.vedomosti.ru/technology/news/2022/12/17/955807-mintsifri-massovih-ugonah-telegram</pdalink>
+  <author></author>
+  <category>Технологии</category>
+  <pubDate>Sat, 17 Dec 2022 18:50:34 +0300</pubDate>
+</item>
+<item>
+  <title>Глава СПЧ попросил Госдуму организовать слушания по законопроекту о биометрии</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/17/955804-glava-spch</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/17/955804-glava-spch</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/17/955804-glava-spch</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9r/126s8i/normal-1dhq.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 17 Dec 2022 17:49:16 +0300</pubDate>
+</item>
+<item>
+  <title>Туроператор заявил о возвращении застрявших в Египте россиян рейсами Red Wings</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/17/955803-turoperator</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/17/955803-turoperator</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/17/955803-turoperator</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9r/11b6s6/normal-1ccs.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 17 Dec 2022 17:22:20 +0300</pubDate>
+</item>
+<item>
+  <title>В «Лукойле» заявили, что санкции ЕС могут ограничить работу НПЗ в Болгарии</title>
+  <link>https://www.vedomosti.ru/business/news/2022/12/17/955801-lukoile</link>
+  <guid>https://www.vedomosti.ru/business/news/2022/12/17/955801-lukoile</guid>
+  <pdalink>https://www.vedomosti.ru/business/news/2022/12/17/955801-lukoile</pdalink>
+  <author></author>
+  <category>Бизнес</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9r/10ci00/normal-1b3u.png" type="image/jpeg"/>
+  <pubDate>Sat, 17 Dec 2022 16:57:48 +0300</pubDate>
+</item>
+<item>
+  <title>«Роскосмос» построит в Венесуэле станцию ГЛОНАСС в 2023 году</title>
+  <link>https://www.vedomosti.ru/technology/news/2022/12/17/955800-roskosmos-venesuele-glonass-2023</link>
+  <guid>https://www.vedomosti.ru/technology/news/2022/12/17/955800-roskosmos-venesuele-glonass-2023</guid>
+  <pdalink>https://www.vedomosti.ru/technology/news/2022/12/17/955800-roskosmos-venesuele-glonass-2023</pdalink>
+  <author></author>
+  <category>Технологии</category>
+  <pubDate>Sat, 17 Dec 2022 16:50:58 +0300</pubDate>
+</item>
+<item>
+  <title>В Эстонии утвердили план перевода школ и детсадов на эстоноязычное образование</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/17/955798-estonii</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/17/955798-estonii</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/17/955798-estonii</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <pubDate>Sat, 17 Dec 2022 16:25:19 +0300</pubDate>
+</item>
+<item>
+  <title>Минобороны объяснило ущерб гражданской инфраструктуре Украины работой ПВО</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/17/955795-minoboroni</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/17/955795-minoboroni</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/17/955795-minoboroni</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <pubDate>Sat, 17 Dec 2022 15:42:55 +0300</pubDate>
+</item>
+<item>
+  <title>Минобороны РФ: изменение сроков службы по призыву не предлагается</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/17/955794-minoboroni-izmenenie-srokov-prizivu</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/17/955794-minoboroni-izmenenie-srokov-prizivu</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/17/955794-minoboroni-izmenenie-srokov-prizivu</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <pubDate>Sat, 17 Dec 2022 15:32:46 +0300</pubDate>
+</item>
+<item>
+  <title>Захарова ожидает обострения социально-экономических проблем в ЕС на фоне санкций</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/17/955793-obostreniya-sotsialno-ekonomicheskih</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/17/955793-obostreniya-sotsialno-ekonomicheskih</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/17/955793-obostreniya-sotsialno-ekonomicheskih</pdalink>
+  <author></author>
+  <category>Экономика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9r/wged4/normal-1628.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 17 Dec 2022 15:08:50 +0300</pubDate>
+</item>
+<item>
+  <title>Шольц призвал сохранить «нить переговоров» с Россией вопреки разногласиям</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/17/955790-sholts-sohranit-peregovorov-rossiei</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/17/955790-sholts-sohranit-peregovorov-rossiei</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/17/955790-sholts-sohranit-peregovorov-rossiei</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9r/vgmkd/normal-14rv.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 17 Dec 2022 14:41:49 +0300</pubDate>
+</item>
+<item>
+  <title>В МИДе потребовали отменить санкции ЕС против экспорта сельхозпродукции из РФ</title>
+  <link>https://www.vedomosti.ru/economics/news/2022/12/17/955788-otmenit-sanktsii</link>
+  <guid>https://www.vedomosti.ru/economics/news/2022/12/17/955788-otmenit-sanktsii</guid>
+  <pdalink>https://www.vedomosti.ru/economics/news/2022/12/17/955788-otmenit-sanktsii</pdalink>
+  <author></author>
+  <category>Экономика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9r/u4k91/normal-131l.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 17 Dec 2022 14:06:43 +0300</pubDate>
+</item>
+<item>
+  <title>В Роспотребнадзоре рассказали о непростой ситуации по менингиту среди мигрантов</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/17/955786-rospotrebnadzore-rasskazali</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/17/955786-rospotrebnadzore-rasskazali</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/17/955786-rospotrebnadzore-rasskazali</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <pubDate>Sat, 17 Dec 2022 13:05:51 +0300</pubDate>
+</item>
+<item>
+  <title>Главы трех регионов предложили Путину ограничить участие иностранцев в экспорте зерна</title>
+  <link>https://www.vedomosti.ru/economics/news/2022/12/17/955784-predlozhili-ogranichit-uchastie</link>
+  <guid>https://www.vedomosti.ru/economics/news/2022/12/17/955784-predlozhili-ogranichit-uchastie</guid>
+  <pdalink>https://www.vedomosti.ru/economics/news/2022/12/17/955784-predlozhili-ogranichit-uchastie</pdalink>
+  <author></author>
+  <category>Экономика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9r/r31e3/normal-z3o.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 17 Dec 2022 12:37:42 +0300</pubDate>
+</item>
+<item>
+  <title>Рогов: на Запорожской АЭС начался монтаж защитного купола</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/17/955783-rogov</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/17/955783-rogov</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/17/955783-rogov</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9r/phsrp/normal-x1i.png" type="image/jpeg"/>
+  <pubDate>Sat, 17 Dec 2022 11:57:28 +0300</pubDate>
+</item>
+<item>
+  <title>Правительство направит на поддержку рынка труда 12,8 млрд рублей</title>
+  <link>https://www.vedomosti.ru/economics/news/2022/12/17/955781-pravitelstvo</link>
+  <guid>https://www.vedomosti.ru/economics/news/2022/12/17/955781-pravitelstvo</guid>
+  <pdalink>https://www.vedomosti.ru/economics/news/2022/12/17/955781-pravitelstvo</pdalink>
+  <author></author>
+  <category>Экономика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9r/oo9qs/normal-vz8.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 17 Dec 2022 11:31:00 +0300</pubDate>
+</item>
+<item>
+  <title>В Молдавии в целях защиты от дезинформации приостановили вещание шести СМИ</title>
+  <link>https://www.vedomosti.ru/media/news/2022/12/17/955780-moldavii</link>
+  <guid>https://www.vedomosti.ru/media/news/2022/12/17/955780-moldavii</guid>
+  <pdalink>https://www.vedomosti.ru/media/news/2022/12/17/955780-moldavii</pdalink>
+  <author></author>
+  <category>Медиа</category>
+  <pubDate>Sat, 17 Dec 2022 11:03:27 +0300</pubDate>
+</item>
+<item>
+  <title>В постпредстве при Евросоюзе назвали нелегитимными новые санкции против РФ</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/17/955778-postpredstve</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/17/955778-postpredstve</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/17/955778-postpredstve</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9r/mf7s3/normal-t25.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 17 Dec 2022 10:27:57 +0300</pubDate>
+</item>
+<item>
+  <title>Муфтият Крыма заявил о захвате мечети на полуострове «исламскими сектантами»</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/17/955777-muftiyat</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/17/955777-muftiyat</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/17/955777-muftiyat</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <pubDate>Sat, 17 Dec 2022 09:50:29 +0300</pubDate>
+</item>
+<item>
+  <title>Путин ознакомился с работой штаба родов войск, задействованных в СВО</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/17/955775-putin</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/17/955775-putin</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/17/955775-putin</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9r/jufp6/normal-ppx.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 17 Dec 2022 09:18:28 +0300</pubDate>
+</item>
+  </channel>
+</rss>

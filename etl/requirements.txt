@@ -1,0 +1,4 @@
+backoff==2.2.1
+feedparser==6.0.10
+psycopg2-binary==2.9.3
+pydantic==1.10.2

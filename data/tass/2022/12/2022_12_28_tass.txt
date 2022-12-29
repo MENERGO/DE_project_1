@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom"><channel><title>ТАСС</title>
+<description>ИНФОРМАЦИОННОЕ АГЕНТСТВО РОССИИ ТАСС</description>
+<language>ru-ru</language>
+<link><![CDATA[https://tass.ru]]></link>
+<copyright>ТАСС</copyright>
+<image><url><![CDATA[https://tass.ru/i/rss/logo.png]]></url>
+<title>ТАСС</title>
+<link><![CDATA[https://tass.ru]]></link>
+</image>
+<atom:link href="https://tass.ru/rss/v2.xml" rel="self" type="application/rss+xml"></atom:link>
+<item><title>В Крыму упростят процедуруа получения участков ветеранами СВО</title>
+<link><![CDATA[https://tass.ru/obschestvo/16708741]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16708741]]></guid>
+<pubDate>Wed, 28 Dec 2022 20:07:21 +0300</pubDate>
+<description>Участникам СВО будет достаточно написать заявления и выбрать площадки</description>
+<category>Общество</category>
+</item>
+<item><title>Лавров: Киссинджер откровенно признал, что коллективный Запад во главе с США воюет с РФ</title>
+<link><![CDATA[https://tass.ru/politika/16708717]]></link>
+<guid><![CDATA[https://tass.ru/politika/16708717]]></guid>
+<pubDate>Wed, 28 Dec 2022 20:06:28 +0300</pubDate>
+<description>Глава российского внешнеполитического ведомства указал на интервью бывшего госсекретаря для журнала The Spectator</description>
+<category>Политика</category>
+</item>
+<item><title>Строительство социальных объектов в Москве приведут к единым стандартам</title>
+<link><![CDATA[https://tass.ru/nedvizhimost/16707061]]></link>
+<guid><![CDATA[https://tass.ru/nedvizhimost/16707061]]></guid>
+<pubDate>Wed, 28 Dec 2022 20:05:15 +0300</pubDate>
+<description>По словам руководителя департамента строительства столицы Рафика Загрутдинова, в рамках программы реновации помимо жилья также будут строить поликлиники, школы и детские сады</description>
+<category>Москва</category>
+<category>Общество</category>
+<category>Реновация</category>
+<category>Недвижимость</category>
+</item>
+<item><title>Иран предупредил, что окно возможностей для возобновления ядерной сделки может закрыться</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16708311]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16708311]]></guid>
+<pubDate>Wed, 28 Dec 2022 20:01:58 +0300</pubDate>
+<category>Международная панорама</category>
+</item>
+<item><title>РЖД в 2022 году освоили 131 млрд рублей на развитие Восточного полигона</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708681]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708681]]></guid>
+<pubDate>Wed, 28 Dec 2022 20:01:04 +0300</pubDate>
+<description>Первый вице-премьер и председатель совета директоров РЖД Андрей Белоусов сообщил, что в 2024 году провозную способность Восточного полигона планируют повысить до 180 млн тонн в год</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Минцифры хочет при аккредитации убрать условие о зарплате при наличии софта в реестре ПО</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708513]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708513]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:57:50 +0300</pubDate>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Сербия заявила о получении от США и ЕС гарантий безопасности своих граждан на баррикадах</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16708605]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16708605]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:53:58 +0300</pubDate>
+<description>Глава Канцелярии по Косову и Метохии при кабмине республики Петар Петкович назвал предоставленные гарантии &quot;боле серьезными, чем когда-либо&quot;</description>
+<category>Международная панорама</category>
+</item>
+<item><title>Шадаев призвал отрасль сформулировать требования к созданию российской ИБ-системы</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708599]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708599]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:52:29 +0300</pubDate>
+<description>Глава Минцифры отметил, что ведомство поддерживает решение о создании отечественной системы информационной безопасности</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Президент Сербии призвал косовских соотечественников разобрать баррикады</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16708633]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16708633]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:51:52 +0300</pubDate>
+<category>Международная панорама</category>
+<category>Эскалация в Косове</category>
+</item>
+<item><title>Умер британский сатирик и актер Джон Бёрд</title>
+<link><![CDATA[https://tass.ru/kultura/16708593]]></link>
+<guid><![CDATA[https://tass.ru/kultura/16708593]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:51:22 +0300</pubDate>
+<description>Ему было 86 лет</description>
+<category>Культура</category>
+</item>
+<item><title>Четверть перевозивших в декабре нефть из России танкеров имели страховку западных фирм</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708583]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708583]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:49:52 +0300</pubDate>
+<description>Financial Times сообщает, что за первые три недели декабря РФ экспортировала около 50 млн баррелей нефти по морю в сравнении с 67 млн баррелей за аналогичный период в ноябре</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>FT: Exxon Mobil подала в суд на ЕС из-за налога на сверхприбыль энергетических компаний</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708615]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708615]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:49:05 +0300</pubDate>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Единороссы будут нести ответственность за нарушение рекомендаций по поведению</title>
+<link><![CDATA[https://tass.ru/politika/16708525]]></link>
+<guid><![CDATA[https://tass.ru/politika/16708525]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:45:36 +0300</pubDate>
+<description>Руководитель фракции Владимир Васильев отметил, что &quot;слишком дорого слово стоит&quot;</description>
+<category>Политика</category>
+<category>Внутренняя политика</category>
+</item>
+<item><title>Бюджет Вооруженных сил Австрии в 2022 году стал самым высоким в истории</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16708549]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16708549]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:45:10 +0300</pubDate>
+<description>Министр обороны республики Клаудиа Таннер заявила, что бюджет достиг показателя в €2,7 млрд</description>
+<category>Международная панорама</category>
+</item>
+<item><title>На речном вокзале Перми завершился ремонт пассажирских причалов</title>
+<link><![CDATA[https://tass.ru/obschestvo/16708505]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16708505]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:44:19 +0300</pubDate>
+<description>Завершилась реконструкция городской набережной</description>
+<category>Общество</category>
+</item>
+<item><title>Плющенко пропустит премьеру шоу &quot;Снегурочка&quot; из-за высокой температуры</title>
+<link><![CDATA[https://tass.ru/sport/16708577]]></link>
+<guid><![CDATA[https://tass.ru/sport/16708577]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:43:11 +0300</pubDate>
+<description>Двукратного олимпийского чемпиона заменит Александр Самарин</description>
+<category>Спорт</category>
+<category>Фигурное катание</category>
+</item>
+<item><title>Зеленский пообещал построить на Украине децентрализованную энергосистему</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708507]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708507]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:41:58 +0300</pubDate>
+<description>По словам президента Украины, ее основу составит &quot;зеленая&quot; генерация</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Австрийская оппозиция призвала власти провести референдум по отмене санкций против России</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16708491]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16708491]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:40:47 +0300</pubDate>
+<description>Уполномоченный по вопросам экономики в парламентской фракции Австрийской партии свободы Эрвин Ангегер считает, что Евросоюз и правительство Австрии должны увидеть, что политика санкций такого типа с треском провалилась</description>
+<category>Международная панорама</category>
+<category>Санкции в отношении России</category>
+</item>
+<item><title>В Саратовской области лопнувшее колесо стало причиной ДТП с четырьмя погибшими</title>
+<link><![CDATA[https://tass.ru/proisshestviya/16708471]]></link>
+<guid><![CDATA[https://tass.ru/proisshestviya/16708471]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:36:41 +0300</pubDate>
+<description>В результате аварии еще один пострадал</description>
+<enclosure url="https://videocdn.itar-tass.com/tass/m2/uploads/v/50403.video_sd.mp4" type="video/mp4" length="18887645"></enclosure>
+<category>Происшествия</category>
+</item>
+<item><title>На Запорожье сообщили о подрыве украинскими военными пешеходного моста в городе Пологи</title>
+<link><![CDATA[https://tass.ru/proisshestviya/16708499]]></link>
+<guid><![CDATA[https://tass.ru/proisshestviya/16708499]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:33:39 +0300</pubDate>
+<description>Председатель движения &quot;Мы вместе с Россией&quot; Владимир Рогов отметил, что прифронтовой город постоянно подвергается обстрелам</description>
+<category>Происшествия</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>В Ульяновской области в ДТП погиб один человек</title>
+<link><![CDATA[https://tass.ru/proisshestviya/16708375]]></link>
+<guid><![CDATA[https://tass.ru/proisshestviya/16708375]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:33:18 +0300</pubDate>
+<description>Еще трое пострадали</description>
+<category>Происшествия</category>
+</item>
+<item><title>СМИ: французский суд должен принять решение об экстрадиции Жеваго в течение 45 дней</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16708357]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16708357]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:33:14 +0300</pubDate>
+<description>Украинского миллиардера задержали в Куршевеле</description>
+<category>Международная панорама</category>
+</item>
+<item><title>Футболист Пиняев рассказал, что Дмитрий Баринов водил его в школу &quot;Локомотива&quot;</title>
+<link><![CDATA[https://tass.ru/sport/16708469]]></link>
+<guid><![CDATA[https://tass.ru/sport/16708469]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:32:51 +0300</pubDate>
+<description>В среду Сергей Пиняев перешел в &quot;Локомотив&quot; из самарских &quot;Крыльев Советов&quot;</description>
+<category>Спорт</category>
+<category>Футбол</category>
+<category>Футбол в России</category>
+</item>
+<item><title>WSJ: украинский кризис обнажил зависимость Европы от США</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16708437]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16708437]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:32:48 +0300</pubDate>
+<description>Как пишет газета, ограниченные запасы вооружений у европейских союзников и длительный процесс передачи Украине выделенных ЕС средств ставят Киев в зависимость от США</description>
+<category>Международная панорама</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>ВСУ в третий раз за день обстреляли Донецк из РСЗО</title>
+<link><![CDATA[https://tass.ru/proisshestviya/16708463]]></link>
+<guid><![CDATA[https://tass.ru/proisshestviya/16708463]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:32:24 +0300</pubDate>
+<description>Представительство ДНР в СЦКК сообщило, что выпущено 16 ракет</description>
+<category>Происшествия</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>МЭР фиксирует постепенное восстановление экономической активности и рост экономики РФ</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708457]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708457]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:31:34 +0300</pubDate>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>МЭР ожидает в 2023 году сохранение тренда на восстановление российской экономики</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708451]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708451]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:30:40 +0300</pubDate>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Топ-менеджеры НАИКС и Росатома займут посты в Евразийской федерации инженеров-строителей</title>
+<link><![CDATA[https://tass.ru/obschestvo/16708387]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16708387]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:29:06 +0300</pubDate>
+<description>Председателем совета директоров ЕФИС назначили генерального директора Казахского научно-исследовательского и проектного института строительства и архитектуры Бегмана Кульбаева</description>
+<category>Общество</category>
+</item>
+<item><title>Сельхозпроизводство в России в январе - ноябре выросло на 4,7%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708155]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708155]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:28:28 +0300</pubDate>
+<description>Оно составило 8 трлн 14,5 млн рублей, говорится в материалах Росстата</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Лавров: территории четырех вошедших в состав РФ регионов должны быть освобождены</title>
+<link><![CDATA[https://tass.ru/politika/16708425]]></link>
+<guid><![CDATA[https://tass.ru/politika/16708425]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:28:23 +0300</pubDate>
+<category>Политика</category>
+</item>
+<item><title>В ГМЗ &quot;Павловск&quot; в следующем году откроется школа юного реставратора</title>
+<link><![CDATA[https://tass.ru/obschestvo/16708303]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16708303]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:27:52 +0300</pubDate>
+<description>Для ребят будут проводить открытые уроки в мастерских, это позволит повысить престиж данной профессии, сейчас наблюдается дефицит подобных специалистов</description>
+<category>Общество</category>
+<category>Северо-Запад</category>
+</item>
+<item><title>ВСУ обстреляли центр Донецка</title>
+<link><![CDATA[https://tass.ru/proisshestviya/16708413]]></link>
+<guid><![CDATA[https://tass.ru/proisshestviya/16708413]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:26:16 +0300</pubDate>
+<category>Происшествия</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>Эксперты повысили оценку урожая пшеницы в России в 2023 году до 86 млн тонн</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708301]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708301]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:24:56 +0300</pubDate>
+<description>По данным &quot;Совэкона&quot;, состояние озимой пшеницы в центральной части России и долине Волги лучше среднего, а на юге ее состояние близко к среднему</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Прибыль рыбной отрасли в России по итогам 2022 года снизится на 16%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708377]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708377]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:21:01 +0300</pubDate>
+<description>Во Всероссийской ассоциации рыбопромышленников сообщили, что сальдированный финансовый результат по виду деятельности &quot;Рыболовство, рыбоводство&quot; за четвертый квартал 2022 года ожидается в размере 42,55 млрд рублей, за год в целом - 152,8 млрд рублей</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Оборот розничной торговли в РФ в январе - ноябре снизился на 6,2%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708167]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708167]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:20:30 +0300</pubDate>
+<description>Он составил 3,6 трлн рублей</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Оборот общепита в России в январе - ноябре вырос на 4,4%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708187]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708187]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:19:34 +0300</pubDate>
+<description>Он составил 2 трлн 53,8 млн рублей</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Уровень безработицы в России в ноябре снизился до 3,7%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708091]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708091]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:18:53 +0300</pubDate>
+<description>Он составил 2,7 млн человек</description>
+<category>Общество</category>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Минэкономразвития: спад ВВП РФ в ноябре замедлился до 4% в годовом выражении</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708341]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708341]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:18:16 +0300</pubDate>
+<description>По данным ведомства, за 11 месяцев ВВП снизился на 2,1%</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Шадаев сообщил, что снижения ставки по ипотеке для IТ-специалистов до 3% пока не будет</title>
+<link><![CDATA[https://tass.ru/nedvizhimost/16708369]]></link>
+<guid><![CDATA[https://tass.ru/nedvizhimost/16708369]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:18:04 +0300</pubDate>
+<description>Глава Минцифры напомнил, что регионы запускают свои программы софинансирования</description>
+<category>Недвижимость</category>
+</item>
+<item><title>Производство антибиотиков в России в ноябре выросло на 33%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708069]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708069]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:17:45 +0300</pubDate>
+<description>Оно составило 95,6 тонн, следует из данных Росстата</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>В Великобритании 2022 год станет самым жарким за всю историю наблюдений</title>
+<link><![CDATA[https://tass.ru/obschestvo/16707961]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16707961]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:16:33 +0300</pubDate>
+<description>Глава Метеорологической службой Соединенного Королевства Марк Маккарти отметил, что все месяцы за исключением декабря оказались теплее средних для страны значений</description>
+<category>Общество</category>
+</item>
+<item><title>Выпуск легковых автомобилей в России в ноябре упал на 78,8%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708063]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708063]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:16:22 +0300</pubDate>
+<description>Он составил 23,7 тыс.</description>
+<category>Экономика и бизнес</category>
+<category>Транспорт</category>
+</item>
+<item><title>Производство золота в России в ноябре выросло на 9,1%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708027]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708027]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:15:52 +0300</pubDate>
+<description>Производство основных драгоценных металлов в ноябре выросло на 1,5%</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Реальная зарплата в России в октябре выросла на 0,4%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708021]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708021]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:15:44 +0300</pubDate>
+<description>Вместе с тем за период с января по октябрь реальные зарплаты снизились на 1,3% в годовом выражении</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Голикова поручила Минздраву собрать статистику пациентов с наркоманией</title>
+<link><![CDATA[https://tass.ru/obschestvo/16678457]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16678457]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:15:36 +0300</pubDate>
+<description>Вице-премьер также поручила ведомству актуализировать перечень наименований токсических веществ, которые чаще всего встречаются при острых отравлениях химической этиологии</description>
+<category>Общество</category>
+</item>
+<item><title>Объем соцрекламы в сети в 2022 году превысил 14 млрд показов баннеров</title>
+<link><![CDATA[https://tass.ru/obschestvo/16707967]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16707967]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:14:16 +0300</pubDate>
+<description>Всего Институт развития интернета провел 175 крупных федеральных кампаний соцрекламы</description>
+<category>Общество</category>
+</item>
+<item><title>Годовая инфляция в России с 20 по 26 декабря замедлилась до 12,19% с 12,35%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708329]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708329]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:14:02 +0300</pubDate>
+<description>На отчетной неделе в сегменте продовольственных товаров рост цен ускорился за счет удорожания плодоовощной продукции</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Январь в Петербурге начнется с &quot;температурных качелей&quot;</title>
+<link><![CDATA[https://tass.ru/obschestvo/16708283]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16708283]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:12:56 +0300</pubDate>
+<description>Согласно прогнозам синоптиков, с середины месяца возможны морозы</description>
+<category>Общество</category>
+<category>Северо-Запад</category>
+</item>
+<item><title>Китай начал строить в пустыне мегаэлектростанцию с установленной мощностью 16 млн кВт</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708295]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708295]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:11:29 +0300</pubDate>
+<description>Xinhua сообщает, что этот проект на солнечной и ветровой энергии станет крупнейшей построенной в пустыне электростанцией такого вида</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Заявки в фонд &quot;Круг добра&quot; теперь будут обрабатывать не более семи дней</title>
+<link><![CDATA[https://tass.ru/obschestvo/16708273]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16708273]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:10:56 +0300</pubDate>
+<description>Согласно постановлению правительства, если экспертный совет фонда принял решение об обеспечении ребенка лекарством, &quot;Круг добра&quot; в течение трех рабочих дней должен направить соответствующую информацию в Минздрав</description>
+<category>Общество</category>
+</item>
+<item><title>Производство пива в России за 11 месяцев выросло на 0,2%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708205]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708205]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:10:19 +0300</pubDate>
+<description>По данным Росстата, в ноябре его производство производство снизилось на 8,6% по сравнению с показателем ноября 2021 года</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Производство электроэнергии в России в ноябре выросло на 0,8%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708233]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708233]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:07:55 +0300</pubDate>
+<description>Оно составило 104 млрд кВт•ч</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Мэр украинского города пожаловался в СБУ на Деда Мороза</title>
+<link><![CDATA[https://tass.ru/obschestvo/16708219]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16708219]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:07:19 +0300</pubDate>
+<description>Александр Баклыков посчитал появление на школьном празднике Деда Мороза и Снегурочки &quot;советской агитацией&quot;</description>
+<category>Общество</category>
+</item>
+<item><title>Попова рассказала, что больше всего в 2022 году ее удивил распад танцевальных дуэтов</title>
+<link><![CDATA[https://tass.ru/sport/16708277]]></link>
+<guid><![CDATA[https://tass.ru/sport/16708277]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:06:55 +0300</pubDate>
+<description>По мнению эксперта, год был ярким, эмоциональным и неоднозначным для российского фигурного катания</description>
+<category>Спорт</category>
+<category>Зимние виды спорта</category>
+<category>Фигурное катание</category>
+</item>
+<item><title>Добыча угля в России в ноябре выросла на 1,9%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708239]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708239]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:06:16 +0300</pubDate>
+<description>Она составила 40 млн тонн</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Россия в ноябре снизила выпуск удобрений почти на 18%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708211]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708211]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:06:13 +0300</pubDate>
+<description>По данным Росстата, производство составило 1,8 млн тонн</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Компания Данилы Козловского и Start заключили мировое соглашение по сериалу &quot;Карамора&quot;</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708263]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708263]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:05:26 +0300</pubDate>
+<description>Стороны договорились, что &quot;ДК интертеймент&quot; будет выплачивать &quot;Старт студио&quot; 50% от доходов с показа &quot;Караморы&quot; на стриминговых платформах за рубежом, в свою очередь киностудия может показывать сериал на территории России и стран СНГ</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Стоимость бензина в России в ноябре выросла на 0,1% по сравнению с октябрем</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708081]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708081]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:04:06 +0300</pubDate>
+<description>Средние потребительские цены на бензин в России за неделю с 19 по 26 декабря 2022 года остались на уровне 50,85 рубля за литр</description>
+<category>Экономика и бизнес</category>
+<category>Новости Урала</category>
+</item>
+<item><title>Добыча газа в России за 11 месяцев сократилась на 13,3%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708111]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708111]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:03:05 +0300</pubDate>
+<description>За этот период было добыто 522 млрд куб. м</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Добыча нефти в России в январе - ноябре 2022 года увеличилась на 2,2%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708015]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708015]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:02:21 +0300</pubDate>
+<description>Она достигла 488 млн тонн</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Урожай зерна в России в 2022 году в весе после доработки составил 150,7 млн тонн</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708009]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708009]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:01:49 +0300</pubDate>
+<description>В 2021 году урожай зерновых в России составил в чистом весе 121,4 млн тонн</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Суд в Москве 10 января начнет рассматривать иск ГП о конфискации оставшихся акций Fesco</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707945]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707945]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:01:44 +0300</pubDate>
+<description>Мещанский суд Москвы 1 декабря конфисковал 32,5% акций транспортной группы Fesco, принадлежащие эск-совладельцу группы &quot;Сумма&quot; Зиявудину Магомедову, осужденному на 19 лет колонии за создание преступного сообщества и хищение 11 млрд рублей</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Промпроизводство в России в ноябре снизилось на 1,8%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16708003]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16708003]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:01:38 +0300</pubDate>
+<description>При этом по сравнению с октябрем 2022 года промпроизводство в ноябре увеличилось на 1,6%</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Недельная инфляция в России с 20 по 26 декабря ускорилась с 0,02% до 0,12%</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707997]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707997]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:00:54 +0300</pubDate>
+<description>С начала декабря потребительские цены в стране выросли на 0,85%, с начала года - на 12,01%</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Замглавы МИД РФ обсудил с временным поверенным Джибути продвижение сотрудничества стран</title>
+<link><![CDATA[https://tass.ru/politika/16707983]]></link>
+<guid><![CDATA[https://tass.ru/politika/16707983]]></guid>
+<pubDate>Wed, 28 Dec 2022 19:00:53 +0300</pubDate>
+<description>Встреча состоялась по инициативе дипломата из Джибути</description>
+<category>Политика</category>
+</item>
+<item><title>Сальдо заявил, что в Херсонской области не выдворяют жителей на территорию Украины</title>
+<link><![CDATA[https://tass.ru/obschestvo/16707935]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16707935]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:58:09 +0300</pubDate>
+<description>По словам врио губернатора региона, такая практика может возникнуть в будущем, когда начнут работать суды</description>
+<category>Общество</category>
+</item>
+<item><title>Эксперт рассказал, как позитивный контент поможет брендам быть востребованными</title>
+<link><![CDATA[https://tass.ru/novosti-partnerov/16697471]]></link>
+<guid><![CDATA[https://tass.ru/novosti-partnerov/16697471]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:57:31 +0300</pubDate>
+<description>Как считают эксперты, популярными способами борьбы со стрессом и тревожностью являются позитивная повестка и шопинг</description>
+<enclosure url="https://cdn2.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221227/7072941.jpg" type="image/jpeg" length="450487"></enclosure>
+<category>Новости партнеров</category>
+</item>
+<item><title>Зарубежные компании намерены сотрудничать с Россией в отрасли обращения с отходами</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707909]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707909]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:56:28 +0300</pubDate>
+<description>Пресс-служба РЭО сообщила, что среди стран, с которыми Россия будет развивать экономику замкнутого цикла, - Мьянма, Индия, Китай, Белоруссия и Турция</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>СМИ: турецкая авиация нанесла серию ударов по территории Иракского Курдистана</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16707897]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16707897]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:56:02 +0300</pubDate>
+<description>Информации о жертвах или материальном ущербе пока не поступало</description>
+<category>Международная панорама</category>
+</item>
+<item><title>В Петербурге с января подешевеет проезд в наземном транспорте</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707851]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707851]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:55:12 +0300</pubDate>
+<description>За школьное питание будут начислять кешбэк</description>
+<category>Экономика и бизнес</category>
+<category>Северо-Запад</category>
+</item>
+<item><title>Первые судебные решения в Херсонской области примут в январе 2023 года</title>
+<link><![CDATA[https://tass.ru/politika/16707879]]></link>
+<guid><![CDATA[https://tass.ru/politika/16707879]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:51:54 +0300</pubDate>
+<description>По словам врио главы региона Владимира Сальдо, в настоящее время в суды подбирают кадры</description>
+<category>Политика</category>
+</item>
+<item><title>Сальдо заявил, что Каховская ГЭС производит электроэнергию на собственные нужды</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707873]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707873]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:51:46 +0300</pubDate>
+<description>Врио губернатора Херсонской области уточнил, что вода непрерывно поступает в систему, она достигает Джанкоя в Крыму без насосных станций</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>В Афганистане заявили, что богословы пытаются решить проблемы с работой женщин в НПО</title>
+<link><![CDATA[https://tass.ru/obschestvo/16707837]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16707837]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:51:38 +0300</pubDate>
+<description>Исламские ученые-богословы ищут способы, чтобы позволить женщинам работать в неправительственных организациях в соответствии с нормами шариата</description>
+<category>Общество</category>
+</item>
+<item><title>Новый город в Херсонской области будет рассчитан на 30 тыс. человек</title>
+<link><![CDATA[https://tass.ru/obschestvo/16707865]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16707865]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:50:37 +0300</pubDate>
+<description>Врио губернатора региона Владимир Сальдо сообщил, что проект строительства нового города уже привлекает инвесторов</description>
+<category>Общество</category>
+</item>
+<item><title>РЖД назначили более 1,3 тыс. дополнительных поездов на новогодние праздники</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707859]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707859]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:49:13 +0300</pubDate>
+<description>В пресс-службе холдинга сообщили, что это в 2,5 раза больше, чем в 2021 году</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>СМИ: израильская авиакомпания Arkia в феврале возобновит полеты в Турцию</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707799]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707799]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:43:21 +0300</pubDate>
+<description>Газета The Times of Israel напомнила, что полеты в Турцию приостановили 15 лет назад из-за опасений в области безопасности</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>RWE заключила контракт на поставку из США 2,25 млн тонн СПГ в год</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707811]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707811]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:42:02 +0300</pubDate>
+<description>DPA сообщает, что контракт рассчитан на 15 лет, но поставки должны начаться только в 2027 году</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Суд в Киеве заочно арестовал экс-министра обороны Ежеля по делу о харьковских соглашениях</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16707783]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16707783]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:39:46 +0300</pubDate>
+<description>По этому делу также проходят бывшие глава МИД Константин Грищенко и министр юстиции Александр Лавринович</description>
+<category>Международная панорама</category>
+</item>
+<item><title>Глава Минцифры предложил сделать 2023 год годом IT-стартапов</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707825]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707825]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:39:41 +0300</pubDate>
+<description>Максут Шадаев подчеркнул, что поддержка стартапов должна стать приоритетом </description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Замглавы МИД РФ обсудил с послом Египта двусторонние отношения</title>
+<link><![CDATA[https://tass.ru/politika/16707793]]></link>
+<guid><![CDATA[https://tass.ru/politika/16707793]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:39:19 +0300</pubDate>
+<description>Встреча состоялась по просьбе египетского дипломата</description>
+<category>Политика</category>
+</item>
+<item><title>Лукашенко в канун Нового года призвал молодежь думать о национальных интересах</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16707779]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16707779]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:37:47 +0300</pubDate>
+<description>По словам президента Белоруссии, время требует от каждого &quot;думать не только о себе, но и о стране, как бы пафосно порой это ни звучало&quot;</description>
+<category>Международная панорама</category>
+<category>Новый год и Рождество</category>
+</item>
+<item><title>Росгвардия обнаружила тайник с оружием ВСУ в гаражах &quot;Азовстали&quot;</title>
+<link><![CDATA[https://tass.ru/armiya-i-opk/16707761]]></link>
+<guid><![CDATA[https://tass.ru/armiya-i-opk/16707761]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:34:30 +0300</pubDate>
+<description>В частности, в тайнике находился модернизированный автомат Калашникова, охотничьи ружья, переносной противотанковый ракетный комплекс NLAW</description>
+<category>Армия и ОПК</category>
+<category>Военная операция на Украине</category>
+</item>
+<item><title>Генпрокуратура Литвы в суде потребовала ликвидации &quot;Международного форума добрососедства&quot;</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16707771]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16707771]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:34:28 +0300</pubDate>
+<description>Ассоциацию назвали незаконно зарегистрированной</description>
+<category>Международная панорама</category>
+</item>
+<item><title>В Ейске завершили демонтаж подъездов, поврежденных при ЧП с самолетом</title>
+<link><![CDATA[https://tass.ru/obschestvo/16707745]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16707745]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:33:41 +0300</pubDate>
+<description>Подготовку площадки для возведения дома продолжат после новогодних праздников</description>
+<category>Общество</category>
+<category>Падение Су-34 в Ейске</category>
+</item>
+<item><title>В Минэкологии Татарстана предложили поменять правила использования водных ресурсов</title>
+<link><![CDATA[https://tass.ru/obschestvo/16707669]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16707669]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:31:05 +0300</pubDate>
+<description>Они были составлены в 1972 году</description>
+<category>Общество</category>
+</item>
+<item><title>Минцифры назвало число получивших и лишившихся госаккредитации IT-компаний</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707755]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707755]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:30:04 +0300</pubDate>
+<description>Основной причиной отказов в аккредитации назвали неправильно оформленное согласие на раскрытие налоговой тайны</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Разработчики программно-аппаратных комплексов в России смогут получать налоговые льготы</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707739]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707739]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:26:44 +0300</pubDate>
+<description>Глава Минцифры Максут Шадаев сообщил, что в реестр российского ПО могут добавить программно-аппаратные комплексы</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Остросюжетные драмы и детективы в новом году на канале НТВ</title>
+<link><![CDATA[https://tass.ru/obschestvo/16688387]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16688387]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:26:40 +0300</pubDate>
+<description>В первом полугодии 2023 года на канале НТВ состоятся премьеры - продолжения любимых драм и детективов и совершенно новые истории. Зрителей ждет шестой сезон сериала &quot;Невский&quot; (16+), третий сезон сериала &quot;Первый отдел&quot; (16+), вторые сезоны сериалов &quot;Бим&quot; (16+) и &quot;Чужая стая&quot; (16+), а также премьеры сериалов &quot;Акушер&quot; (16+) и &quot;Аутсайдер&quot; (16+)</description>
+<enclosure url="https://cdn2.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20221227/7072925.jpg" type="image/jpeg" length="328577"></enclosure>
+<category>Общество</category>
+</item>
+<item><title>На освобожденных территориях ДНР восстановили почти 40 АЗС</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707635]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707635]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:24:07 +0300</pubDate>
+<description>В Министерстве угля и энергетики республики отметили, что на автозаправочных станциях нет очередей, они работают в стандартном режиме</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>В Кузбассе в 2023 году создадут кластер для бизнеса сферы образовательных услуг</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707713]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707713]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:23:31 +0300</pubDate>
+<description>Он объединит представителей сферы частного образования и позволит им повысить уровень оказания своих услуг</description>
+<category>Экономика и бизнес</category>
+<category>Сибирь</category>
+<category>Кузбасс</category>
+</item>
+<item><title>Более 1,2 тыс. предприятий по обращению с отходами планируют построить в РФ до 2030 года</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707709]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707709]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:23:08 +0300</pubDate>
+<description>Для внесения в федсхему согласовали 1 240 объектов обращения с отходами</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>Минпросвещения утвердило программу дошкольного образования</title>
+<link><![CDATA[https://tass.ru/obschestvo/16707637]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16707637]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:21:27 +0300</pubDate>
+<description>Целью программы названо разностороннее развитие ребенка в период дошкольного детства на основе духовно-нравственных ценностей российского народа</description>
+<category>Общество</category>
+<category>Образование</category>
+</item>
+<item><title>Минцифры не считает необходимым запрет на выезд за границу IТ-специалистов</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707703]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707703]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:19:31 +0300</pubDate>
+<description>По словам главы министерства Максута Шадаева, Минцифры выступает за возвращение &quot;айтишников&quot; в Россию</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>В Твери открыли копию берлинского памятника Воину-освободителю</title>
+<link><![CDATA[https://tass.ru/obschestvo/16707657]]></link>
+<guid><![CDATA[https://tass.ru/obschestvo/16707657]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:19:23 +0300</pubDate>
+<description>Церемония была приурочена к 125-летию со дня рождения маршала Ивана Конева</description>
+<category>Общество</category>
+</item>
+<item><title>Апелляционный суд Стамбула утвердил пожизненный приговор правозащитнику Кавале</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16707627]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16707627]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:18:48 +0300</pubDate>
+<description>Турецкие власти обвинили правозащитника в причастности к акциям протеста в парке Гези, а также в попытке переворота в 2016 году</description>
+<category>Международная панорама</category>
+</item>
+<item><title>Минцифры проработает включение дополнительных IT-специальностей для отсрочки от службы</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707659]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707659]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:16:24 +0300</pubDate>
+<description>Глава ведомства Максут Шадаев напомнил, что в настоящее время в списке находится 75 специальностей</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>В раздел народных промыслов Библиотеки креативных индустрий войдут Гжель и роспись Жостова</title>
+<link><![CDATA[https://tass.ru/kultura/16707519]]></link>
+<guid><![CDATA[https://tass.ru/kultura/16707519]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:16:11 +0300</pubDate>
+<description>В настоящее время в ней существуют разделы по направлениям &quot;Театр&quot;, &quot;Музыка&quot;, &quot;Архитектура&quot; и &quot;Искусство танца&quot;</description>
+<category>Культура</category>
+</item>
+<item><title>В ФРГ считают, что запрет на продажу нефти из России не будет иметь практического значения</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707617]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707617]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:14:58 +0300</pubDate>
+<description>Представитель Министерства по делам экономики и защиты климата ФРГ сообщил, что ведутся интенсивные переговоры с польской стороной для обеспечения нефтеснабжения Германии, в том числе нефтеперерабатывающего завода в Шведте</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>В Египте заявили о рекордном экспорте газа в 2022 году</title>
+<link><![CDATA[https://tass.ru/ekonomika/16707589]]></link>
+<guid><![CDATA[https://tass.ru/ekonomika/16707589]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:11:56 +0300</pubDate>
+<description>Он составил около $8,4 млрд, продемонстрировав рост на 171%</description>
+<category>Экономика и бизнес</category>
+</item>
+<item><title>В Венгрии заявили, что приглашение Украины в НАТО создаст угрозу странам альянса</title>
+<link><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16707485]]></link>
+<guid><![CDATA[https://tass.ru/mezhdunarodnaya-panorama/16707485]]></guid>
+<pubDate>Wed, 28 Dec 2022 18:10:53 +0300</pubDate>
+<description>Политический советник премьер-министра страны Балаж Орбан при этом подтвердил, что Венгрия выступает за присоединение Украины к Европейскому союзу и поддерживает предоставление ей статуса кандидата на вступление</description>
+<category>Международная панорама</category>
+</item>
+</channel>
+</rss>

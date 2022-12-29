@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>"Ведомости". Ежедневная деловая газета</title>
+    <link>https://www.vedomosti.ru</link>
+    <description>"Ведомости". Новости, 26.12.2022</description>
+    <image>
+      <url>https://cdn.vdmsti.ru/assets/rss_logo.gif</url>
+      <title>"Ведомости". Ежедневная деловая газета</title>
+      <link>https://www.vedomosti.ru</link>
+    </image>
+<item>
+  <title>Правительство России выделило 800 млн рублей на поставки пшеницы Кубе</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/24/956927-rossii-800-mln-pshenitsi-kube</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/24/956927-rossii-800-mln-pshenitsi-kube</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/24/956927-rossii-800-mln-pshenitsi-kube</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9y/1c70y8/normal-1qgm.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 24 Dec 2022 22:29:42 +0300</pubDate>
+</item>
+<item>
+  <title>Губернатор Белгородской области сообщил о ранении подростка</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/24/956924-belgorodskoi-podrostok-poluchil-ranenii-podrostka</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/24/956924-belgorodskoi-podrostok-poluchil-ranenii-podrostka</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/24/956924-belgorodskoi-podrostok-poluchil-ranenii-podrostka</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <pubDate>Sat, 24 Dec 2022 21:06:33 +0300</pubDate>
+</item>
+<item>
+  <title>Скончался гендиректор «Адмиралтейских верфей» Александр Бузаков</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/24/956922-skonchalsya-gendirektor-admiralteiskih-verfei</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/24/956922-skonchalsya-gendirektor-admiralteiskih-verfei</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/24/956922-skonchalsya-gendirektor-admiralteiskih-verfei</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <pubDate>Sat, 24 Dec 2022 20:11:03 +0300</pubDate>
+</item>
+<item>
+  <title>МЧС: причиной быстрого развития пожара в Кемерове мог стать поздний вызов спасателей</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/24/956920-prichinoi-pozhara-pozdnii-vizov</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/24/956920-prichinoi-pozhara-pozdnii-vizov</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/24/956920-prichinoi-pozhara-pozdnii-vizov</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <pubDate>Sat, 24 Dec 2022 19:29:06 +0300</pubDate>
+</item>
+<item>
+  <title>В Москве и Подмосковье из-за гололедицы объявили «желтый» уровень опасности</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/24/956919-moskve-gololeditsi-obyavili-opasnosti</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/24/956919-moskve-gololeditsi-obyavili-opasnosti</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/24/956919-moskve-gololeditsi-obyavili-opasnosti</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <pubDate>Sat, 24 Dec 2022 18:42:39 +0300</pubDate>
+</item>
+<item>
+  <title>Премьер Белоруссии спрогнозировал рекордный объем экспорта в Россию</title>
+  <link>https://www.vedomosti.ru/economics/news/2022/12/24/956917-eksporta</link>
+  <guid>https://www.vedomosti.ru/economics/news/2022/12/24/956917-eksporta</guid>
+  <pdalink>https://www.vedomosti.ru/economics/news/2022/12/24/956917-eksporta</pdalink>
+  <author></author>
+  <category>Экономика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9y/12tz1l/normal-1ebr.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 24 Dec 2022 18:03:19 +0300</pubDate>
+</item>
+<item>
+  <title>В Венгрии заявили, что рост цен на энергоносители обошелся стране в 10 млрд евро</title>
+  <link>https://www.vedomosti.ru/economics/news/2022/12/24/956915-vengrii-zayavili</link>
+  <guid>https://www.vedomosti.ru/economics/news/2022/12/24/956915-vengrii-zayavili</guid>
+  <pdalink>https://www.vedomosti.ru/economics/news/2022/12/24/956915-vengrii-zayavili</pdalink>
+  <author></author>
+  <category>Экономика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9y/11vbau/normal-1d2u.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 24 Dec 2022 17:35:07 +0300</pubDate>
+</item>
+<item>
+  <title>Мантуров: Россия избежала критического падения несырьевого неэнергетического экспорта</title>
+  <link>https://www.vedomosti.ru/economics/news/2022/12/24/956913-manturov</link>
+  <guid>https://www.vedomosti.ru/economics/news/2022/12/24/956913-manturov</guid>
+  <pdalink>https://www.vedomosti.ru/economics/news/2022/12/24/956913-manturov</pdalink>
+  <author></author>
+  <category>Экономика</category>
+  <pubDate>Sat, 24 Dec 2022 17:03:23 +0300</pubDate>
+</item>
+<item>
+  <title>Рогозин получил осколочное ранение и контузию в результате обстрела</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/24/956911-rogozin</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/24/956911-rogozin</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/24/956911-rogozin</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9y/zks8x/normal-1a3w.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 24 Dec 2022 16:30:52 +0300</pubDate>
+</item>
+<item>
+  <title>В Харькове переименуют академический драмтеатр имени Пушкина</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/24/956912-harkove-pereimenuyut-dramteatr</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/24/956912-harkove-pereimenuyut-dramteatr</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/24/956912-harkove-pereimenuyut-dramteatr</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <pubDate>Sat, 24 Dec 2022 16:30:33 +0300</pubDate>
+</item>
+<item>
+  <title>Минобороны сообщило об уничтожении группы иностранных наемников в ДНР</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/24/956909-minoboroni-soobschilo</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/24/956909-minoboroni-soobschilo</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/24/956909-minoboroni-soobschilo</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <pubDate>Sat, 24 Dec 2022 16:11:08 +0300</pubDate>
+</item>
+<item>
+  <title>Мишустин подписал распоряжение о предоставлении ПФР 1,5 трлн рублей на соцвыплаты</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/24/956908-mishustin-predostavlenii-pfr-sotsviplati</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/24/956908-mishustin-predostavlenii-pfr-sotsviplati</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/24/956908-mishustin-predostavlenii-pfr-sotsviplati</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <pubDate>Sat, 24 Dec 2022 15:47:48 +0300</pubDate>
+</item>
+<item>
+  <title>Орбан: Украина может воевать до тех пор, пока ее поддерживают США</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/24/956906-orban-ukraina</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/24/956906-orban-ukraina</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/24/956906-orban-ukraina</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9y/xq3na/normal-17pi.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 24 Dec 2022 15:41:50 +0300</pubDate>
+</item>
+<item>
+  <title>МИД КНР выразил несогласие с оборонным бюджетом США из-за положений о Тайване</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/24/956904-mid-knr-nesoglasie-ssha</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/24/956904-mid-knr-nesoglasie-ssha</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/24/956904-mid-knr-nesoglasie-ssha</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <pubDate>Sat, 24 Dec 2022 15:05:31 +0300</pubDate>
+</item>
+<item>
+  <title>Умер юморист Александр Пономаренко</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/24/956903-ponomarenko</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/24/956903-ponomarenko</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/24/956903-ponomarenko</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <pubDate>Sat, 24 Dec 2022 15:04:40 +0300</pubDate>
+</item>
+<item>
+  <title>Следствие предъявило обвинение владельцу приюта в Кемерове, где погибли 22 человека</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/24/956902-sledstvie-predyavilo</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/24/956902-sledstvie-predyavilo</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/24/956902-sledstvie-predyavilo</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9y/vn7gh/normal-150f.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 24 Dec 2022 14:46:44 +0300</pubDate>
+</item>
+<item>
+  <title>«Укрэнерго» сообщила о прекращении выработки на одной электростанции</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/24/956900-ukrenergo-soobschila</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/24/956900-ukrenergo-soobschila</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/24/956900-ukrenergo-soobschila</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9y/ug9nl/normal-13gr.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 24 Dec 2022 14:10:09 +0300</pubDate>
+</item>
+<item>
+  <title>Власти Курской области сообщили об обстреле ВСУ села Попово-Лежачи</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/24/956898-vlasti-kurskoi</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/24/956898-vlasti-kurskoi</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/24/956898-vlasti-kurskoi</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9y/t88mu/normal-11vq.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 24 Dec 2022 13:38:24 +0300</pubDate>
+</item>
+<item>
+  <title>МВД подготовило законопроект о наказании за вождение под воздействием лекарств</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/24/956897-mvd-podgotovilo</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/24/956897-mvd-podgotovilo</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/24/956897-mvd-podgotovilo</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9y/s7mis/normal-10k9.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 24 Dec 2022 13:08:31 +0300</pubDate>
+</item>
+<item>
+  <title>Воронежские власти объяснили срабатывание сирен в регионе тренировкой</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/24/956894-srabativanie-siren</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/24/956894-srabativanie-siren</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/24/956894-srabativanie-siren</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <pubDate>Sat, 24 Dec 2022 12:32:47 +0300</pubDate>
+</item>
+<item>
+  <title>В России продлили программу льготного кредитования импортной продукции</title>
+  <link>https://www.vedomosti.ru/economics/news/2022/12/24/956893-lgotnogo-kreditovaniya</link>
+  <guid>https://www.vedomosti.ru/economics/news/2022/12/24/956893-lgotnogo-kreditovaniya</guid>
+  <pdalink>https://www.vedomosti.ru/economics/news/2022/12/24/956893-lgotnogo-kreditovaniya</pdalink>
+  <author></author>
+  <category>Экономика</category>
+  <pubDate>Sat, 24 Dec 2022 12:08:07 +0300</pubDate>
+</item>
+<item>
+  <title>В ЛНР анонсировали выплаты пособий по безработице</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/24/956891-posobiya</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/24/956891-posobiya</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/24/956891-posobiya</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9y/pa8oj/normal-wrp.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 24 Dec 2022 11:44:32 +0300</pubDate>
+</item>
+<item>
+  <title>Nikkei: в Японии прекратят страховать суда в водах РФ от военного ущерба</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/24/956890-yaponii</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/24/956890-yaponii</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/24/956890-yaponii</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9y/o5lrm/normal-vb1.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 24 Dec 2022 11:13:57 +0300</pubDate>
+</item>
+<item>
+  <title>В МИДе заявили о планах сохранить объем прокачки нефти через Украину</title>
+  <link>https://www.vedomosti.ru/economics/news/2022/12/24/956886-obem-prokachki</link>
+  <guid>https://www.vedomosti.ru/economics/news/2022/12/24/956886-obem-prokachki</guid>
+  <pdalink>https://www.vedomosti.ru/economics/news/2022/12/24/956886-obem-prokachki</pdalink>
+  <author></author>
+  <category>Экономика</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9y/ma5er/normal-svl.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 24 Dec 2022 10:24:54 +0300</pubDate>
+</item>
+<item>
+  <title>Минобороны назвало участников военно-биологических программ США на Украине</title>
+  <link>https://www.vedomosti.ru/politics/news/2022/12/24/956885-minoboroni</link>
+  <guid>https://www.vedomosti.ru/politics/news/2022/12/24/956885-minoboroni</guid>
+  <pdalink>https://www.vedomosti.ru/politics/news/2022/12/24/956885-minoboroni</pdalink>
+  <author></author>
+  <category>Политика</category>
+  <pubDate>Sat, 24 Dec 2022 10:08:02 +0300</pubDate>
+</item>
+<item>
+  <title>При пожаре в доме престарелых в Кемерове погибли 20 человек</title>
+  <link>https://www.vedomosti.ru/society/news/2022/12/24/956884-pri-pozhare</link>
+  <guid>https://www.vedomosti.ru/society/news/2022/12/24/956884-pri-pozhare</guid>
+  <pdalink>https://www.vedomosti.ru/society/news/2022/12/24/956884-pri-pozhare</pdalink>
+  <author></author>
+  <category>Общество</category>
+  <enclosure url="https://cdn.vdmsti.ru/image/2022/9y/khvii/normal-qkb.jpg" type="image/jpeg"/>
+  <pubDate>Sat, 24 Dec 2022 09:26:03 +0300</pubDate>
+</item>
+  </channel>
+</rss>

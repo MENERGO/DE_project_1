@@ -1,0 +1,2417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <language>ru</language>
+    <title>Lenta.ru : Новости</title>
+    <description>Новости, статьи, фотографии, видео. Семь дней в неделю, 24 часа в сутки.</description>
+    <link>https://lenta.ru</link>
+    <image>
+      <url>https://lenta.ru/images/small_logo.png</url>
+      <title>Lenta.ru</title>
+      <link>https://lenta.ru</link>
+      <width>134</width>
+      <height>22</height>
+    </image>
+    <atom:link rel="self" type="application/rss+xml" href="http://lenta.ru/rss"/>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/to-look-younger/</guid>
+  <author>Алина Гостева</author>
+  <title>50-летняя блогерша раскрыла быстрый способ визуально омолодить кожу</title>
+  <link>https://lenta.ru/news/2022/12/26/to-look-younger/</link>
+  <description>
+    <![CDATA[Блогерша Эйми Монтгомери раскрыла быстрый способ визуально омолодить кожу.  Улучшить внешний вид поможет витамин Е в жидком виде. Данный метод борьбы со старением передавался в ее семье из поколения в поколение, пояснила женщина. Кроме того, чтобы избавиться от признаков возрастных изменений, следует пить много воды.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 14:22:54 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226124902827/pic_e4489fad3ba9f5946d73f175acaac749.jpeg" type="image/jpeg" length="16253"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/nocriminalinodisha/</guid>
+  <author>Глеб Бажуткин</author>
+  <title>Генконсульство РФ не усмотрело криминала в смерти двух россиян в Индии</title>
+  <link>https://lenta.ru/news/2022/12/26/nocriminalinodisha/</link>
+  <description>
+    <![CDATA[Россия не видит никакого криминала в смерти двух соотечественников в Индии, заявил генконсул РФ в Калькутте Алексей Идамкин. «Мы в курсе смертей двух граждан России», — сказал Идамкин. По его словам, дипмиссия находится в контакте с родственниками умерших, а также с полицейским управлением города. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 14:22:15 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226135806211/pic_ee49cf4a7e95fe380e954adcf33d1163.jpg" type="image/jpeg" length="33677"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/diveeeers/</guid>
+  <author>Елизавета Новикова</author>
+  <title>ФСБ ликвидировала на границе четырех диверсантов с Украины</title>
+  <link>https://lenta.ru/news/2022/12/26/diveeeers/</link>
+  <description>
+    <![CDATA[Сотрудники ФСБ ликвидировали на границе диверсионно-разведывательную группу с Украины, пытавшуюся проникнуть на территорию Брянской области.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 14:22:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/14/20221226142202193/pic_608a19472e4f6417ad733005f245d6b3.jpg" type="image/jpeg" length="22154"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/losenok/</guid>
+  <author>Константин Лысяков</author>
+  <title>Россияне сняли на видео спасение застрявшего под грудой бревен лосенка</title>
+  <link>https://lenta.ru/news/2022/12/26/losenok/</link>
+  <description>
+    <![CDATA[В Якутии лосиха с детенышем провалились в яму для заготовки леса. Взрослому животному удалось выбраться самостоятельно, а лосенок застрял под грудой бревен. Он оказался крупного размера, так что рабочим пришлось использовать для его спасения технику. Операцию по извлечению животного сняли на видео.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 14:18:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226132558356/pic_2dc2da875c05717572f5ce6995c446cd.jpg" type="image/jpeg" length="24183"/>
+  <category>69-я параллель</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/turkey/</guid>
+  <author>Зарина Дзагоева</author>
+  <title>Россиянам раскрыли способ добраться до Турции за восемь тысяч рублей</title>
+  <link>https://lenta.ru/news/2022/12/26/turkey/</link>
+  <description>
+    <![CDATA[Крупнейшая российская авиакомпания «Аэрофлот» расширила число направлений, на которые действует новогодняя распродажа. Теперь россияне могут улететь из Москвы в Стамбул за 8200 рублей или в узбекскую Бухару за 8400 рублей. Также из Москвы есть рейсы за две тысячи рублей в Санкт-Петербург.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 14:16:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226122210997/pic_2c858eb7736e07d5e5d898c9018b42a0.jpeg" type="image/jpeg" length="32414"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/vsupoteri/</guid>
+  <author>Кристина Есикова</author>
+  <title>В ЛНР рассказали о катастрофических потерях ВСУ</title>
+  <link>https://lenta.ru/news/2022/12/26/vsupoteri/</link>
+  <description>
+    <![CDATA[Офицер Народной милиции Луганской народной республики (НМ ЛНР) Андрей Марочко заявил, что Вооруженные силы Украины (ВСУ) ежедневно теряют около 500 бойцов под Артемовском. « А сватовское, соледарское направление уже догоняют и артемовское направление — там потери у противника тоже катастрофические», — сказал он.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 14:14:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/14/20221226140510467/pic_23af200ff48b08a72b8d1a946cd4e062.jpg" type="image/jpeg" length="45955"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/una_rus/</guid>
+  <author>Анастасия Астахова</author>
+  <title>Внучка Чарли Чаплина высказалась об образах русских злодеев в кино</title>
+  <link>https://lenta.ru/news/2022/12/26/una_rus/</link>
+  <description>
+    <![CDATA[Актриса и внучка Чарли Чаплина Уна Чаплин высказалась об образах русских злодеев в кинематографе. Артистка призналась, что устала от стереотипов о том, что все русские — плохие парни, а также выразила надежду на то, что в скором времени идеологическая война между Россией и Западом останется в прошлом. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 14:13:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226133014358/pic_ed9bd2a9fdda315eb8edf5459695f981.jpg" type="image/jpeg" length="20280"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/test/</guid>
+  <author>Елена Апазиди</author>
+  <title>Создан новый вид диагностики для выявления инфекций</title>
+  <link>https://lenta.ru/news/2022/12/26/test/</link>
+  <description>
+    <![CDATA[Команда американских специалистов из Медицинской школы Стэнфордского университета и других исследовательских центров США создали новый вид диагностических тестов для выявления бактериальных и вирусных инфекций. Эта разработка позволит сократить употребление антибиотиков во всем мире. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 14:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226123650576/pic_626926bed9be76e837c03895d4fa0e83.jpg" type="image/jpeg" length="19868"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/benzema/</guid>
+  <author>Ксения Курашкина</author>
+  <title>Друг Бензема обвинил тренера сборной Франции во лжи</title>
+  <link>https://lenta.ru/news/2022/12/26/benzema/</link>
+  <description>
+    <![CDATA[Бывший агент нападающего Карима Бензема Карим Джазири обвинил главного тренера сборной Франции по футболу Дидье Дешама во лжи по поводу травмы форварда перед чемпионатом мира. «По версии Стефана [Ги, помощника Дешама], он не мог выступить на турнире! Продолжайте врать, правда все равно всплывет», — добавил Джазири.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 14:09:33 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226134828013/pic_be42011cda80c5d2a416f46c079e8909.jpg" type="image/jpeg" length="25676"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/utochgd/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>В Госдуме объяснили идею о поправках по налогам для покинувших страну россиян</title>
+  <link>https://lenta.ru/news/2022/12/26/utochgd/</link>
+  <description>
+    <![CDATA[Замруководителя думской фракции «Единой России» Андрей Исаев рассказал, что разрабатываемые Госдумой поправки предусматривают отмену режима самозанятости для тех, кто покинул страну. Кроме того, они подразумевают повышение налогов для уехавших из России индивидуальных предпринимателей.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 14:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/14/20221226140625105/pic_5e6056a2430ff700ce610c5ddc78b6f0.jpg" type="image/jpeg" length="36009"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/otkluchenie/</guid>
+  <author>Алина Гончарова</author>
+  <title>В Киеве введены аварийные отключения света</title>
+  <link>https://lenta.ru/news/2022/12/26/otkluchenie/</link>
+  <description>
+    <![CDATA[В Киеве и пяти областях Украины введены аварийные отключения света, сообщили в «Укрэнерго». Из-за превышения лимитов потребления введены аварийные отключения в Днепропетровской, Запорожской, Харьковской, Львовской, Киевской областях и в Киеве. Ведутся ремонтные работы на объектах генерации и электросетях.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 14:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/14/20221226140031192/pic_f40a49000a39c7ee2ff793627f4dd46c.jpg" type="image/jpeg" length="15687"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/vnukpodrost/</guid>
+  <author>Екатерина Власова</author>
+  <title>Неизвестный изрезал российскую пенсионерку и ее внука-подростка</title>
+  <link>https://lenta.ru/news/2022/12/26/vnukpodrost/</link>
+  <description>
+    <![CDATA[В Челябинской области неизвестный напал с ножом на 66-летнюю пенсионерку и ее 14-летнего внука. Вечером 25 декабря злоумышленник проник в частный дом, расположенный в деревне Мохивички. Там он изрезал подростка и его бабушку. Потерпевшие получили ранения грудной клетки, их госпитализировали.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 14:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226134325540/pic_8c00d3f40b64f593faf98915f9f14a0a.jpeg" type="image/jpeg" length="28499"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/wednesdaydance/</guid>
+  <author>Дениза Мацаева</author>
+  <title>Шоураннер «Уэнсдэй» объяснил причину участия в съемках больной ковидом актрисы</title>
+  <link>https://lenta.ru/news/2022/12/26/wednesdaydance/</link>
+  <description>
+    <![CDATA[Шоураннер сериала «Уэнсдэй» Майлз Миллар объяснил, почему создатели шоу не приостановили съемки, когда Дженна Ортега была больна ковидом. По его словам, за день до танцевальной сцены у актрисы был отрицательный результат теста на коронавирус. Миллар подчеркнул, что на площадке строго соблюдались антиковидные протоколы.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 14:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226132258854/pic_6549f6f1cd99c5cb76f567dd1d8ee69d.jpeg" type="image/jpeg" length="22905"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/otvvvv/</guid>
+  <author>Сергей Истомин</author>
+  <title>В Совфеде ответили на планы Украины добиться исключения России из Совбеза ООН</title>
+  <link>https://lenta.ru/news/2022/12/26/otvvvv/</link>
+  <description>
+    <![CDATA[Председатель комиссии Совета Федерации по защите госсуверенитета Андрей Климов в понедельник, 26 декабря, ответил на слова министра иностранных дел Украины Дмитрия Кулебы о том, что Киев планирует выступить с заявлением по вопросу исключения России из состава Совета Безопасности ООН. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226133649463/pic_e6a58c3ebc2313e2c7107da9d2ec4bd7.jpeg" type="image/jpeg" length="33482"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/shevchenko/</guid>
+  <author>Марина Погосян</author>
+  <title>Умер автор песен Алсу и Жасмин Александр Шевченко</title>
+  <link>https://lenta.ru/news/2022/12/26/shevchenko/</link>
+  <description>
+    <![CDATA[Умер российский музыкант и автор песен Александр Шевченко. Композитор скоропостижно скончался в 61 год. Причиной его смерти стал оторвавшийся тромб. В 1990-х Шевченко попробовал себя в качестве продюсера, а также занялся написанием песен для таких звезд, как Алсу, Жасмин, Алена Свиридова и Ирина Аллегрова.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226132804749/pic_9d563aef6d4e650351b1e13469b3e858.jpg" type="image/jpeg" length="27054"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/kad/</guid>
+  <author>Антон Похиляк</author>
+  <title>Кадыров пообещал «перещелкать» американские системы Patriot</title>
+  <link>https://lenta.ru/news/2022/12/26/kad/</link>
+  <description>
+    <![CDATA[Глава Чеченской Республики Рамзан Кадыров пообещал «перещелкать» американские зенитные ракетные комплексы Patriot, которые США пообещали поставить Украине. Помимо этого, он пригрозил «перещелкать» и «любого, кто посмеет направить оружие против нас». Ранее о поставках Patriot сообщил Джо Байден.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226133819687/pic_6800d26f251f11cf65c56cb3f1d7a96e.jpeg" type="image/jpeg" length="29944"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/punkt_dnr/</guid>
+  <author>Константин Лысяков</author>
+  <title>Минобороны заявило об уничтожении ремонтного пункта ВСУ с системами HIMARS в ДНР</title>
+  <link>https://lenta.ru/news/2022/12/26/punkt_dnr/</link>
+  <description>
+    <![CDATA[Российские войска уничтожили возле города Краматорска Донецкой народной республики (ДНР) пункт ремонта Вооруженных сил Украины (ВСУ), на котором располагались две реактивные системы залпового огня (РСЗО) HIMARS, произведенные в США, заявил представитель Минобороны генерал-лейтенант Игорь Конашенков.<br />]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226135121696/pic_80dd67375a5e5a74035ce5a59e1b1e63.jpg" type="image/jpeg" length="23919"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/razvedka/</guid>
+  <author>Кристина Есикова</author>
+  <title>На Украине заявили о службе советника главы офиса Зеленского в разведке</title>
+  <link>https://lenta.ru/news/2022/12/26/razvedka/</link>
+  <description>
+    <![CDATA[Советник главы офиса президента Украины Владимира Зеленского Алексей Арестович проходил службу в разведке. «Когда-то, насколько я помню, (Арестович — прим. «Ленты.ру») проходил тут службу. (...) Это было давно, нужно поднять данные. Насколько я помню, да», — сообщил руководитель ГУР Кирилл Буданов. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226133747427/pic_180d6d49988f6c29ef7d2d4275e8efab.jpg" type="image/jpeg" length="18072"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/gekhekha/</guid>
+  <author>Александра Качан</author>
+  <title>В Госдуме назвали условие изменения размеров платежей ЖКХ</title>
+  <link>https://lenta.ru/news/2022/12/26/gekhekha/</link>
+  <description>
+    <![CDATA[Чтобы реализовать предложение изменить размеры коммунальных платежей с учетом доходов россиян, нужно искать бюджетные источники, сообщил член комитета Госдумы по строительству и ЖКХ Якубовский. Он отметил, что, если предложение будет принято, потребуется корректировка бюджета и выделение дополнительных средств.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226124911248/pic_5f01f0c8deeec47993557ab77e24a3db.jpg" type="image/jpeg" length="24368"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/drg/</guid>
+  <author>Марк Леонов</author>
+  <title>Минобороны сообщило об уничтожении диверсионной группы ВСУ в ЛНР</title>
+  <link>https://lenta.ru/news/2022/12/26/drg/</link>
+  <description>
+    <![CDATA[Вооруженные силы России уничтожили ДРГ Вооруженных сил Украины (ВСУ) в районе Луганской народной республики. Об этом сообщил журналистам официальный спикер Минобороны России генерал-лейтенант Игорь Конашенков. Общее число потерь ВСУ на этом участке спецоперации составило более 30 солдат.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226135032949/pic_0ffd469db8a574b8b0f68aed8cba8c05.jpg" type="image/jpeg" length="17875"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/bespilot/</guid>
+  <author>Варвара Родикова</author>
+  <title>Российские военные уничтожили семь беспилотников ВСУ</title>
+  <link>https://lenta.ru/news/2022/12/26/bespilot/</link>
+  <description>
+    <![CDATA[Российские военнослужащие уничтожили семь беспилотных летательных аппаратов Вооруженных сил Украины (ВСУ) в Донецкой и Луганской народных республиках и Херсонской области. Об этом журналистам сообщили в Минобороны России. Также были перехвачены две противорадиолокационные ракеты HARM в районе поселка Байрак в ДНР.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226135503616/pic_4dde399f1991e66034eb3049080b58df.jpg" type="image/jpeg" length="23139"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/bought-dyson/</guid>
+  <author>Алина Гостева</author>
+  <title>Блогерша попросила у отца прибор бренда Dyson и получила пылесос вместо фена</title>
+  <link>https://lenta.ru/news/2022/12/26/bought-dyson/</link>
+  <description>
+    <![CDATA[Блогершу с никнеймом @talelindblom рассмешил подаренный отцом прибор бренда Dyson. Девушка на праздник попросила у родственника устройство данной марки, имея в виду популярный мультистайлер Dyson Airwrap. Однако впоследствии оказалось, что мужчина купил дочери пылесос указанной фирмы.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226115741927/pic_fe1a287fd467bd0ca0c9a42e6a45403a.jpg" type="image/jpeg" length="19126"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/minno/</guid>
+  <author>Сергей Истомин</author>
+  <title>Минобороны заявило об уничтожении американской системы М777 в ДНР</title>
+  <link>https://lenta.ru/news/2022/12/26/minno/</link>
+  <description>
+    <![CDATA[В районе населенного пункта Георгиевка Донецкой народной республики (ДНР) была вскрыта позиция и уничтожена артиллерийская американская система М777, из которой велись обстрелы жилых кварталов Донецка. Об этом в понедельник, 26 декабря, журналистам заявили в Министерстве обороны России.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226135125652/pic_4d437b79d874554648c4357363c6b2b2.jpg" type="image/jpeg" length="31689"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/rubezh/</guid>
+  <author>Никита Абрамов</author>
+  <title>Российские войска заняли выгодные рубежи на донецком направлении</title>
+  <link>https://lenta.ru/news/2022/12/26/rubezh/</link>
+  <description>
+    <![CDATA[Вооруженные силы России заняли выгодные рубежи и позиции на донецком направлении. Об этом сообщили в Минобороны России. В результате удара по командному пункту 80-й десантно-штурмовой бригады ВСУ было уничтожено больше 35 украинских солдат, среди которых находились пять старших офицеров.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226135803588/pic_1a81aa2cfdaf45cb784569f967d14db3.jpg" type="image/jpeg" length="37068"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/podrostok/</guid>
+  <author>Марк Леонов</author>
+  <title>Школьница насмерть замерзла на улице в российском регионе</title>
+  <link>https://lenta.ru/news/2022/12/26/podrostok/</link>
+  <description>
+    <![CDATA[На улице в башкирском селе Дуван-Мечетлино обнаружили тело 17-летней школьницы. Как сообщает Telegram-канал Mash Batash, девушка скончалась от переохлаждения. По данным издания, последние годы подросток воспитывалась в приемной семье вместе с четырьмя другими усыновленными детьми.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:43:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226132318430/pic_dccf05a85a4848667b055019e5bddd5e.jpg" type="image/jpeg" length="39175"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/dronesmimo/</guid>
+  <author>Глеб Бажуткин</author>
+  <title>Южная Корея выпустила 100 снарядов по дронам КНДР и промахнулась</title>
+  <link>https://lenta.ru/news/2022/12/26/dronesmimo/</link>
+  <description>
+    <![CDATA[Южнокорейские военные выпустили около сотни снарядов по пяти дронам КНДР, которые пересекли межкорейскую границу, но промахнулись. По словам военнослужащего Объединенного комитета начальников штабов Южной Кореи Ли Сын О, по северокорейским беспилотникам была сначала воспроизведена серия «предупредительных выстрелов».]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:43:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226133306755/pic_c148d8230e9ebffe0b77b36cdcc2f5ed.jpg" type="image/jpeg" length="10160"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/shag/</guid>
+  <author>Екатерина Смирная</author>
+  <title>Беспилотники КНДР над Южной Кореей назвали предупреждением</title>
+  <link>https://lenta.ru/news/2022/12/26/shag/</link>
+  <description>
+    <![CDATA[Вторжение беспилотников КНДР в воздушное пространство Южной Кореи является предупредительными шагами со стороны Пхеньяна, считает доцент Дальневосточного федерального университета, кандидат политических наук Андрей Губин. В беседе с «Лентой.ру» он назвал ситуацию тревожной.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:41:27 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226133453828/pic_bfc7ea71fc5b553fd70711d6044a5a05.jpg" type="image/jpeg" length="26344"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/applemobile/</guid>
+  <author>Кирилл Садовский</author>
+  <title>Россиянам указали на возможность обойти новые ограничения Apple</title>
+  <link>https://lenta.ru/news/2022/12/26/applemobile/</link>
+  <description>
+    <![CDATA[Ряд ограничений со стороны компании Apple в отношении российских пользователей не является критичным для использования гаджетов, заявил «Ленте.ру» гендиректор TelecomDaily Денис Кусков. При этом эксперт пояснил, что у россиян есть возможность частично обойти эти ограничения.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:37:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226125748109/pic_a218ad85e17e811906b3f70532157fa4.jpg" type="image/jpeg" length="10102"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/irannnn/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Протестующая в Иране получила 10 лет тюрьмы за снятие платка</title>
+  <link>https://lenta.ru/news/2022/12/26/irannnn/</link>
+  <description>
+    <![CDATA[25-летнюю иранку Махсу Пейрави приговорили к десяти годам тюремного заключения за «поощрение проституции» после того, как она сняла платок во время акции протеста в Тегеране. Тегеранский революционный суд признал ее виновной в «поощрении коррупции и проституции», а также в «собрании и сговоре».]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226132242672/pic_6bc42d28962c71846ec059435879178d.jpg" type="image/jpeg" length="24251"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/wednesday_two/</guid>
+  <author>Анастасия Астахова</author>
+  <title>Создатели «Уэнсдэй» поделились подробностями второго сезона сериала</title>
+  <link>https://lenta.ru/news/2022/12/26/wednesday_two/</link>
+  <description>
+    <![CDATA[Создатели «Уэнсдэй» рассказали о том, что будет во втором сезоне проекта. Сценаристы отметили, что основной идеей в шоу является сестринство. Эта же тема будет раскрыта в продолжении сериала. В конце первого сезона школа «Невермор» закрывается, что, по словам авторов проекта, «дает больше свободы для продолжения».]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:34:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226122420255/pic_ff912e4074286c184ab8543fa92c24ca.jpg" type="image/jpeg" length="19024"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/ppk_svch/</guid>
+  <author>Даниил Иринин</author>
+  <title>«Калашников» изучит опыт использования ППК-20 и СВЧ в СВО</title>
+  <link>https://lenta.ru/news/2022/12/26/ppk_svch/</link>
+  <description>
+    <![CDATA[Концерн «Калашников» изучает опыт использования снайперской винтовки Чукавина и пистолета-пулемета Калашникова в зоне проведения специальной военной операции на Украине, сообщил президент группы компаний Алан Лушников. СВЧ заменит снайперскую винтовку Драгунова, которую приняли на вооружение в 1960-х годах. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:31:47 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226121315146/pic_b0ee5b42d72f745e97215459b9803312.jpg" type="image/jpeg" length="21128"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/kalinjant/</guid>
+  <author>Екатерина Власова</author>
+  <title>Российские полицейские изъяли из оборота 15 тонн незаконно добытого янтаря</title>
+  <link>https://lenta.ru/news/2022/12/26/kalinjant/</link>
+  <description>
+    <![CDATA[Оперативники ГУЭБиПК МВД России и их коллеги из Калининградской области выявили канал незаконного оборота янтаря. Задержаны четверо жителей региона. Они организовали скупку янтаря, который добывали незаконно, затем обрабатывали его и реализовывали. Отмечается, что камни разделяли на фракции, шлифовали.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:29:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226120008793/pic_46c9ddef857050cf86f7f1c3407316b5.jpeg" type="image/jpeg" length="44058"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/dedm/</guid>
+  <author>Платон Щукин</author>
+  <title>Поздравление от Деда Мороза подорожало на 20 процентов за год</title>
+  <link>https://lenta.ru/news/2022/12/26/dedm/</link>
+  <description>
+    <![CDATA[Средняя стоимость поздравления от Деда Мороза и Снегурочки за год выросла на 20 процентов и составила 2102 рубля. Для расчета индекса использовалась средняя стоимость поздравления аниматоров в декабре. Эксперты прогнозируют, что в следующем 2023 году индекс Деда Мороза вырастет еще на 12 процентов, до 2356 рублей.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226115628988/pic_940d576ae11370814c497616501a22e8.jpeg" type="image/jpeg" length="22826"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/lonelyiamsolonely/</guid>
+  <author>Алиса Дмитриева</author>
+  <title>Названы способы принять одиночество на праздниках и насладиться им</title>
+  <link>https://lenta.ru/news/2022/12/26/lonelyiamsolonely/</link>
+  <description>
+    <![CDATA[Эксперты в области коммуникаций и психологии обратились к людям, которые встретят праздники в одиночестве, и назвали способы сделать время наедине с собой приятным. Если чувство одиночества давит, специалисты предлагают принять свои ощущения и разрешить себе проживать их.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:24:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/23/16/20221223162517819/pic_2ee4ee81426ce443bdcfcd23a191adfd.jpeg" type="image/jpeg" length="14207"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/reason/</guid>
+  <author>Платон Щукин</author>
+  <title>Центробанк поспорил с Минфином из-за причин снижения курса рубля</title>
+  <link>https://lenta.ru/news/2022/12/26/reason/</link>
+  <description>
+    <![CDATA[Декабрьское ослабление курса рубля связано со снижением цен на российскую нефть, то есть с ухудшением внешних условий, заявил заместитель председателя Банка России Алексей Заботкин. Таким образом он вступил в заочный спор с главой Минфина Антоном Силуановым, который объяснил ситуацию ростом импорта.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:23:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226131247207/pic_64cd112302bc4550f62ab8f6df3d255c.jpg" type="image/jpeg" length="34035"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/budanov_map/</guid>
+  <author>Георгий Нестеров</author>
+  <title>В кабинете главы украинской разведки заметили карту «расчлененной» России</title>
+  <link>https://lenta.ru/news/2022/12/26/budanov_map/</link>
+  <description>
+    <![CDATA[В кабинете руководителя Главного управления разведки Министерства обороны Украины Кирилла Буданова обнаружили карту «расчлененной» России. На ней, в частности, Курская, Белгородская области и Кубань были отнесены к Украине, а Калининградская область — к Германии.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:20:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226131437132/pic_331eb6df6bc5f3acf32d759c5119f8ae.jpg" type="image/jpeg" length="21952"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/avatar/</guid>
+  <author>Дениза Мацаева</author>
+  <title>«Аватар 2» собрал более 850 миллионов долларов в мировом прокате</title>
+  <link>https://lenta.ru/news/2022/12/26/avatar/</link>
+  <description>
+    <![CDATA[Фильм «Аватар: Путь воды» режиссера Джеймса Кэмерона собрал 855 миллионов долларов в мировом прокате за 10 дней после премьеры. По этому показателю лента заняла пятое место в рейтинге самых кассовых картин года. Наибольшим спросом за пределами Северной Америки картина пользовалась в Китае, Корее и Франции. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:20:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226123932653/pic_568842ee1636e11c5db673552d332677.jpeg" type="image/jpeg" length="31843"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/tourist_card/</guid>
+  <author>Фариза Бацазова</author>
+  <title>В России создадут «карту туриста» для иностранцев</title>
+  <link>https://lenta.ru/news/2022/12/26/tourist_card/</link>
+  <description>
+    <![CDATA[В России создадут «карту туриста» для иностранцев с целью увеличения въездного турпотока. Об этом сообщил глава Минэкономразвития Максим Решетников на встрече с представителями туристической индустрии. Благодаря карте у иностранных путешественников появится возможность рассчитываться в РФ безналичным способом. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226123708910/pic_090b909805511f99e408f5b827865685.jpeg" type="image/jpeg" length="29238"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/kavkaz/</guid>
+  <author>Валентина Процкова</author>
+  <title>Стало известно о дефиците мест в отелях на Северном Кавказе</title>
+  <link>https://lenta.ru/news/2022/12/26/kavkaz/</link>
+  <description>
+    <![CDATA[Россиян предупредили о возникшем дефиците мест в отелях на Северном Кавказе на Новый год. Так, о практически 100-процентной загрузке на зимние каникулы сообщили в гостиницах горнолыжных курортов «Архыз» и «Домбай» в Карачаево-Черкесии, «Эльбрус» в Кабардино-Балкарии и «Ведучи» в Чечне. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226131936238/pic_50d6d93aabec525369071c2e7d4b47da.jpg" type="image/jpeg" length="45312"/>
+  <category>Моя страна</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/naryad/</guid>
+  <author>Майя Пономаренко</author>
+  <title>Кейт Миддлтон отметила Рождество в старом наряде</title>
+  <link>https://lenta.ru/news/2022/12/26/naryad/</link>
+  <description>
+    <![CDATA[Принцесса Уэльская Кэтрин отметила Рождество вместе с королевской семьей в старом наряде. Кейт Миддлтон отправилась на праздничную службу в церковь Святой Марии Магдалины вместе с мужем и детьми в старом пальто цвета хаки бренда Alexander McQueen, в котором она уже появлялась на публике в 2020 году.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:13:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226122825323/pic_fc3496da3270ccd86c71d5bd8c1effec.jpeg" type="image/jpeg" length="21171"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/povestkaukr/</guid>
+  <author>Кристина Есикова</author>
+  <title>На Украине назвали причину раздачи повесток на улицах</title>
+  <link>https://lenta.ru/news/2022/12/26/povestkaukr/</link>
+  <description>
+    <![CDATA[Украинцам раздают повестки на улицах, так как делать это по домашним адресам малоэффективно. Начальник управления персонала штаба командования Сухопутных войск Вооруженных сил Украины Роман Горбач объяснил, что люди не открывают двери. Как он утверждает, в 95 процентах случаев получивших повестки отправляют домой.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:08:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226125116457/pic_cb57a2d2d822c57f3c633a82be3fb566.jpg" type="image/jpeg" length="30832"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/telekanaly/</guid>
+  <author>Евгения Наумова</author>
+  <title>Первому каналу поручили увеличить число передач о традиционных ценностях</title>
+  <link>https://lenta.ru/news/2022/12/26/telekanaly/</link>
+  <description>
+    <![CDATA[Вице-премьер России Татьяна Голикова поручила Минцифры, Первому каналу и другим телеканалам увеличить число фильмов и передач о традиционных ценностях. Соответствующая информация следует из протокола заседания Совета при правительстве России по вопросам попечительства в социальной сфере.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226122739307/pic_fd8c5b9189a685da930cbb8d21d402da.jpg" type="image/jpeg" length="17921"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/boltenkov/</guid>
+  <author>Алина Хасанбекова</author>
+  <title>Военный эксперт заявил о превосходстве РСЗО «Торнадо-С» над американскими HIMARS</title>
+  <link>https://lenta.ru/news/2022/12/26/boltenkov/</link>
+  <description>
+    <![CDATA[Технические характеристики РСЗО «Торнадо-С» превосходят американские ракеты HIMARS. Об этом сообщают «Известия» со ссылкой на военного эксперта Дмитрия Болтенкова. По его словам, для «Торнадо-С» были разработаны новые боеприпасы, и уже завершилась поставка ракет для российской армии.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226124609435/pic_aa8a92f46fa9e788ec3e70af684f8c1e.jpeg" type="image/jpeg" length="33877"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/leonkov/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Названо главное назначение российской ракеты «Сатана»</title>
+  <link>https://lenta.ru/news/2022/12/26/leonkov/</link>
+  <description>
+    <![CDATA[Использование российскими военными ракеты «Сатана» против Вооруженных сил Украины крайне маловероятно. Такое мнение в разговоре с «Лентой.ру» высказал военный эксперт Алексей Леонков. Он описал боевые характеристики этого вида оружия, а также назвал их главное назначение.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 13:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226125900683/pic_c2a425fd84908401b815a85165fb8b98.jpg" type="image/jpeg" length="13070"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/rkc/</guid>
+  <author>Наталия Белова</author>
+  <title>Политолог заявил о «мучительном выборе» Казахстана</title>
+  <link>https://lenta.ru/news/2022/12/26/rkc/</link>
+  <description>
+    <![CDATA[Политолог Владимир Жарихин заявил, что Россия ждала большей поддержки от Казахстана в преодолении последствий западных санкций. Тем не менее нежелание страны ее оказать было предсказуемым: Казахстан сильно зависит от американских энергетических монополий и опасается давления на собственную экономику.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:58:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226124826762/pic_4dc2e97e5b91bbf023c84023429c0ce7.jpg" type="image/jpeg" length="37166"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/5_lessons/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Названы пять уроков конфликта России и Украины</title>
+  <link>https://lenta.ru/news/2022/12/26/5_lessons/</link>
+  <description>
+    <![CDATA[Один из главных уроков конфликта России и Украины — рост важности военных запасов стран и их промышленного потенциала. По словам аналитиков, «большая война вернулась» в политическое поле, что требует контроля за запасами оружия для успешного ведения интенсивных боевых действий.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:57:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226125741861/pic_a736adb009b784fa18a3ca66720e51aa.jpg" type="image/jpeg" length="25697"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/dav20idei/</guid>
+  <author>Екатерина Власова</author>
+  <title>Автор идей по развитию России иноагент Давыдов объявлен в розыск</title>
+  <link>https://lenta.ru/news/2022/12/26/dav20idei/</link>
+  <description>
+    <![CDATA[МВД объявило в розыск автора проекта «20 идей по развитию России» Дмитрия Давыдова (признан Минюстом РФ иноагентом). Известно, что Давыдов является совладельцем букмекерской компании «Олимп». В СМИ его также называют казахстанскиим бизнесменом. Причиной для объявления в уголовный розыск стала статья УК РФ.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/13/20221226130417183/pic_5a1045e0c31b47c46fe7fe7684a62546.jpg" type="image/jpeg" length="19610"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/west_lavrov/</guid>
+  <author>Полина Матюхина</author>
+  <title>Лавров предрек сокращение возможностей Запада «рулить» в мировой экономике</title>
+  <link>https://lenta.ru/news/2022/12/26/west_lavrov/</link>
+  <description>
+    <![CDATA[Страны Запада вскоре столкнутся с серьезным сокращением возможностей «рулить» в мировой экономике, им придется договариваться с другими государствами. Об этом в ходе встречи с руководителями российских СМИ заявил глава МИД страны Сергей Лавров, добавив, что Москва не планирует бегать за Западом.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226124858274/pic_cea25f8de81beb52f08c6515975e6ada.jpeg" type="image/jpeg" length="18423"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/tok/</guid>
+  <author>Константин Лысяков</author>
+  <title>Российская школьница залезла на крышу товарного поезда и погибла от удара током</title>
+  <link>https://lenta.ru/news/2022/12/26/tok/</link>
+  <description>
+    <![CDATA[Тело 13-летней девочки нашли 25 декабря на станции Голиковка в Петрозаводске. Следователи выяснили, что школьница залезла на крышу стоящего грузового вагона и получила электротравму. Ребенок скончался на месте. Возбуждено уголовное дело по статье о нарушении правил эксплуатации железнодорожного транспорта.<br />]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:53:49 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226123812720/pic_ea2e99004984169a84653708254d4818.jpg" type="image/jpeg" length="21337"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/covidss/</guid>
+  <author>Анна Щербакова</author>
+  <title>Для приезжающих в Россию из КНР призвали вернуть тестирование на COVID-19</title>
+  <link>https://lenta.ru/news/2022/12/26/covidss/</link>
+  <description>
+    <![CDATA[Вспышка COVID-19 в Китайской Народной Республике (КНР) может докатиться и до России, в связи с эти следует вернуть тестирование на вирус для приезжающих в страну. С таким призывом выступил иммунолог Николай Крючков. По мнению специалиста, всплеск заболеваемости в Китае может породить новые опасные штаммы. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226123509958/pic_cc9295a719678278ede892a61aa7f29d.jpg" type="image/jpeg" length="25471"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/the_same/</guid>
+  <author>Платон Щукин</author>
+  <title>Российским металлургам предложили поменять Европу на Африку</title>
+  <link>https://lenta.ru/news/2022/12/26/the_same/</link>
+  <description>
+    <![CDATA[Европейские санкции заставляют российские металлургические предприятия менять торговых партнеров и регионы поставок, в приоритете Китай, страны ЕАЭС, Турция, государства Африки, Латинской Америки, Ближнего Восток. Об этом на совещании у премьер-министра Михаила Мишустина заявил вице-премьер Денис Мантуров.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226122154962/pic_bb9d8b00820f34c15af70d7f65037684.jpg" type="image/jpeg" length="31605"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/southkoreacouldnt/</guid>
+  <author>Глеб Бажуткин</author>
+  <title>Южная Корея не смогла сбить беспилотники КНДР</title>
+  <link>https://lenta.ru/news/2022/12/26/southkoreacouldnt/</link>
+  <description>
+    <![CDATA[Южнокорейский штурмовик КА-1 потерпел крушение вследствие неудачной попытки сбить замеченные в небе Сеула беспилотные летательные средства (БПЛА) КНДР. Сообщается, что после попытки перехвата северокорейских дронов КА-1 потерпел крушение примерно в 140 километрах от Сеула, в округе Хенсон. Два пилота самолета спаслись.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:49:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226124615611/pic_f486ed9d57a8a0a64a459b2c1d1ec56e.jpg" type="image/jpeg" length="13297"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/ufcfbi/</guid>
+  <author>Ксения Курашкина</author>
+  <title>ФБР заподозрило бойца UFC в организации договорного поединка</title>
+  <link>https://lenta.ru/news/2022/12/26/ufcfbi/</link>
+  <description>
+    <![CDATA[ФБР заподозрило американца Дэррика Миннера и его тренера Джеймса Краузе в организации договорного поединка в UFC. 6 ноября Миннер проиграл техническим нокаутом китайцу Шаилану Нурданбеку на 77-й секунде первого раунда. ESPN сообщило, что незадолго до боя некто поставил большую сумму на победу китайца в начале схватки.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226122044304/pic_7cd34d1d1d4484438ccb7dd1bc9bbce6.jpg" type="image/jpeg" length="15426"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/twitter/</guid>
+  <author>Денис Савосин</author>
+  <title>Хакер заявил о взломе Twitter и потребовал у Маска выкуп за данные пользователей</title>
+  <link>https://lenta.ru/news/2022/12/26/twitter/</link>
+  <description>
+    <![CDATA[Хакер заявил о получении доступа к данным 400 миллионов пользователей Twitter и потребовал у владельца и руководителя социальной сети Илона Маска выкуп за эти сведения, сообщает Security Affairs. База, выставленная на продажу в даркнете, содержит электронную почту, номера телефонов и другие персональные данные. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226114924957/pic_cf32eb094ac8e979073be90bcd571a55.jpg" type="image/jpeg" length="24946"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/gen_5/</guid>
+  <author>Андрей Ставицкий</author>
+  <title>Предсказаны характеристики PlayStation 5 Pro</title>
+  <link>https://lenta.ru/news/2022/12/26/gen_5/</link>
+  <description>
+    <![CDATA[Консоль PlayStation нового поколения получит новый твердотельный накопитель. Журналисты заявили, что PS5 Pro должна выйти с SSD-накопителем Gen 5.0 NVme. По их словам, апдейт позволит новой приставке конкурировать с персональными компьютерами, которые имеют преимущество в виде возможности модернизации.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:47:13 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226104017804/pic_762e1f8ab55fef90d6f3c3fe93d80505.jpg" type="image/jpeg" length="16896"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/skyscrapers/</guid>
+  <author>Александра Качан</author>
+  <title>В Москве стало больше дорогого жилья в небоскребах</title>
+  <link>https://lenta.ru/news/2022/12/26/skyscrapers/</link>
+  <description>
+    <![CDATA[С 2017 по 2022 год объем предложения премиального и элитного жилья в небоскребах Москвы увеличился в полтора раза. В конце 2022-го на рынке новостроек премиум и элитного класса было реализовано 12 небоскребов. В этих проектах продается 1,8 тысячи квартир и апартаментов.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:45:23 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226095007866/pic_bb93c8f4eea66e8e9ecd8c2a2954cdac.jpeg" type="image/jpeg" length="32670"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/manturov/</guid>
+  <author>Софья Ермакова</author>
+  <title>В России собрались удвоить производство автомобилей к 2025 году</title>
+  <link>https://lenta.ru/news/2022/12/26/manturov/</link>
+  <description>
+    <![CDATA[К 2025 году в России будет удвоено производство автомобилей, а к 2030-му доля отечественных машин на внутреннем рынке вырастет с 40 до 80 процентов. Кроме того, выпуск автокомпонентов к 2025 году увеличится в три раза. Об этих планах рассказал вице-премьер России и глава Минпромторга Денис Мантуров. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:45:20 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226124640122/pic_f10d18717cd93de9643bd340ae97beab.jpg" type="image/jpeg" length="43550"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/witchercont/</guid>
+  <author>Дениза Мацаева</author>
+  <title>Шоураннер cериала «Ведьмак» рассказала о будущем проекта</title>
+  <link>https://lenta.ru/news/2022/12/26/witchercont/</link>
+  <description>
+    <![CDATA[Шоураннер cериала «Ведьмак» Лорен Шмидт Хиссрих рассказала, какое будущее ожидает проект «Ведьмак». По ее словам, история, описанная в пятом романе Анджея Сапковского, выйдет за рамки одного шоу. Она выразила уверенность, что в ближайшем будущем появятся сиквелы и спин-оффы сериала.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:39:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226115747802/pic_cf0d76db671f29b16a69172de541f016.jpeg" type="image/jpeg" length="28991"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/mvdkolokol/</guid>
+  <author>Екатерина Власова</author>
+  <title>Глава МВД рассказал о совершаемых мигрантами преступлениях</title>
+  <link>https://lenta.ru/news/2022/12/26/mvdkolokol/</link>
+  <description>
+    <![CDATA[Глава МВД Владимир Колокольцев заявил, что подавляющее большинство преступлений, которые совершают прибывшие в Россию мигранты, связаны с незаконным оборотом наркотиков. В ведомстве активно занимаются вопросом увеличения преступности среди иностранцев. Количество преступлений, совершенных мигрантами, увеличилось. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:39:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226123718987/pic_314e34a679c1f2466a8f960cf2d926e0.jpg" type="image/jpeg" length="32129"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/volodinviran/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Стало известно о возможной поездке Володина в Иран</title>
+  <link>https://lenta.ru/news/2022/12/26/volodinviran/</link>
+  <description>
+    <![CDATA[Спикер Госдумы Вячеслав Володин, возможно, отправится в Иран уже в январе, где встретится с президентом Ибрахимом Раиси. Лидер фракции «Единая Россия» в Госдуме Владимир Васильев посетил Иран в том числе для того, чтобы подготовить эту встречу. Он встречался с главой МИД республики Хосейном Амир Абдоллахианом.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226123240714/pic_4b3b7a3cc2df868a581b8cad597196a4.jpg" type="image/jpeg" length="18657"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/desss/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Минобороны показало работу десантников в тылу спецоперации</title>
+  <link>https://lenta.ru/news/2022/12/26/desss/</link>
+  <description>
+    <![CDATA[Министерство обороны России показало видео боевых тренировок парашютно-десантных подразделений в тылу зоны проведения специальной военной операции. Военные отрабатывают тактические действия по преодолению минных заграждений, а также тренируют навык отражения огневой атаки.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:32:23 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226122349978/pic_673398ea7184aed42107e9f80f205edb.jpg" type="image/jpeg" length="24000"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/5dronov/</guid>
+  <author>Алина Гончарова</author>
+  <title>Южная Корея сообщила о вторжении пяти беспилотников КНДР</title>
+  <link>https://lenta.ru/news/2022/12/26/5dronov/</link>
+  <description>
+    <![CDATA[В воздушное пространство Южной Кореи вторглись пять северокорейских беспилотников, один из них подлетел к Сеулу. «Наши военные обнаружили неизвестный объект в районе провинции Кёнгидо сегодня утром, который, как считается, является северокорейским беспилотником», — сказали в ведомстве. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:32:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226123155602/pic_c1103d82794cf443822445c320900db0.jpg" type="image/jpeg" length="38287"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/zakachka/</guid>
+  <author>Софья Ермакова</author>
+  <title>Европейские запасы газа стали расти рекордными темпами</title>
+  <link>https://lenta.ru/news/2022/12/26/zakachka/</link>
+  <description>
+    <![CDATA[Европейские запасы газа стали расти рекордными темпами — закачка топлива в подземные хранилища (ПХГ) ЕС в два раза превысила отбор из них к 24 декабря, достигнув рекордного уровня для этого периода времени. 4 декабря отбор резко снизился до 91 миллиона кубометров, а закачка подскочила до 206 миллионов кубометров. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:26:48 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226122610631/pic_c3578a770e64d3c700c6029a0c14d8fa.jpg" type="image/jpeg" length="26880"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/ne_budu/</guid>
+  <author>Антон Похиляк</author>
+  <title>Путин не станет поздравлять с Новым годом Байдена</title>
+  <link>https://lenta.ru/news/2022/12/26/ne_budu/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин не планирует поздравлять с Новым годом главу США Джо Байдена, пояснил пресс-секретарь Кремля Дмитрий Песков. По утверждению Пескова, Россия и США так глубоко зашли во взаимной недружественности, что «сейчас, наверное, не до новогодних поздравлений». <br />]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:26:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226122454612/pic_139637ea8dceab5037f789e5af2a2b03.jpeg" type="image/jpeg" length="30300"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/skala/</guid>
+  <author>Майя Пономаренко</author>
+  <title>Дуэйн «Скала» Джонсон поделился видео с макияжем на лице</title>
+  <link>https://lenta.ru/news/2022/12/26/skala/</link>
+  <description>
+    <![CDATA[Американский актер Дуэйн «Скала» Джонсон поделился роликом с макияжем на лице. 50-летняя знаменитость опубликовал видео, на котором он запечатлен в разноцветном парике, собранном в два хвоста, с яркими тенями и розовым блеском на губах. На кадрах видно, как дочь Жасмин продолжает наносить косметику на его лицо.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:25:53 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226114747723/pic_acaa04bb6f1a65b59435aadc4c5dc7bf.jpg" type="image/jpeg" length="29291"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/lifehack/</guid>
+  <author>Валентина Процкова</author>
+  <title>Россиянам раскрыли лайфхак для оплаты отечественными картами за рубежом</title>
+  <link>https://lenta.ru/news/2022/12/26/lifehack/</link>
+  <description>
+    <![CDATA[Россиянам, отправляющимся за рубеж, посоветовали оформить пластиковую карту в банке «Приморье». Путешественникам рекомендуется открыть в кредитно-финансовой организации две карты платежных систем «Мир» (в рублях) и UnionPay (в юанях). Также часто путешествующие соотечественники советуют получить пластик в «МТС банке».]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:21:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226110942034/pic_d07966c582b2c5ab30595ded8db7fb01.jpg" type="image/jpeg" length="27878"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/mbappe/</guid>
+  <author>Андрей Стрельцов</author>
+  <title>Мбаппе поставил ПСЖ ультиматум</title>
+  <link>https://lenta.ru/news/2022/12/26/mbappe/</link>
+  <description>
+    <![CDATA[По информации OK Diario, нападающий Килиан Мбаппе потребовал у ПСЖ подписать нападающего «Тоттенхэма» Гарри Кейна и назначить на пост главного тренера команды Зинедина Зидана, ранее возглавлявшего «Реал». Кроме того, Мбаппе попросил продать бразильского нападающего Неймара, с которым у француза случился конфликт.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:20:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226120713638/pic_2fa11084bc8daa758f126c0fc4a6f506.jpeg" type="image/jpeg" length="23839"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/kreml_si/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>В Кремле заявили о готовящемся контакте Путина с Си Цзиньпином</title>
+  <link>https://lenta.ru/news/2022/12/26/kreml_si/</link>
+  <description>
+    <![CDATA[Контакт президента России Владимира Путина с лидером Китая Си Цзиньпином готовится. Об этом заявил официальный представитель Кремля Дмитрий Песков. «Действительно, такой контакт планируется, мы своевременно совместно с нашими китайскими друзьями сообщим», — рассказал он. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226121709665/pic_4e1988955edb4acc9a7ace23317cbd60.jpeg" type="image/jpeg" length="20385"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/rozhdestvo/</guid>
+  <author>Никита Абрамов</author>
+  <title>Песков анонсировал посещение Путиным службы на Рождество</title>
+  <link>https://lenta.ru/news/2022/12/26/rozhdestvo/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин традиционно посещает рождественскую церковную службу, так будет и в 2023 году. Об этом заявил пресс-секретарь главы государства Дмитрий Песков. В 2020, 2019 и 2012 годах Путин посещал на Рождество Спасо-Преображенский собор в Санкт-Петербурге, где его крестили в младенчестве.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:18:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226121857466/pic_3143695120895ab85da02e31192f8dbd.jpg" type="image/jpeg" length="26208"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/peskovv/</guid>
+  <author>Сергей Истомин</author>
+  <title>Кремль ответил на вопрос о посещении Путиным итогового заседания кабмина</title>
+  <link>https://lenta.ru/news/2022/12/26/peskovv/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин не планирует посещать итоговое заседание кабмина в среду, 28 декабря. Так на этот вопрос ответил официальный представитель Кремля Дмитрий Песков. По его словам, глава государства постоянно контактирует с членами правительства и с премьер-министром. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226121906124/pic_0e3f9e67c69b59b240b2d971c4d9eaa2.jpg" type="image/jpeg" length="22425"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/morgen_alco/</guid>
+  <author>Анастасия Астахова</author>
+  <title>Моргенштерн сообщил о проблемах со здоровьем после отказа от алкоголя</title>
+  <link>https://lenta.ru/news/2022/12/26/morgen_alco/</link>
+  <description>
+    <![CDATA[Российский рэп-исполнитель Моргенштерн (внесен Минюстом в реестр физлиц-иноагентов) рассказал о проблемах со здоровьем, с которыми он столкнулся, отказавшись от употребления алкоголя. Артист отметил, что не пьет уже шесть дней, а также пожаловался, что первые три дня не спал и испытывал параличи.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226115239098/pic_974fad4d499411cc9e00b0537616b430.jpg" type="image/jpeg" length="15730"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/neplaniruet/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>В Кремле прокомментировали планы Путина о телефонном разговоре с Макроном</title>
+  <link>https://lenta.ru/news/2022/12/26/neplaniruet/</link>
+  <description>
+    <![CDATA[Пресс-секретарь президента России Дмитрий Песков прокомментировал планы Владимира Путина о контактах с другими лидерами, в частности французским коллегой Эммануэлем Макроном. По словам Пескова, никаких телефонных контактов между политиками пока не планируется. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:15:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226121437640/pic_dd9505d21dce3b6c04f91a533c19a529.jpg" type="image/jpeg" length="20118"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/telo_shkola/</guid>
+  <author>Константин Лысяков</author>
+  <title>Во дворе российской школы нашли мертвого мужчину</title>
+  <link>https://lenta.ru/news/2022/12/26/telo_shkola/</link>
+  <description>
+    <![CDATA[Мертвого мужчину обнаружили во дворе школы №45 в Свердловском районе Красноярска. Тело нашли сотрудники учебного заведения. Прибывшие на место происшествия медики констатировали смерть мужчины. Личность россиянина уже установлена. Известно, что он не был бездомным. Точную причину смерти определит экспертиза.<br />]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226115844934/pic_f0127f32becca4fb3c3f92d14ece4123.jpeg" type="image/jpeg" length="30938"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/otvvet/</guid>
+  <author>Сергей Истомин</author>
+  <title>В Совфеде ответили на заявления украинской разведки о планах войти в Крым</title>
+  <link>https://lenta.ru/news/2022/12/26/otvvet/</link>
+  <description>
+    <![CDATA[Слова руководителя Главного управления разведки (ГУР) Министерства обороны Украины Кирилла Буданова о том, что украинские военные войдут в Крым с оружием в руках, являются бахвальством, так как подобный сценарий менее реален, чем возвращение Киева в состав России. Об этом заявил сенатор от региона Сергей Цеков. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:11:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226120932060/pic_bca25548809b1bd0b677b9dad11cffda.jpg" type="image/jpeg" length="24930"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/szechh/</guid>
+  <author>Анна Щербакова</author>
+  <title>Россиянин попытался сжечь дом со спящей внутри девушкой</title>
+  <link>https://lenta.ru/news/2022/12/26/szechh/</link>
+  <description>
+    <![CDATA[В поселке Красный Бор Ленинградской области мужчина попытался сжечь дом со спящей внутри 19-летней девушкой. Все случилось в ночь на 26 декабря. Россиянка проснулась от резкого удара по крыше дома и почувствовала запах дыма. Девушка смогла выбраться на улицу и вызвать пожарных.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226120128336/pic_0fb8c9c32f96f4cf1c0035874c1cb110.jpeg" type="image/jpeg" length="18335"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/alya_died/</guid>
+  <author>Анастасия Астахова</author>
+  <title>Умерла актриса театра и кино Аля Никулина</title>
+  <link>https://lenta.ru/news/2022/12/26/alya_died/</link>
+  <description>
+    <![CDATA[На 86-м году жизни скончалась актриса театра и кино Аля Никулина. О причинах смерти артистки не сообщается. Никулина служила в Московском театре «Эрмитаж» более 30 лет. Помимо этого, актриса принимала участие в кинематографических проектах, в числе которых — «Эпидемия», «Метро», «Школа» и другие. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226115341423/pic_c0fa63225c7ecb037f7d56206a3a283f.jpg" type="image/jpeg" length="21946"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/priem/</guid>
+  <author>Платон Щукин</author>
+  <title>Казахстан пригласил ушедшие из России компании</title>
+  <link>https://lenta.ru/news/2022/12/26/priem/</link>
+  <description>
+    <![CDATA[Министр иностранных дел Казахстана Мухтар Тлеуберди пригласил в страну все ушедшие из России иностранные фирмы. «Из-за санкций многие иностранные компании прекратили деятельность в России, закрыли свои офисы. Мы предлагаем этим компаниям переехать в Казахстан и открыть офисы, доступ к рынку открыт», — сказал он.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226110758695/pic_98122af1edfbcd748ef2937f4e9b376c.jpg" type="image/jpeg" length="30610"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/teeth/</guid>
+  <author>Алиса Удовик</author>
+  <title>Мужчина не сумел записаться к стоматологу и вырвал себе 11 зубов плоскогубцами</title>
+  <link>https://lenta.ru/news/2022/12/26/teeth/</link>
+  <description>
+    <![CDATA[67-летний житель Великобритании Джордж Глинос самостоятельно удалил себе 11 зубов плоскогубцами. Он утверждает, что неоднократно пытался записаться на прием к стоматологу в государственных клиниках, но так и не сумел этого сделать. В конце концов он стал лечить зубы сам и за четыре года вырвал себе 11 зубов.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/23/10/20221223100104445/pic_7a830a3b90cd5c1b1dd31f24b8e83017.jpg" type="image/jpeg" length="20368"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/diplomatic_sexology/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Послом Украины в Болгарии назначили сексолога</title>
+  <link>https://lenta.ru/news/2022/12/26/diplomatic_sexology/</link>
+  <description>
+    <![CDATA[Президент Украины Владимир Зеленский назначил послом Украины в Болгарии Олесю Илащук. Указ о ее назначении на должность дипломатического представителя был опубликован на сайте главы республики. Отмечается, что с 2020 года Илащук является членом Европейской ассоциации психологов-сексологов.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226113028789/pic_a4d11fa6d02ef3b6c8af52fa50185d56.jpeg" type="image/jpeg" length="14237"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/kukurusa/</guid>
+  <author>Екатерина Власова</author>
+  <title>Россиянина застрелили во время сбора кукурузы в поле с сыном-подростком</title>
+  <link>https://lenta.ru/news/2022/12/26/kukurusa/</link>
+  <description>
+    <![CDATA[В Ставропольском крае неизвестные застрелили в поле 42-летнего мужчину. Ночью 25 декабря недалеко от хутора Новоборгустанский потерпевший собирал кукурузу с 14-летним сыном. Неизвестный выстрелил в отца, нанеся смертельное ранение в голову. Подросток рассказал, что услышал сильный хлопок и упал.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 12:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226114108211/pic_b4ecaaf06ca10f401d507ee0159c9d45.jpeg" type="image/jpeg" length="30162"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/sisvideo/</guid>
+  <author>Татьяна Романова</author>
+  <title>«Оренбургнефть» успешно протестировала умное видеонаблюдение на объектах</title>
+  <link>https://lenta.ru/news/2022/12/26/sisvideo/</link>
+  <description>
+    <![CDATA[Специалисты компании «Оренбургнефть» (один из крупнейших добывающих активов НК «Роснефть» в Приволжском федеральном округе), успешно протестировали инновационную отечественную систему видеонаблюдения с использованием технологии машинного обучения и искусственного интеллекта. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:59:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/12/20221226120023514/pic_c38e03b873ed8ab07dd2af95bdbc1562.jpeg" type="image/jpeg" length="11106"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/iran_kiiv/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>МИД Ирана ответил на угрозы Украины</title>
+  <link>https://lenta.ru/news/2022/12/26/iran_kiiv/</link>
+  <description>
+    <![CDATA[Призывы официального Киева к атакам по оружейным заводам в Иране будут иметь последствия для украинской стороны. Так на угрозы Украины ответил официальный представитель МИД Ирана Насер Канани Чафи. Он отметил, что Тегеран не участвует в украинском конфликте и готов содействовать достижению мира.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226115810204/pic_fad544ce1d83e36e09b0e35dddebd052.jpg" type="image/jpeg" length="21779"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/tu92tu22/</guid>
+  <author>Даниил Иринин</author>
+  <title>ВКС получат модернизированные Ту-95МСМ и Ту-22М3М в 2023 году</title>
+  <link>https://lenta.ru/news/2022/12/26/tu92tu22/</link>
+  <description>
+    <![CDATA[Дальняя авиация Воздушно-космических сил России получит первые модернизированные ракетоносцы-бомбардировщики Ту-22М3М и стратегические ракетоносцы Ту-95МСМ в 2023 году, сообщил командующий дальней авиацией ВКС России генерал-лейтенант Сергей Кобылаш. Ту-22М3М смогут нести ракеты Х-32.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:54:38 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226113311819/pic_d99396f755bd4e7a5584e8866ad9e805.jpg" type="image/jpeg" length="19848"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/podoroj/</guid>
+  <author>Александра Качан</author>
+  <title>Определены российские города с меньше всего подорожавшими новостройками</title>
+  <link>https://lenta.ru/news/2022/12/26/podoroj/</link>
+  <description>
+    <![CDATA[Москва оказалась среди российских городов, где в 2022 году меньше всего подорожали новостройки. В столице средняя стоимость квадратного метра выросла на 1,9 процента. В список локаций, где цены на первичное жилье увеличились минимально, также оказались Севастополь и Саранск.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:48:49 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226104730343/pic_5730ef97700cf60216d01959bf82b077.jpeg" type="image/jpeg" length="41782"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/tunis/</guid>
+  <author>Зарина Дзагоева</author>
+  <title>Популярная пляжная страна захотела возобновить массовые рейсы из России</title>
+  <link>https://lenta.ru/news/2022/12/26/tunis/</link>
+  <description>
+    <![CDATA[Власти Туниса планируют вернуть в страну российских туристов, увеличив количество постоянных рейсов. В настоящее время популярная пляжная страна восстановила туристические связи почти со всеми въездными рынками, кроме России. Турагентства готовы предлагать туры, однако необходимо решить лишь один вопрос.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226111517209/pic_421c255b1068360245327868f1389644.jpeg" type="image/jpeg" length="16444"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/kafwow/</guid>
+  <author>Карина Черных</author>
+  <title>Алеся Кафельникова показала фигуру в бикини</title>
+  <link>https://lenta.ru/news/2022/12/26/kafwow/</link>
+  <description>
+    <![CDATA[Российская модель Алеся Кафельникова показала фигуру на новой фотографии. 24-летняя манекенщица поделилась снимком с бэкстейджа съемки на Бали, на которой она позирует у океана и скалы в бикини синего цвета. При этом волосы знаменитости были собраны в гладкий пучок, а на ее лице отсутствовал макияж. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226110531028/pic_e9243799aff6a8e1aaaab14859d00ed9.jpg" type="image/jpeg" length="34125"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/cher_bride/</guid>
+  <author>Анастасия Астахова</author>
+  <title>76-летней певице Шер сделал предложение 36-летний возлюбленный</title>
+  <link>https://lenta.ru/news/2022/12/26/cher_bride/</link>
+  <description>
+    <![CDATA[76-летняя американская певица Шер сообщила, что выходит замуж. Избранником исполнительницы стал 36-летний музыкальный продюсер и рэпер Александр Эдвардс. Артистка опубликовала в социальных сетях фотографию кольца с крупным бриллиантом. О романе пары стало известно осенью этого года.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226105532348/pic_03f09b91b7a260ed707a3387bddad966.jpg" type="image/jpeg" length="16688"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/vzvr/</guid>
+  <author>Наталия Белова</author>
+  <title>В России ответили на планы Украины по возвращению Крыма</title>
+  <link>https://lenta.ru/news/2022/12/26/vzvr/</link>
+  <description>
+    <![CDATA[Депутат Госдумы Дмитрий Новиков заявил, что у Киева отсутствует четкий результативный план по возвращению Крыма, потому заявления отдельных лиц о возвращении полуострова следует воспринимать не более как часть информационной войны, нацеленной, прежде всего, на поддержку собственного населения.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:44:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226114037692/pic_2fcb3ef5ddbdf1b84fa7f6a63a535c59.jpeg" type="image/jpeg" length="40149"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/dmitriev/</guid>
+  <author>Ксения Курашкина</author>
+  <title>Умер серебряный призер чемпионата Европы в составе сборной СССР</title>
+  <link>https://lenta.ru/news/2022/12/26/dmitriev/</link>
+  <description>
+    <![CDATA[Серебряный призер чемпионата Европы по футболу-1988 в составе сборной СССР Сергей Дмитриев умер в 58 лет. «Сине-бело-голубые выражают искренние соболезнования родным и близким легендарного футболиста», — сказано в заявлении «Зенита», в котором форвард провел восемь сезонов. Причины смерти бывшего игрока не сообщаются.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226111435342/pic_c62667e2997fe5d652ca063003982c04.jpeg" type="image/jpeg" length="18251"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/poteplenie/</guid>
+  <author>Екатерина Смирная</author>
+  <title>Москвичам предрекли потепление перед Новым годом</title>
+  <link>https://lenta.ru/news/2022/12/26/poteplenie/</link>
+  <description>
+    <![CDATA[Погода в конце года в Москве будет неоднородной, в частности, ожидается очень мягкая температура, которая больше характерна для первой декады ноября, рассказал научный руководитель Гидрометцентра Роман Вильфанд. Он также поделился с «Лентой.ру» прогнозом на новогоднюю ночь.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226113320936/pic_83296faaba48be4119ec27120f156beb.jpeg" type="image/jpeg" length="34971"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/zabroshka/</guid>
+  <author>Варвара Родикова</author>
+  <title>Российский подросток умер после встречи с друзьями в заброшенном доме</title>
+  <link>https://lenta.ru/news/2022/12/26/zabroshka/</link>
+  <description>
+    <![CDATA[Под Тюменью подросток 2005 года рождения умер после встречи с друзьями в заброшенном доме. Инцидент произошел в селе Уват. После произошедшего в бесхозное здание ограничили доступ и включили его в реестр потенциально опасных объектов для жизни и здоровья несовершеннолетних. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:38:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226113029008/pic_9b0864339360520e594e3eb9110691c0.jpg" type="image/jpeg" length="40029"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/recordno/</guid>
+  <author>Софья Ермакова</author>
+  <title>Оценен уровень неполной занятости в России</title>
+  <link>https://lenta.ru/news/2022/12/26/recordno/</link>
+  <description>
+    <![CDATA[Неполная занятость в российских компаниях в июле-сентябре 2022 года достигла 4,66 миллиона человек, превысив уровни периода пандемии. В годовом выражении рост показателя составил 7,3 процента, или 319 тысяч человек. Число работников в простое год к году выросло на 67 процентов, до 239,8 тысячи человек.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:37:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226111404901/pic_3b2ff33bd234450d62b5568d499eba9c.jpeg" type="image/jpeg" length="33366"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/foot_size/</guid>
+  <author>Вера Владзиевская</author>
+  <title>У женщины обнаружили редкую болезнь благодаря изменившемуся размеру ноги</title>
+  <link>https://lenta.ru/news/2022/12/26/foot_size/</link>
+  <description>
+    <![CDATA[Невролог из Индии Судхир Кумар заподозрила у жены своего пациента редкую болезнь. Она обратила внимание, что у женщины увеличились губы, нос и язык. Невролога это насторожило, в связи с чем она отправила жену пациента на обследование. Обследование при помощи МРТ выявило у нее аденому гипофиза. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:33:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/23/09/20221223093246308/pic_bb998dc1c680ecc94de9d976ca27aac5.jpg" type="image/jpeg" length="16097"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/hope/</guid>
+  <author>Платон Щукин</author>
+  <title>В России оценили сроки повышения цен на свою нефть</title>
+  <link>https://lenta.ru/news/2022/12/26/hope/</link>
+  <description>
+    <![CDATA[Цены на российскую нефть повысятся примерно через четыре месяца, как было и в первом полугодии 2022 года, заявил в интервью вице-премьер РФ Александр Новак. Таким образом он прокомментировал резкое увеличение дисконта российского сорта Urals по отношению к эталонному сорту Brent.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:31:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226105727736/pic_2e765fe72773bd7e13c7e822bfb8851e.jpeg" type="image/jpeg" length="19844"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/washing-dressing/</guid>
+  <author>Алина Гостева</author>
+  <title>Раскрыт правильный способ стирки домашнего халата</title>
+  <link>https://lenta.ru/news/2022/12/26/washing-dressing/</link>
+  <description>
+    <![CDATA[Эксперты британской сети магазинов нижнего белья Boux Avenue раскрыли правильный способ стирки домашнего халата. Так, удалять загрязнения с данного предмета гардероба необходимо после того, как он был надет примерно четыре раза. Кроме того, его следует сушить не в сушильной машине, а на свежем воздухе.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226104940875/pic_f26f7ccca2ad7bd9beedf910420af4f0.jpg" type="image/jpeg" length="21992"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/drone_over_seoul/</guid>
+  <author>Дмитрий Сотак</author>
+  <title>Над столицей Южной Кореи пролетел северокорейский дрон</title>
+  <link>https://lenta.ru/news/2022/12/26/drone_over_seoul/</link>
+  <description>
+    <![CDATA[Над столицей Южной Кореи Сеулом был замечен северокорейский беспилотный летательный аппарат (БПЛА), на данный момент дрон уже вышел из южнокорейского воздушного пространства. По данным военных, дрон не нес на себе никакого вооружения и лишь выполнял разведывательный полет.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:26:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226112923905/pic_527b277185e8b02ddf524478452a1342.jpg" type="image/jpeg" length="15681"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/vod/</guid>
+  <author>Илона Палей</author>
+  <title>Возившего труп на крыше каршеринга россиянина взяли под стражу</title>
+  <link>https://lenta.ru/news/2022/12/26/vod/</link>
+  <description>
+    <![CDATA[В Петербурге задержали 32-летнего мужчину, который устроил смертельную аварию в Василеостровском районе и с телом погибшего пешехода ездил по городу. В отношении россиянина возбуждено уголовное дело по части 4 статьи 264 («Нарушение ПДД, повлекшее смерть человека») УК РФ. Инцидент произошел ночью 24 декабря. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:23:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226111658937/pic_6eb3ea709b5ba50b4e3a2c55b94c483a.jpg" type="image/jpeg" length="50706"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/korean_ride/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Южная Корея обвинила КНДР в крушении штурмовика КА-1</title>
+  <link>https://lenta.ru/news/2022/12/26/korean_ride/</link>
+  <description>
+    <![CDATA[Военные Южной Кореи обвинили КНДР в крушении штурмовика КА-1, который пытался перехватить зашедшие в воздушное пространство страны северокорейские беспилотники. Об этом сообщает агентство Yonhap. Точные причины происшествия не сообщаются. Обоим пилотам удалось спастись, их доставили в больницу. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:22:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226112030363/pic_c4a026e83f85d89e684c66996ca2d0f0.jpeg" type="image/jpeg" length="50441"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/ostorozhno/</guid>
+  <author>Ксения Кривотулова</author>
+  <title>Три группы россиян призвали осторожнее подходить к публикациям в соцсетях</title>
+  <link>https://lenta.ru/news/2022/12/26/ostorozhno/</link>
+  <description>
+    <![CDATA[Санкции в отношении сотрудника могут применять не только за нарушение в договорных отношениях, но и за несоблюдение этических норм, уверена руководитель направления внутренних коммуникаций и корпоративной культуры hh.ru Ксения Степанова. По ее словам, в России к таким профессиям относятся учителя, врачи и воспитатели.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:18:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/25/14/20221225143417594/pic_4df812e02273aa734687d83569237020.jpeg" type="image/jpeg" length="21378"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/ploho/</guid>
+  <author>Андрей Ставицкий</author>
+  <title>Назван худший продукт Apple в 2022 году</title>
+  <link>https://lenta.ru/news/2022/12/26/ploho/</link>
+  <description>
+    <![CDATA[Авторы известного IT-издания Digital Trends назвали худший продукт Apple в 2022 году. Журналисты объяснили свой выбор тем, что представленный в 2022 году MacBook Pro получил старый дизайн, который применялся в компьютерах Apple более шести лет. Также специалисты отметили, что девайс не имеет права называться Pro.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:18:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226090602674/pic_5fe04489cdbce535ec6ce329dea51552.jpg" type="image/jpeg" length="21965"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/revenge/</guid>
+  <author>Алиса Дмитриева</author>
+  <title>Женщина выманила у подруги миллионы рублей из-за обиды на ее мать</title>
+  <link>https://lenta.ru/news/2022/12/26/revenge/</link>
+  <description>
+    <![CDATA[Жительница Китая решила отомстить матери подруги за едкий комментарий в свой адрес. Она зарегистрировалась в соцсетях под видом известного телеведущего и начала переписываться с подругой. Вскоре у них завязался роман. Лжетелеведущий выманил у женщины более двух миллионов юаней (20,7 миллиона рублей).]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:13:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/22/11/20221222111819872/pic_013442e1fda7262ad1ed3905a1f9ed66.jpg" type="image/jpeg" length="14134"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/covidl/</guid>
+  <author>Марк Леонов</author>
+  <title>В России выявили 5335 случаев коронавируса</title>
+  <link>https://lenta.ru/news/2022/12/26/covidl/</link>
+  <description>
+    <![CDATA[В России за сутки выявили 5335 новых случаев заражения коронавирусом, общее число заболевших с начала пандемии достигло 21 764 292. Об этом в понедельник, 26 декабря, сообщается на сайте оперативного штаба по борьбе с инфекцией. Днем ранее, 25 декабря, число новых заболевших составило 6595.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:10:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226110835301/pic_95f49ba87a232892297df124751aadcc.jpg" type="image/jpeg" length="16964"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/ka-1/</guid>
+  <author>Антон Похиляк</author>
+  <title>Южнокорейский штурмовик разбился при попытке перехватить дроны из КНДР</title>
+  <link>https://lenta.ru/news/2022/12/26/ka-1/</link>
+  <description>
+    <![CDATA[В Южной Корее разбился штурмовик КА-1, пытавшийся перехватить зашедшие в воздушное пространство страны дроны из КНДР. По данным военных, штурмовик взлетел с авиабазы в Вонджу, но потерпел крушение. Причины крушения пока неизвестны. Два пилота катапультировались, их госпитализировали.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:08:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226110254646/pic_6d1aacc88d8f5e75338bd23fdc5f0cd6.jpeg" type="image/jpeg" length="19844"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/alekseenko/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>В Госдуме оценили идею учитывать доходы россиян при повышении тарифов ЖКУ</title>
+  <link>https://lenta.ru/news/2022/12/26/alekseenko/</link>
+  <description>
+    <![CDATA[Инициативы, позволяющие снизить финансовую нагрузку россиян, могут оцениваться только положительно. Так идею общественного совета при Минстрое учитывать доходы граждан при расчете тарифов на ЖКУ в беседе с «Лентой.ру» оценил член комитета Госдумы по строительству и жилищно-коммунальному хозяйству Николай Алексеенко.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:07:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226103317019/pic_1fdb1c31230fa5ea80b6c53dab625eec.jpg" type="image/jpeg" length="30456"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/kanikuly/</guid>
+  <author>Татьяна Романова</author>
+  <title>Дети из регионов России приедут в Москву на новогодние праздники</title>
+  <link>https://lenta.ru/news/2022/12/26/kanikuly/</link>
+  <description>
+    <![CDATA[По приглашению мэра Москвы с 3 по 8 января 2023 года столицу по традиции посетят дети из российских регионов, в том числе жители новых территорий. Для них подготовили обширную культурную и образовательную программу в рамках проекта «Город открытий».]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226110448877/pic_d9dfb7cfe0bb7788151a1f884c32726d.jpg" type="image/jpeg" length="34635"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/priyutarkh/</guid>
+  <author>Елизавета Новикова</author>
+  <title>Владельца сгоревшего в Кемерове приюта арестовали на два месяца</title>
+  <link>https://lenta.ru/news/2022/12/26/priyutarkh/</link>
+  <description>
+    <![CDATA[В Кемерове арестовали владельца приюта, в котором во время пожара в ночь на 24 декабря погибли 22 человека. Андрей Смирнов будет находиться в СИЗО в течение двух месяцев — до 24 февраля 2023 года. Он полностью признал вину в содеянном. Ранее в СКР рассказали, что причиной пожара стала неправильная эксплуатация котла.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 11:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/11/20221226110105979/pic_27e68e1c2519a8f00034e902557c92c0.jpg" type="image/jpeg" length="31179"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/lenobl/</guid>
+  <author>Анна Щербакова</author>
+  <title>Российский архитектор случайно обезглавил человека</title>
+  <link>https://lenta.ru/news/2022/12/26/lenobl/</link>
+  <description>
+    <![CDATA[В Ленинградской области архитектор из Санкт-Петербурга случайно проехался по лежащему на дороге человеку и обезглавил его. Находившийся за рулем иномарки россиянин в 2022 году 32 раза привлекался за превышение скорости, штрафы исправно оплачивал. По факту случившегося проводится проверка.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:57:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226105150719/pic_1aa789d814e56dcca5261fbaf8fb58c4.jpg" type="image/jpeg" length="19790"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/ft_surovikin/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>На Западе оценили подготовку Суровикина к зимнему контрнаступлению ВСУ</title>
+  <link>https://lenta.ru/news/2022/12/26/ft_surovikin/</link>
+  <description>
+    <![CDATA[Взвешенные решения и действия генерала армии Сергея Суровикина существенно снизили шансы Вооруженных сил Украины (ВСУ) на успешное контрнаступление зимой. Так действия командующего российскими силами в ходе СВО оценили обозреватели британской газеты Financial Times (FT).]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:54:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226105226598/pic_d59aa8af056c2cb2fb2dec4669b78ff1.jpg" type="image/jpeg" length="25651"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/priestsvo/</guid>
+  <author>Алина Гончарова</author>
+  <title>Военный священник рассказал о служении в зоне СВО</title>
+  <link>https://lenta.ru/news/2022/12/26/priestsvo/</link>
+  <description>
+    <![CDATA[У многих священников, отправляющихся в зону СВО, есть для этого особые предпосылки, рассказал настоятель храма преподобного Сергия Радонежского протоиерей Святослав Чурканов. По его словам, штатных священников не хватает, и в зону проведения спецоперации стали завозить священников, имеющих боевой опыт.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226104445290/pic_0be8860b461f17d50731c14d73bd0c13.jpg" type="image/jpeg" length="41390"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/dronescrossed/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Беспилотники КНДР пересекли границу с Южной Кореей</title>
+  <link>https://lenta.ru/news/2022/12/26/dronescrossed/</link>
+  <description>
+    <![CDATA[По словам официальных лиц, северокорейские беспилотники пересекли межкорейскую границу без разрешения Южной Кореи, в ответ Сеул поднял истребители и боевые вертолеты в воздух. Военные заметили несколько «неопознанных объектов», предположительно беспилотных летательных аппаратов, в приграничных районах провинции Кёнгидо]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226105431736/pic_2f198b25aac809238b5cfbc14a1e0158.jpg" type="image/jpeg" length="6859"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/panter_ishod/</guid>
+  <author>Анастасия Астахова</author>
+  <title>Райан Куглер рассказал о сюжете второй части «Черной пантеры» до смерти Боузмана</title>
+  <link>https://lenta.ru/news/2022/12/26/panter_ishod/</link>
+  <description>
+    <![CDATA[Режиссер фильма «Черная пантера» Райан Куглер рассказал, о чем должна была быть вторая часть франшизы, главную роль в которой должен был исполнить Чедвик Боузман, умерший в 2020 году. Кинодеятель отметил, что по сюжету герой актера по имени Т'Чалла должен был заниматься воспитанием сына. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226100400907/pic_ff3d0413c2bc9f03c5682e664fb01a1f.jpeg" type="image/jpeg" length="23719"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/beachboy/</guid>
+  <author>Карина Черных</author>
+  <title>51-летний Марк Уолберг удивил фанатов фигурой на фото с пляжа</title>
+  <link>https://lenta.ru/news/2022/12/26/beachboy/</link>
+  <description>
+    <![CDATA[Голливудский актер Марк Уолберг удивил поклонников своим внешним видом на фотографиях с пляжа. Папарацци засняли 51-летнюю знаменитость вместе с женой, моделью Рией Дарем, на Барбадосе. На размещенных кадрах мужчина купается в океане и гуляет по песку с голым торсом и розовых плавательных шортах с разноцветным принтом.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226103823051/pic_bb7984f52087281e194cf9af0ed9847d.jpeg" type="image/jpeg" length="24142"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/igg/</guid>
+  <author>Илона Палей</author>
+  <title>Задержание ФСБ переправлявших боевиков в другие страны членов ИГ попало на видео</title>
+  <link>https://lenta.ru/news/2022/12/26/igg/</link>
+  <description>
+    <![CDATA[Задержание сотрудниками ФСБ сторонников запрещенной в России террористической организации «Исламское государство» (ИГ) на Урале и Северном Кавказе попало на видео. На записи видно, как силовики поникают в квартиры сторонников ИГ, укладывают мужчин на пол и надевают наручники. 11 человек уже поместили в СИЗО.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226104100091/pic_4fccec5d71f214199beaae5a975a02f7.jpg" type="image/jpeg" length="21799"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/sel/</guid>
+  <author>Платон Щукин</author>
+  <title>В России половина пресервов из сельди оказалась опасной</title>
+  <link>https://lenta.ru/news/2022/12/26/sel/</link>
+  <description>
+    <![CDATA[Роскачество проверило пресервы из сельди и признало 52 процентов продукции небезопасной. Исследовались 19 торговых марок, доля которых составляет 80 процентов рынка. У половины (10 из 19 торговых марок) выявлены нарушения. Например, в пресервах пяти марок обнаружены превышения по содержанию микроорганизмов.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226101015433/pic_e90a89d470cea5b4dd87d1e37a9c3e9c.jpg" type="image/jpeg" length="21623"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/cheapp/</guid>
+  <author>Александра Качан</author>
+  <title>Названы районы Москвы с самым дешевым жильем</title>
+  <link>https://lenta.ru/news/2022/12/26/cheapp/</link>
+  <description>
+    <![CDATA[Московским районом с самым дешевым вторичным жильем оказалось поселение Роговское Троицкого АО в границах Новой Москвы. Стоимость квадратного метра в Роговском составляет 114,9 тысячи рублей. Второе и третье места в топе заняли поселения Кленовское и Краснопахорское соответственно.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:43:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226094459631/pic_20837782e562955f0aa381935a317628.jpg" type="image/jpeg" length="36236"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/nato_kosachev/</guid>
+  <author>Марк Леонов</author>
+  <title>В Совфеде порассуждали об угрозе нападения НАТО на Россию</title>
+  <link>https://lenta.ru/news/2022/12/26/nato_kosachev/</link>
+  <description>
+    <![CDATA[Угроза военного нападения Североатлантического альянса на Россию будет купироваться всеми возможными и невозможными способами. Об этом в беседе с журналистом телеканала «Вместе-РФ» порассуждал член Совета Федерации, глава комитета Совфеда по международным отношениям Константин Косачев.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:39:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226103137756/pic_e6f6889e1def1539148b98e13b61f24c.jpeg" type="image/jpeg" length="29917"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/museumss/</guid>
+  <author>Анна Щербакова</author>
+  <title>В ГД захотели уволить попавшего в полицию после письма Пригожина директора музея</title>
+  <link>https://lenta.ru/news/2022/12/26/museumss/</link>
+  <description>
+    <![CDATA[В Госдуме захотели добиться увольнения директора Музея истории Екатеринбурга Игоря Пушкарева, который попал в полицию после письма бизнесмена, основателя частной военной компании «Вагнер» Евгения Пригожина. Об этом сообщил депутат нижней палаты российского парламента Олег Матвейчев в прямом эфире «Соловьев LIVE».]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:37:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226101915725/pic_b71a66b431654e7815cd2605c6c7af14.jpeg" type="image/jpeg" length="38388"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/kuleba_un/</guid>
+  <author>Георгий Нестеров</author>
+  <title>На Украине захотели исключить Россию из Совбеза ООН</title>
+  <link>https://lenta.ru/news/2022/12/26/kuleba_un/</link>
+  <description>
+    <![CDATA[Украина намерена поставить вопрос об исключении России из Совета безопасности ООН. Об этом сообщил министр иностранных дел республики Дмитрий Кулеба. По словам главы ведомства, украинские власти планируют официально выступить с соответствующей позицией в понедельник, 26 декабря.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226102752682/pic_e6a58c3ebc2313e2c7107da9d2ec4bd7.jpeg" type="image/jpeg" length="33482"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/voennyekorei/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Южная Корея приостановила вылеты из некоторых аэропортов по просьбе военных</title>
+  <link>https://lenta.ru/news/2022/12/26/voennyekorei/</link>
+  <description>
+    <![CDATA[Власти Южной Кореи временно приостановили вылеты из южнокорейских аэропортов Инчхон и Кимпхо по запросу военных. С чем связана просьба, не уточняется. 23 декабря КНДР совершила запуск, по предварительным данным, баллистической ракеты в сторону Японского моря.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:34:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226103507208/pic_294da9eba6bc0d1c8d020efdbe124dc3.jpeg" type="image/jpeg" length="43492"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/s_500/</guid>
+  <author>Андрей Ставицкий</author>
+  <title>В Китае оценили комплексы С-500 «Прометей»</title>
+  <link>https://lenta.ru/news/2022/12/26/s_500/</link>
+  <description>
+    <![CDATA[В Китае оценили зенитно-ракетный комплекс С-500 «Прометей». По словам представителей медиа, С-500 характеризует развитие зенитно-ракетных систем нового поколения. «С-500 является новым "щитом" будущей воздушно-космической обороны Москвы и мощным ответом на космическую стратегию Вашингтона», — подчеркнули журналисты.<br />]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:33:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226102027618/pic_ab86b6803c5f8e2848d880779903ab5a.webp" type="image/webp" length="12396"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/tarasova/</guid>
+  <author>Андрей Стрельцов</author>
+  <title>Тарасова ответила на призыв Украины убрать Щербакову из номинантов на премию ISU</title>
+  <link>https://lenta.ru/news/2022/12/26/tarasova/</link>
+  <description>
+    <![CDATA[Заслуженный тренер СССР Татьяна Тарасова назвала глупостью призыв Федерации фигурного катания Украины убрать россиянку Анну Щербакову из списка номинантов на премию Skating Awards в категории «Самый ценный фигурист». «Пускай они занимаются своими делами, строят катки», — добавила Тарасова.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:33:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226102317264/pic_7283de5cb567abf642d1aab82e828231.jpg" type="image/jpeg" length="15613"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/cystitis/</guid>
+  <author>Вера Владзиевская</author>
+  <title>Женщин предостерегли от ношения коротких пуховиков зимой</title>
+  <link>https://lenta.ru/news/2022/12/26/cystitis/</link>
+  <description>
+    <![CDATA[Гинеколог Меланя Маилян объяснила связь переохлаждения и заболевания циститом. Она пояснила, что при гипотермии защитные функции организм ослабевают. Часто после переохлаждения у женщин развивается цистит. Если с болезнью не справиться вовремя, она может привести к пиелонефриту.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:32:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/23/09/20221223094121668/pic_8f3be28b26dd7daaad205607d975a432.jpg" type="image/jpeg" length="16952"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/ntv/</guid>
+  <author>Олег Давыдов</author>
+  <title>Победительница популярного шоу на НТВ раскрыла закулисье передачи</title>
+  <link>https://lenta.ru/news/2022/12/26/ntv/</link>
+  <description>
+    <![CDATA[Победительница популярного шоу «Маска. Танцы» на телеканале НТВ, блогерша Катя Адушкина раскрыла закулисье передачи. В беседе с изданием StarHit она рассказала, что три месяца ежедневно репетировала номера. «В последних выпусках не чувствовала своего тела вообще», — отметила она.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:28:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226100725358/pic_9531317cc88008f13c6ee936479ce378.jpeg" type="image/jpeg" length="24422"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/bpla_engels/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Названо число погибших при атаке БПЛА на аэродром в саратовском Энгельсе</title>
+  <link>https://lenta.ru/news/2022/12/26/bpla_engels/</link>
+  <description>
+    <![CDATA[Трое военных погибли при падении обломков беспилотника в районе военного аэродрома в городе Энгельс Саратовской области. Об этом сообщило Минобороны России. 26 декабря около 1:35 по московскому времени системы ПВО поразили на малой высоте беспилотник, который подлетал к военному аэродрому.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:27:48 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226102742475/pic_fce115b8b4c3b2d4b618b68e55dce14d.jpg" type="image/jpeg" length="27427"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/dagestan/</guid>
+  <author>Валентина Процкова</author>
+  <title>Россияне массово устремились зимой на отдых в один неожиданный регион страны</title>
+  <link>https://lenta.ru/news/2022/12/26/dagestan/</link>
+  <description>
+    <![CDATA[Зимой 2022 года россияне массово устремились в один неожиданный регион страны — туроператоры зафиксировали повышенный интерес соотечественников к отдыху в Дагестане. По данным экспертов туротрасли, в заездах в Дагестан на новогодние праздники еще есть свободные места, однако с бронированием стоит поторопиться.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226102217157/pic_25cd0af82e6ed8b148fa887d24ac6bda.jpg" type="image/jpeg" length="42065"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/sharma_died/</guid>
+  <author>Анастасия Астахова</author>
+  <title>20-летняя индийская актриса покончила с собой во время съемок сериала</title>
+  <link>https://lenta.ru/news/2022/12/26/sharma_died/</link>
+  <description>
+    <![CDATA[20-летняя индийская актриса Туниша Шарма покончила с собой во время съемок сериала. Сообщается, что тело артистки обнаружили в ее гримерке. По подозрению в доведении до самоубийства задержали возлюбленного Шармы, актера Шизана Мохаммеда Кхана, также находившегося на съемочной площадке в момент трагедии. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226095946343/pic_1b4b86536253d804169757152ca54bac.jpg" type="image/jpeg" length="40310"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/koka/</guid>
+  <author>Карина Черных</author>
+  <title>Клаву Коку сравнили с Ольгой Бузовой в новом видео</title>
+  <link>https://lenta.ru/news/2022/12/26/koka/</link>
+  <description>
+    <![CDATA[Российская певица Клавдия Высокова, более известная как Клава Кока, поделилась новым роликом и смутила поклонников. <br />Поп-исполнительница опубликовала видео, на котором она запечатлена в мини-платье на бретелях белого цвета в перьях. Подписчики сравнили Коку с певицей Ольгой Бузовой в комментариях под кадрами.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226102450212/pic_dbb99dc6bc2a0dc5c12336580563a917.jpg" type="image/jpeg" length="19226"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/fsbb/</guid>
+  <author>Елизавета Новикова</author>
+  <title>ФСБ пресекла деятельность сторонников ИГ на Урале и Северном Кавказе</title>
+  <link>https://lenta.ru/news/2022/12/26/fsbb/</link>
+  <description>
+    <![CDATA[Сотрудники ФСБ и СКР пресекли деятельность группировки, в которую входили 19 сторонников запрещенной в России террористической организации «Исламское государство» и задержали 11 человек. Задержания проводились в Чечне, Дагестане, ХМАО и Тюменской области. Организатора и 10 участников сообщества поместили в СИЗО.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226102006956/pic_7beb0f5c89e9f9414d1de7b613b4055a.jpg" type="image/jpeg" length="10708"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/scammer/</guid>
+  <author>Алиса Удовик</author>
+  <title>Женщина притворилась больной раком и выманила у соседей миллион рублей</title>
+  <link>https://lenta.ru/news/2022/12/26/scammer/</link>
+  <description>
+    <![CDATA[66-летняя жительница английского города Лестер, Джоанн Вуд, обманом выманила у соседей 15 тысяч фунтов стерлингов (1,3 миллиона рублей), притворившись больной раком. Мошенница обманывала соседей в течение 18 месяцев. Она входила к ним в доверие, а затем просила одолжить деньги.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221164852447/pic_300085280d00fa0de8c6ad41b79539c6.jpg" type="image/jpeg" length="38111"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/ukr_counter_offensive/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>На Западе оценили готовность ВСУ к зимнему контрнаступлению</title>
+  <link>https://lenta.ru/news/2022/12/26/ukr_counter_offensive/</link>
+  <description>
+    <![CDATA[Большие потери и измотанность подразделений Вооруженных сил Украины сделают невозможным успешный исход контрнаступления, которое власти Киева запланировали организовать зимой. Так готовность украинской армии к зимней наступательной операции против российских войск оценили обозреватели Financial Times.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:14:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226101534096/pic_b4f6dbe59847037c9fe0863f0bbd0ce1.jpg" type="image/jpeg" length="37199"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/coal/</guid>
+  <author>Платон Щукин</author>
+  <title>Российский уголь стал хуже продаваться</title>
+  <link>https://lenta.ru/news/2022/12/26/coal/</link>
+  <description>
+    <![CDATA[По итогам 2022 года экспорт российского угля снизится на 8,4 процента, а потребление внутри России вырастет на 6,8 процента, рассказал вице-премьер Александр Новак. Добыча угля ожидается на уровне прошлого года. Ранее вице-премьер говорил, что в первом полугодии экспорт угля падал на 8,6 процента.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226100410737/pic_1ff08234affc5d1897176a9672753f2e.jpg" type="image/jpeg" length="53307"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/kemerovopri/</guid>
+  <author>Елизавета Новикова</author>
+  <title>Пожарного инспектора задержали по делу о сгоревшем приюте в Кемерове</title>
+  <link>https://lenta.ru/news/2022/12/26/kemerovopri/</link>
+  <description>
+    <![CDATA[Следователи задержали пожарного инспектора, участвовавшего в проверке приюта в Кемерове, который сгорел в ночь на 24 декабря, — в результате ЧП погибли 22 человека. Мужчине предъявили обвинение в халатности. По данным следствия, в конце ноября он провел профилактический визит.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226101222810/pic_1ddd11705dc3e50a4600876519802283.jpeg" type="image/jpeg" length="44218"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/prazdniki/</guid>
+  <author>Варвара Родикова</author>
+  <title>Россиянам напомнили о продолжительности новогодних каникул</title>
+  <link>https://lenta.ru/news/2022/12/26/prazdniki/</link>
+  <description>
+    <![CDATA[Россиянам напомнили о продолжительности новогодних каникул — согласно производственному календарю, утвержденному постановлением правительства, в 2023 году они продлятся девять дней. Таким образом, новогодние праздники в России начнутся 31 декабря и продлятся до 8 января.  <br />]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:07:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226100627156/pic_efc3e5562e5dcec0c9270a551437a8a6.jpg" type="image/jpeg" length="23829"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/force_and_diplomacy/</guid>
+  <author>Георгий Нестеров</author>
+  <title>На Украине придумали комбинированный вариант возвращения Крыма</title>
+  <link>https://lenta.ru/news/2022/12/26/force_and_diplomacy/</link>
+  <description>
+    <![CDATA[Руководитель Главного управления разведки Минобороны Украины Кирилл Буданов рассказал о придуманном в Киеве комбинированном варианте возвращения Крыма «силой и дипломатией». При этом, по его словам, украинские подразделения намерены войти на территорию полуострова «с оружием в руках».]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 10:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/10/20221226100044236/pic_1f901e1be229cd8eb7be9d0cdabe55f4.jpg" type="image/jpeg" length="25743"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/dompr/</guid>
+  <author>Татьяна Романова</author>
+  <title>Единоросс попросил Генпрокуратуру проверить частные дома престарелых и хостелы</title>
+  <link>https://lenta.ru/news/2022/12/26/dompr/</link>
+  <description>
+    <![CDATA[Депутат Государственной Думы ФС РФ, первый заместитель председателя Комитета Госдумы по контролю, член фракции «Единая Россия» Михаил Романов направил депутатский запрос генпрокурору РФ Игорю Краснову с просьбой инициировать оперативную проверку всех частных помещений, оборудованных под проживание людей.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:58:54 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226095534442/pic_278c10a7c056e879d6dcd6bfeb118e02.jpg" type="image/jpeg" length="20354"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/tips/</guid>
+  <author>Валентина Процкова</author>
+  <title>Юрист назвал россиянам самый выгодный месяц для отпуска в 2023 году</title>
+  <link>https://lenta.ru/news/2022/12/26/tips/</link>
+  <description>
+    <![CDATA[Наиболее выгодным месяцем для отпуска в 2023 году назван август. По словам юриста HeadHunter Татьяны Нечаевой, с финансовой точки зрения россиянам выгодно отдыхать в те месяцы, в которых мало выходных и праздничных дней. Так, в наступающем году лучше для отдыха выбрать август, март и октябрь. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:54:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226095828412/pic_ef92f4d1d9f7e9669e6788d236ec525c.jpg" type="image/jpeg" length="19882"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/poz/</guid>
+  <author>Илона Палей</author>
+  <title>Следствие определило причину пожара в доме престарелых в Кемерово</title>
+  <link>https://lenta.ru/news/2022/12/26/poz/</link>
+  <description>
+    <![CDATA[Следствие назвало неправильную эксплуатацию котла причиной пожара в доме престарелых в Кемерово, где погибли 22 человека и еще шесть пострадали. Социальный приют обогревался угольным котлом, о неисправности которого жильцы сообщили накануне пожара. Однако владелец дома престарелых не предпринял попыток отремонтировать.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226094829155/pic_c9aa6cbfe604808d41c142e1861bb41e.jpeg" type="image/jpeg" length="23051"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/less/</guid>
+  <author>Платон Щукин</author>
+  <title>Российские власти упростили вывоз леса за рубеж</title>
+  <link>https://lenta.ru/news/2022/12/26/less/</link>
+  <description>
+    <![CDATA[Российские власти пошли навстречу игрокам лесопромышленного сектора сразу по нескольким важным для них вопросам. Например, речь идет об увеличении с 300 до 500 миллионов рублей предельного размера субсидии в рамках компенсации затрат на транспортировку промышленной продукции. Новые поправки облегчат экспорт компаниям.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226091001440/pic_2fadbe2b35f5687fcc3d316f3521d4d8.jpeg" type="image/jpeg" length="30853"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/ufcbestfight/</guid>
+  <author>Ксения Курашкина</author>
+  <title>В UFC выбрали лучший бой 2022 года</title>
+  <link>https://lenta.ru/news/2022/12/26/ufcbestfight/</link>
+  <description>
+    <![CDATA[В UFC назвали поединок между чехом Иржи Прохазкой и бразильцем Гловером Тейшейрой в полутяжелом весе лучшим боем 2022 года. Встреча в июне завершилась победой Прохазки удушающим приемом за 30 секунд до окончания заключительного раунда. В топ-10 вошло также противостояние россиянина Петра Яна и американца Шона О'Мэлли.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226092513763/pic_f1b0db4add9d15962e5071c144683460.jpg" type="image/jpeg" length="28796"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/prozrazhii/</guid>
+  <author>Карина Черных</author>
+  <title>Жена Стэйтема вышла в свет в прозрачных брюках</title>
+  <link>https://lenta.ru/news/2022/12/26/prozrazhii/</link>
+  <description>
+    <![CDATA[Британская супермодель и жена актера Джейсона Стэйтема Роузи Хантингтон-Уайтли показала фигуру в откровенном образе. Одна из «ангелов» Victoria's Secret сфотографировалась в меховом свитере и кружевных брюках в тон люксового бренда Saint Laurent, прозрачная ткань которых оголяла ее ноги.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226094744831/pic_851daca5ee4b87d55da61a6ed253139c.jpeg" type="image/jpeg" length="22659"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/apple_rus/</guid>
+  <author>Андрей Ставицкий</author>
+  <title>Новые функции iPhone оказались недоступны в России</title>
+  <link>https://lenta.ru/news/2022/12/26/apple_rus/</link>
+  <description>
+    <![CDATA[Некоторе новые функции смартфонов Apple оказались недоступны в России. В разговоре с операторами сотовой связи журналисты «Ъ» выяснили, что Apple не добавила поддержку работоспособности функций передачи голоса по сети LTE (VoLTE) и звонках по Wi-Fi (VoWiFi) в смартфоны, работающие в российских сетях. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:44:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226093438726/pic_942b257d60e222154404cbf2057f23b5.jpg" type="image/jpeg" length="21189"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/dementia/</guid>
+  <author>Алиса Удовик</author>
+  <title>Женщина с деменцией назвала тревожные признаки заболевания</title>
+  <link>https://lenta.ru/news/2022/12/26/dementia/</link>
+  <description>
+    <![CDATA[Жительница Великобритании 59-летняя Джуд Торп, страдающая деменцией, назвала признаки своего заболевания. Женщина начала замечать тревожные симптомы в 2016 году.  Она с трудом справлялась с простыми задачами, терялась в пространстве, часто задавала одни и те же вопросы несколько раз и забывала важные разговоры. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:41:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/23/12/20221223121928988/pic_464ca1f21bd8732609174a72d5ec3f84.jpg" type="image/jpeg" length="33498"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/turist/</guid>
+  <author>Александра Качан</author>
+  <title>Названы выгодные для покупки жилья под сдачу в аренду туристические города</title>
+  <link>https://lenta.ru/news/2022/12/26/turist/</link>
+  <description>
+    <![CDATA[Россиянам назвали туристические города, не считая Москвы и Санкт-Петербурга, в которых выгодно покупать недвижимость под сдачу в аренду. Прибыльнее всего сдавать жилье туристам в Нижнем Новгороде, Новосибирске и Екатеринбурге — в этих городах доходность от сдачи «однушки» составит от 22 процентов годовых.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:40:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226091123932/pic_9cd6225c1c333a0064580ecf99a9c68b.jpg" type="image/jpeg" length="34094"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/china_/</guid>
+  <author>Дмитрий Сотак</author>
+  <title>Индия развернет новые тактические ракетные комплексы на границе с соседями</title>
+  <link>https://lenta.ru/news/2022/12/26/china_/</link>
+  <description>
+    <![CDATA[Минобороны Индии приняло решение о закупке 120 новейших тактических ракет Pralay для дальнейшего размещения у границ с КНР и Пакистаном. Pralay еще не принята на вооружение индийской армии и ВВС страны, поэтому перед поступлением на боевое дежурство в ракетные подразделения она должна пройти обязательную сертификацию.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:39:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226093923038/pic_53fcd1a005933800127d2106d5786eb6.jpg" type="image/jpeg" length="30836"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/46/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Число погибших в снежном шторме в США увеличилось до 46 человек</title>
+  <link>https://lenta.ru/news/2022/12/26/46/</link>
+  <description>
+    <![CDATA[Снежный шторм, разразившийся в США на выходных, унес жизни не менее 46 человек, по данным на вечер воскресенья, 25 декабря. Смерти были зарегистрированы в 12 штатах: Колорадо, Иллинойс, Канзас, Кентукки, Мичиган, Миссури, Небраска, Нью-Йорк, Огайо, Оклахома, Теннесси и Висконсин.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:39:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226094123339/pic_997d0df8b9406e828533bb3b6c363d62.jpg" type="image/jpeg" length="21885"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/perm_ecokurort/</guid>
+  <author>Алина Гончарова</author>
+  <title>В Пермском крае открыли новый экокурорт</title>
+  <link>https://lenta.ru/news/2022/12/26/perm_ecokurort/</link>
+  <description>
+    <![CDATA[В Пермском крае открыли новый горнолыжный комплекс — он находится в Кунгурском районе рядом с Белогорским монастырем. О запуске проекта сообщил глава округа Вадим Лысанов. Протяженность трасс горнолыжного комплекса составляет от одного до полутора километров. В прокате доступны 150 пар новых лыж и 30 сноубордов. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:37:52 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226093719981/pic_73e598e2a7c64d104612b1bf7584a7d8.jpg" type="image/jpeg" length="5856"/>
+  <category>Моя страна</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/nitro/</guid>
+  <author>Олег Давыдов</author>
+  <title>Доктор Мясников предупредил о смертельной опасности популярного препарата</title>
+  <link>https://lenta.ru/news/2022/12/26/nitro/</link>
+  <description>
+    <![CDATA[Врач Александр Мясников предупредил о смертельной опасности нитроглицерина. Он предупредил, что прием этого популярного препарата при обмороке может привести к летальному исходу. По словам медика, нитроглицерин можно давать человеку без сознания исключительно в том случае, если у него точно есть стенокардия.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:37:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/23/14/20221223145715204/pic_e335c47bc1158f8b0fce9c1dff198d27.jpeg" type="image/jpeg" length="22286"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/teraktt/</guid>
+  <author>Елизавета Новикова</author>
+  <title>Поджигателям военкомата в Югре переквалифицировали статью на теракт</title>
+  <link>https://lenta.ru/news/2022/12/26/teraktt/</link>
+  <description>
+    <![CDATA[Двоим фигурантам дела о поджоге военкомата в Нижневартовске, Владиславу Борисенко и Василию Гаврилишину, переквалифицировали статью с умышленного повреждения имущества и хулиганства на теракт. Их дела будут рассматриваться отдельно. Теперь молодым людям грозит до 20 лет колонии.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:36:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226093518249/pic_9eee51c44ea970c06df763b024037cfa.jpg" type="image/jpeg" length="28191"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/organs_outside/</guid>
+  <author>Алиса Удовик</author>
+  <title>Девочка родилась с внутренними органами вне брюшной полости и выжила</title>
+  <link>https://lenta.ru/news/2022/12/26/organs_outside/</link>
+  <description>
+    <![CDATA[У жителей Австралии Ханны и Саймона Кокс родилась дочь с внутренними органами вне брюшной полости. На 12-й неделе беременности Ханна узнала, что у ее ребенка омфалоцеле — редкая аномалия развития, при которой грыжевой мешок с внутренними органами оказывается вне брюшной полости. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:31:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/23/10/20221223100209021/pic_9d9f532a002f5c7652cb3587ec8703f3.jpeg" type="image/jpeg" length="33840"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/belie/</guid>
+  <author>Карина Черных</author>
+  <title>Пэрис Хилтон снялась в нижнем белье в честь Рождества</title>
+  <link>https://lenta.ru/news/2022/12/26/belie/</link>
+  <description>
+    <![CDATA[Американская модель Пэрис Хилтон поделилась снимками в откровенном наряде в честь Рождества. 41-летняя знаменитость снялась в кружевном комплекте нижнего белья красного цвета в сочетании с чулками и перчатками в сетку. В качестве обуви она выбрала туфли на каблуках в тон одежды, при этом ее образ дополнял колпак.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:28:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226093022425/pic_677ef2e2762654e88690dbc850dfa2c6.jpg" type="image/jpeg" length="33223"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/pryangg/</guid>
+  <author>Анна Щербакова</author>
+  <title>Российская пенсионерка с восьмилетней внучкой погибли из-за электрообогревателя</title>
+  <link>https://lenta.ru/news/2022/12/26/pryangg/</link>
+  <description>
+    <![CDATA[В поселке Железнодорожном Иркутской области пенсионерка с восьмилетней внучкой погибли из-за загоревшегося электрообогревателя в двухквартирном частном доме. В ГУ МЧС пояснили, что пятеро жильцов из уцелевшей квартиры сумели выбраться самостоятельно до приезда пожарных.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:21:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226090818246/pic_2a0fba613323bd526d62b503fa12f08a.jpg" type="image/jpeg" length="22342"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/price/</guid>
+  <author>Валентина Процкова</author>
+  <title>Раскрыта стоимость туров по доступным для россиян зарубежным направлениям</title>
+  <link>https://lenta.ru/news/2022/12/26/price/</link>
+  <description>
+    <![CDATA[Отечественным путешественникам раскрыли оптимальную стоимость отдыха в зарубежных странах, доступных на прямых рейсах из России, на предстоящих зимних каникулах. Так, наиболее выгодно провести новогодние праздники предлагается в Египте — средняя цена тура на двоих стартует от 70 тысяч рублей. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:20:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226091531397/pic_692810b8c9e7afbad532a50ade6c2175.jpg" type="image/jpeg" length="22897"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/fas/</guid>
+  <author>Платон Щукин</author>
+  <title>Москвичи стали чаще есть фастфуд</title>
+  <link>https://lenta.ru/news/2022/12/26/fas/</link>
+  <description>
+    <![CDATA[В январе-ноябре в Москве посещаемость заведений быстрого питания, в том числе точки на фудкортах, увеличилась на три процента год к году, а их обороты за счет роста среднего чека взлетели на 16 процентов. По данным «Чек Индекс», заведения фастфуда нарастили число чеков в офлайне и онлайне на 18 процентов.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:18:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226090813732/pic_8074a69b68eae1a1a53930bebf85ba60.jpeg" type="image/jpeg" length="24164"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/volkanovski/</guid>
+  <author>Ксения Курашкина</author>
+  <title>UFC назвал лучшего бойца 2022 года</title>
+  <link>https://lenta.ru/news/2022/12/26/volkanovski/</link>
+  <description>
+    <![CDATA[UFC назвал австралийца Алекса Волкановски лучшим бойцом 2022 года. Волкановски, являющийся действующим чемпионом промоушена в полулегком весе, победил корейца Чен Сон Джона и американца Макса Холлоуэя. В тройку лучших бойцов вошел также россиянин Ислам Махачев, завоевавший в 2022 году чемпионский пояс в легком весе.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:13:50 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/08/20221226083239856/pic_d7fe49c8b5dff10ed6883735f9622196.jpg" type="image/jpeg" length="35880"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/izn/</guid>
+  <author>Илона Палей</author>
+  <title>В Москве задержали двух подозреваемых в изнасиловании россиянки</title>
+  <link>https://lenta.ru/news/2022/12/26/izn/</link>
+  <description>
+    <![CDATA[Правоохранители задержали двух фигурантов по делу об изнасиловании девушки на вечеринке. Подозреваемые в совершении преступления против половой неприкосновенности — полицейский и его знакомый. К правоохранителям обратился дядя потерпевшей, который сообщил о совершении противоправных действий в отношении племянницы.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:10:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226091345549/pic_da7bc34a29aa5b6a03d5744259b96f13.jpg" type="image/jpeg" length="26472"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/marochko_vsu/</guid>
+  <author>Алевтина Запольская</author>
+  <title>В ЛНР рассказали о мятежном настроении у ВСУ под Купянском</title>
+  <link>https://lenta.ru/news/2022/12/26/marochko_vsu/</link>
+  <description>
+    <![CDATA[Вооруженные силы Украины (ВСУ) массово саботируют приказы своего командования под Купянском, не желая отправляться в наступление. О мятежном настроении в рядах украинских солдат рассказал Народной милиции ЛНР Андрей Марочко. Разведка зафиксировала низкий боевой дух личного состава 14-й механизированной бригады.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:07:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226090949159/pic_0dced69a0c8cacdbdedb18f9fd39c09c.jpg" type="image/jpeg" length="19879"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/upalo/</guid>
+  <author>Платон Щукин</author>
+  <title>Новак рассказал о падении экспорта российского газа на четверть</title>
+  <link>https://lenta.ru/news/2022/12/26/upalo/</link>
+  <description>
+    <![CDATA[По итогам 2022 года экспорт российского газа упадет примерно на четверть, а добыча сократится на 12 процентов. Такие цифры привел вице-премьер России Александр Новак. По его словам, в первую очередь ситуация связана с остановкой работы инфраструктуры. При этом производство и экспорт СПГ выросли на 8,7 процента.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:07:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/08/20221226085610803/pic_e608460f694660c62a4c6d6ef128c492.jpg" type="image/jpeg" length="36468"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/notepad/</guid>
+  <author>Андрей Ставицкий</author>
+  <title>В «Блокноте» появятся вкладки</title>
+  <link>https://lenta.ru/news/2022/12/26/notepad/</link>
+  <description>
+    <![CDATA[Microsoft добавит вкладки в приложении «Блокнот». Журналисты медиа заметили, что изображение новой версии текстового редактора, имеющего вкладки, распространил в своем Twitter один из сотрудников компании. Вкладки, которые появятся в «Блокноте», будут выполнять ту же функцию, что и вкладки в «Проводнике».]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 09:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226090349143/pic_970d7abc199a16fc4cf64b6de06f594e.jpg" type="image/jpeg" length="17498"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/novogodnayagonka/</guid>
+  <author>Алина Гончарова</author>
+  <title>В Татарстане пройдет новогодняя лыжная гонка</title>
+  <link>https://lenta.ru/news/2022/12/26/novogodnayagonka/</link>
+  <description>
+    <![CDATA[30 декабря в Бугульме на территории спортивно-оздоровительного комплекса «Лыжная база» пройдет новогодняя лыжная гонка «Вечерняя Бугульма». Уникальностью  соревнований, проводимых в республике, является проведение в темное время суток при искусственном освещении трассы. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:58:23 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226090442760/pic_4aaadfd32ce141ab5960777653656ff9.jpg" type="image/jpeg" length="56607"/>
+  <category>Моя страна</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/engelss/</guid>
+  <author>Анна Щербакова</author>
+  <title>Власти подтвердили гибель трех военных при атаке ВСУ в Энгельсе</title>
+  <link>https://lenta.ru/news/2022/12/26/engelss/</link>
+  <description>
+    <![CDATA[Трое военнослужащих погибли в результате падения обломков беспилотника Вооруженных сил Украины (ВСУ) на аэродром в Энгельсе, эту информацию подтвердил губернатор Саратовской области Роман Бусаргин. Он также пообещал оказать всю необходимую помощь семьям погибших военных.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:58:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/09/20221226090129697/pic_8a5ecedd8d2ea05870ef4385114d017b.jpg" type="image/jpeg" length="24017"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/burglarstakeoutthreepowersubstations/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Преступники оставили 14 тысяч американцев без света в Рождество</title>
+  <link>https://lenta.ru/news/2022/12/26/burglarstakeoutthreepowersubstations/</link>
+  <description>
+    <![CDATA[Несколько взломщиков пробрались на три электростанции в городе Такома, штат Вашингтон, и вывели их из строя прямо в рождественское утро. В результате чего около 14 тысяч американцев остались без света, в то время как по всей стране бушует снежный шторм, пишет Fox News.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:56:47 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/08/20221226084839028/pic_9cb0cfbcdfa67f9bd47c43a9c671be9f.jpg" type="image/jpeg" length="33816"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/trep/</guid>
+  <author>Марина Совина</author>
+  <title>Планы Украины по захвату Крыма назвали обреченными</title>
+  <link>https://lenta.ru/news/2022/12/26/trep/</link>
+  <description>
+    <![CDATA[Глава комитета парламента Крыма по народной дипломатии и межнациональным отношениям Юрий Гемпель оценил планы Украины по захвату полуострова. Заявления украинских властей по этому вопросу звучат в агрессивном ключе, подчеркнул он. «Киевский фашистский режим и его планы обречены», — отметил парламентарий.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:54:50 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/08/20221226084318907/pic_cef5331b8a09b1946a9e7538992ccdce.jpg" type="image/jpeg" length="15222"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/glamppp/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>В Татарстане появится глэмпинг-парк</title>
+  <link>https://lenta.ru/news/2022/12/26/glamppp/</link>
+  <description>
+    <![CDATA[В Татарстане появится глэмпинг-парк «Белая Лилия». Начало строительства запланировали на май 2023 года. Туристический объект будет находиться на Нижнекамском водохранилище в Менделеевском районе республики. На территории парка отстроят 20 некапитальных домов, СПА-комплекс и ландшафтный амфитеатр. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:53:01 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/assets/webpack/images/lenta_og.04ceff52.png" type="image/png" length="14407"/>
+  <category>Моя страна</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/kaz_rus/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Казахстан отказался помогать России обходить санкции</title>
+  <link>https://lenta.ru/news/2022/12/26/kaz_rus/</link>
+  <description>
+    <![CDATA[Казахстан не станет вводить против России санкции по примеру западных стран, однако не будет помогать и обходить их. Об этом  заявил глава МИД Казахстана Мухтар Тлеуберди. Министр указал, что ограничения причинят ущерб благосостоянию казахских граждан в первую очередь. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/08/20221226083626307/pic_33ebd1377e719a8399748977b818786e.jpg" type="image/jpeg" length="21163"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/podedhev/</guid>
+  <author>Александра Качан</author>
+  <title>Москве предрекли снижение цен на жилье</title>
+  <link>https://lenta.ru/news/2022/12/26/podedhev/</link>
+  <description>
+    <![CDATA[В 2023 году в Москве может подешеветь как первичное, так и вторичное жилье. В первом квартале года стоимость жилья в московских новостройках может упасть на три-пять процентов. Эксперты ожидают такого развития ситуации на фоне временного снижения спроса в сегменте из-за повышения ставки по льготной ипотеке.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:44:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/08/20221226084414669/pic_0bf0b6d15a543f6b8f7928edc6308f59.jpg" type="image/jpeg" length="16684"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/lavina/</guid>
+  <author>Валентина Процкова</author>
+  <title>Двое туристов попали под сход лавины в Бурятии</title>
+  <link>https://lenta.ru/news/2022/12/26/lavina/</link>
+  <description>
+    <![CDATA[Двое россиян попали под сход лавины в Бурятии. По данным источника, происшествие случилось в субботу, 24 декабря. Туристическая группа не была зарегистрирована и находилась y пoднoжья пика Бpoнeнoceц во время схода лавины. В результате инцидента никто не погиб, однако, у одной туристки повреждена поясница. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:38:02 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/08/20221226084158544/pic_161cbd2cf05c18d5ec50cccc015dd99e.jpg" type="image/jpeg" length="18195"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/van_i/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>В Китае наметили углубление отношений с Россией</title>
+  <link>https://lenta.ru/news/2022/12/26/van_i/</link>
+  <description>
+    <![CDATA[Китай будет укреплять и углублять стратегическое партнерство с Россией несмотря на давление со стороны Запада во главе с США. Об этом заявил глава МИД КНР Ван И, сообщает Global News. По его словам, позиция Китая по многим вопросам, включая конфликт на Украине, останется беспристрастной]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:37:38 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/08/20221226083935532/pic_8d153d58c86a609e55463a915d34fb01.jpg" type="image/jpeg" length="15232"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/losi/</guid>
+  <author>Илона Палей</author>
+  <title>Главу российского общества охотников заподозрили в незаконном убийстве лосей</title>
+  <link>https://lenta.ru/news/2022/12/26/losi/</link>
+  <description>
+    <![CDATA[В Ярославской области против председателя Тутаевского районного общества охотников и рыболовов возбудили уголовное дело за незаконную охоту. 73-летнего фигурант поместили под домашний арест на 30 суток. По данным правоохранителей, бригада охотников убила 20 лосей в то время, как разрешение получила только на 12.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:34:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/08/20221226083352744/pic_71edf9cb771dcede427d1da722e00042.jpg" type="image/jpeg" length="16740"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/opasno/</guid>
+  <author>Платон Щукин</author>
+  <title>На Дальнем Востоке начались проблемы с приемом жидких опасных грузов</title>
+  <link>https://lenta.ru/news/2022/12/26/opasno/</link>
+  <description>
+    <![CDATA[Компания FESCO, владелец Владивостокского морского торгового порта, временно остановила прием жидких опасных грузов, в первую очередь клеев, растворителей и красок из Китая. Источник «Ъ» объяснил ситуацию переполненностью площадок по хранению таких грузов и строгими нормативами.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:30:24 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/08/20221226083113780/pic_3971fbde19920c13c1865e9ee1444ca7.jpg" type="image/jpeg" length="39418"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/sex/</guid>
+  <author>Алиса Дмитриева</author>
+  <title>Секс-эксперт назвала методы испытать новые эмоции в постели</title>
+  <link>https://lenta.ru/news/2022/12/26/sex/</link>
+  <description>
+    <![CDATA[Секс-эксперты назвали методы разнообразить интимную жизнь и сексуальные тенденции, которым люди будут следовать в ближайшем будущем. Так, они отметили, что сейчас люди склоняются в сторону постоянных отношений, а не поиску любовников на ночь. Также многие продолжают экспериментировать в постели.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:30:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/23/09/20221223093357526/pic_ed400b8fc16a5449d94eb4ec1dd149a0.jpeg" type="image/jpeg" length="21042"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/mission/</guid>
+  <author>Марина Совина</author>
+  <title>Стало известно о поставках оружия Украины в ЛНР под видом гуманитарной миссии</title>
+  <link>https://lenta.ru/news/2022/12/26/mission/</link>
+  <description>
+    <![CDATA[Офицер народной милиции Луганской Народной Республики (ЛНР) Андрей Марочко заявил, что гражданские автомобили с логотипами международной гуманитарной миссии и с иностранными номерами привозят Вооруженным силам Украины (ВСУ) оружие, боеприпасы, средства связи и разведки в Артемовск.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:28:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/08/20221226081637499/pic_0f81eb56ef9bdb8ab01c1d6b60f08470.jpg" type="image/jpeg" length="26906"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/satana/</guid>
+  <author>Марина Совина</author>
+  <title>Военный аналитик назвал «чудо-оружие» российских военных против ВСУ</title>
+  <link>https://lenta.ru/news/2022/12/26/satana/</link>
+  <description>
+    <![CDATA[Старший научный сотрудник Академии военных наук, военный аналитик Владимир Прохватилов заявил, что у России есть гигантские межконтинентальные баллистические ракеты «Сатана», на которые можно поместить неядерные боеголовки и использовать против украинских военные в Донбассе.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:18:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/08/20221226081243533/pic_f2061c7892c772b28a2a051f4eb39bad.jpg" type="image/jpeg" length="6758"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/tehn/</guid>
+  <author>Марк Леонов</author>
+  <title>МО сообщило об отсутствии повреждений самолетов в Энгельсе при взрыве дрона ВСУ</title>
+  <link>https://lenta.ru/news/2022/12/26/tehn/</link>
+  <description>
+    <![CDATA[При попытке дрона Вооруженных сил Украины (ВСУ) атаковать аэродром в Энгельсе авиационная техника не пострадала. Об этом сообщили в Министерстве обороны (МО) России. При этом в оборонном ведомстве подчеркнули, что при падении обломков сбитого беспилотника погибли трое военнослужащих]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:18:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/08/20221226082010278/pic_b4f28bf9713cecf8ae3e18a0f0c7afbf.jpg" type="image/jpeg" length="23211"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/chimaevpereira/</guid>
+  <author>Ксения Курашкина</author>
+  <title>Чимаев высказался о возможном бое против чемпиона UFC</title>
+  <link>https://lenta.ru/news/2022/12/26/chimaevpereira/</link>
+  <description>
+    <![CDATA[Шведский боец чеченского происхождения Хамзат Чимаев заявил, что в UFC не хотят организовывать его бой против чемпиона промоушена Алекса Перейры. «У Перейры рекорд "6 побед — 1 поражение", он проигрывал. Я никогда в жизни не проигрывал, а он проиграл какому-то засранцу», — оценил соперника Чимаев.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:17:10 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/25/23/20221225233008711/pic_a4b6753753b63c4a62ffd2068319a1fc.jpg" type="image/jpeg" length="24953"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/enlfk/</guid>
+  <author>Анна Щербакова</author>
+  <title>Минобороны подтвердило атаку ВСУ на аэродром в Энгельсе</title>
+  <link>https://lenta.ru/news/2022/12/26/enlfk/</link>
+  <description>
+    <![CDATA[Министерство обороны России подтвердило атаку беспилотника Вооруженных сил Украины (ВСУ) на аэродром в Энгельсе Саратовской области. В Минобороны уточнили, что российские средства противовоздушной обороны (ПВО) сбили украинский дрон на подлете к авиабазе утром в понедельник, 26 декабря.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:15:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/08/20221226081813424/pic_44e0327b07da3d04aeff4cbc71c74d93.jpg" type="image/jpeg" length="29954"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/engel/</guid>
+  <author>Марк Леонов</author>
+  <title>Минобороны сообщило о гибели трех военных на аэродроме в Энгельсе</title>
+  <link>https://lenta.ru/news/2022/12/26/engel/</link>
+  <description>
+    <![CDATA[Трое военнослужащих погибли на аэродроме в Энгельсе после падения обломков беспилотника. Об этом сообщили в Минобороны (МО) России. В ведомстве уточнили, что погибшие — военнослужащие технического состава. В социальных сетях распространилась информация об инциденте, произошедшем в Энгельсе ночью.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:13:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/08/20221226081442003/pic_dfe223a4ac0ba5ac01e398633f3a4b2c.jpg" type="image/jpeg" length="35147"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/cuba/</guid>
+  <author>Валентина Процкова</author>
+  <title>Россиянка посетила курорт на Кубе и описала его фразой «Совок на берегу океана»</title>
+  <link>https://lenta.ru/news/2022/12/26/cuba/</link>
+  <description>
+    <![CDATA[Российская туристка посетила с мужем популярный курорт на Кубе и описала его фразой «Совок на берегу океана». По ее словам, путевка на курорт Варадеро обошелся семье из двух человек в 138 тысяч рублей. В сумму был включен перелет, проживание в четырехзвездочном отеле Roc Barlovento и питание по системе «все включено».]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/23/14/20221223143245983/pic_1206dcc6c8fc78d23d5e24fbf6317261.jpg" type="image/jpeg" length="42212"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/vks_kinzh/</guid>
+  <author>Марк Леонов</author>
+  <title>В ВКС заявили об освоении всеми экипажами дальней авиации гиперзвуковых ракет</title>
+  <link>https://lenta.ru/news/2022/12/26/vks_kinzh/</link>
+  <description>
+    <![CDATA[Все экипажи полка дальней авиации Воздушно-космических сил (ВКС) России, на вооружение которого были поставлены комплексы гиперзвуковых ракет «Кинжал», уже освоили его. Об этом заявил командующий дальней авиацией генерал-лейтенант Сергей Кобылаш, его слова приводит официальный печатный орган Минобороны России.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/08/20221226080325356/pic_cbfafa814991e0b5d07f216981682fa2.jpg" type="image/jpeg" length="29780"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/nanny/</guid>
+  <author>Олег Давыдов</author>
+  <title>Няня устроилась на работу к блогерам и увидела камеру в неожиданном месте</title>
+  <link>https://lenta.ru/news/2022/12/26/nanny/</link>
+  <description>
+    <![CDATA[Сотрудница агентства по подбору нянь поделилась в TikTok историей о том, как устроила девушку к популярным блогерам, в доме которых та увидела камеру в неожиданном месте. Она рассказала, что хозяева дома установили по всем комнатам, в том числе в туалете, систему видеонаблюдения.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 08:00:12 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/23/18/20221223185703279/pic_b2d5a4678f93efd5d9b0e948cbb936c1.jpg" type="image/jpeg" length="11255"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/danger/</guid>
+  <author>Марина Совина</author>
+  <title>Россиян предупредили о мошенничестве через умные гаджеты</title>
+  <link>https://lenta.ru/news/2022/12/26/danger/</link>
+  <description>
+    <![CDATA[Эксперты в области кибербезопасности рассказали, какую опасность могут представлять умные гаджеты. Злоумышленники способны взломать устройства и через них получить доступ к персональным данным. Об этом в интервью «Известиям» рассказали эксперты в области кибербезопасности.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 07:59:55 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/07/20221226073721240/pic_a8e224460ef12d8c059e21f6741f2892.jpg" type="image/jpeg" length="29041"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/37/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Число погибших в США из-за снежного шторма увеличилось до 37 человек</title>
+  <link>https://lenta.ru/news/2022/12/26/37/</link>
+  <description>
+    <![CDATA[Снежный шторм, обрушившийся на США, унес жизни по меньшей мере 37 человек. Число смертей резко увеличилось: прошлым вечером сообщалось о гибели 26 человек. По словам представителей округа Эри, из-за снегопада и метели пройти по дороге едва ли возможно. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 07:43:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/07/20221226074325444/pic_ded36066bcf6c4760ddc444bb7f6d137.jpg" type="image/jpeg" length="7291"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/naemniki/</guid>
+  <author>Марина Совина</author>
+  <title>В ЛНР заявили о присутствии в рядах ВСУ наемников из более чем 30 стран</title>
+  <link>https://lenta.ru/news/2022/12/26/naemniki/</link>
+  <description>
+    <![CDATA[Разведка Народной милиции Луганской Народной Республики (ЛНР), анализируя данные радиоперехвата в зоне ответственности 2-го армейского корпуса ЛНР, выяснила, что в составе Вооруженных сил Украины (ВСУ) присутствуют наемники из более чем 30 стран, заявил офицер Народной милиции ЛНР Андрей Марочко.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 07:37:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/07/20221226073754606/pic_b2026fb1dffbba0a1404f90faadea546.jpg" type="image/jpeg" length="35498"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/no_evac/</guid>
+  <author>Марк Леонов</author>
+  <title>Губернатор высказался об эвакуации после сообщений о ЧП на военном объекте</title>
+  <link>https://lenta.ru/news/2022/12/26/no_evac/</link>
+  <description>
+    <![CDATA[После сообщений о ЧП на военном объекте в Энгельсе эвакуация не проводится. Подобные слухи в своем Telegram-канале опроверг глава Саратовской области Роман Бусаргин. Он отметил, что угрозы для гражданского населения нет и добавил, что к распространению подобных слухов причастны другие государства.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 07:28:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/07/20221226072919834/pic_a3c3e492d2e628362e06ec580921dfea.jpg" type="image/jpeg" length="19703"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/hard/</guid>
+  <author>Марина Совина</author>
+  <title>В Сербии заявили о сложной ситуации на севере Косово</title>
+  <link>https://lenta.ru/news/2022/12/26/hard/</link>
+  <description>
+    <![CDATA[Начальник Генштаба Вооруженных сил (ВС) Сербии генерал Милан Мойсилович оценил обстановку на севере автономного сербского края Косово и Метохия. «Ситуация сложная и требует присутствия армии Сербии вдоль административной линии [между автономным сербским краем Косово и Метохия и Центральной Сербией]"», — заключил он.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 07:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/07/20221226072531102/pic_d3f70a82f5942f8198c521873ccd815f.jpg" type="image/jpeg" length="39188"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/cindyyy/</guid>
+  <author>Карина Черных</author>
+  <title>56-летняя Синди Кроуфорд вышла в свет без макияжа и вызвала споры в сети</title>
+  <link>https://lenta.ru/news/2022/12/26/cindyyy/</link>
+  <description>
+    <![CDATA[Американская супермодель и актриса Синди Кроуфорд показала естественную внешность и вызвала споры в сети. Папарацци сфотографировали 56-летнюю манекенщицу без макияжа на улицах Лос-Анджелеса .Читатели издания неоднозначно отнеслись к внешнему виду Кроуфорд, о чем принялись писать в многочисленных комментариях.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 07:20:40 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/23/20/20221223204126014/pic_f5d3cdba8f66b28506bc4d00c1266eb5.jpg" type="image/jpeg" length="13530"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/patriot/</guid>
+  <author>Марина Совина</author>
+  <title>В США объяснили уязвимость комплексов Patriot на Украине перед Россией</title>
+  <link>https://lenta.ru/news/2022/12/26/patriot/</link>
+  <description>
+    <![CDATA[Обозреватель Forbes Пол Иддон объяснил уязвимость зенитно-ракетных комплексов Patriot, поставленных из США на Украину, перед Россией. По его словам, их слабым местом является малая мобильность. Уничтожение ЗРК возможно по той причине, что их затруднительно передислоцировать из-под огня.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 07:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/06/20221226065603845/pic_f5c37b81c34d6f6d4fe0e5209381340a.jpg" type="image/jpeg" length="16868"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/aircraft/</guid>
+  <author>Марина Совина</author>
+  <title>В Южной Корее потерпел крушение самолет ВВС страны</title>
+  <link>https://lenta.ru/news/2022/12/26/aircraft/</link>
+  <description>
+    <![CDATA[Штурмовик KA-1 ВВС Южной Кореи разбился в уезде Хвенсон провинции Канвондо на северо-востоке страны. Отмечается, что обоим пилотам удалось катапультироваться и они не пострадали, однако  их доставили в больницу. В настоящее время устанавливаются обстоятельства инцидента.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 07:08:24 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/07/20221226070547342/pic_398b1cbd748b5460baa120548b4d0969.jpg" type="image/jpeg" length="21230"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/georgia/</guid>
+  <author>Марина Совина</author>
+  <title>Россия допустила отмену визового режима для граждан Грузии</title>
+  <link>https://lenta.ru/news/2022/12/26/georgia/</link>
+  <description>
+    <![CDATA[Замглавы МИД РФ Михаил Галузин заявил, что Россия допускает отмену визового режима для граждан Грузии, если для этого сложатся условия. «В отношении перспектив отмены визового режима для поездок граждан Грузии в Россию не исключаем принятия положительных решений», — сказал Галузин.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 07:07:04 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/07/20221226070659538/pic_ed50732a74a0b0fa76408aabb1ed9f22.jpg" type="image/jpeg" length="25327"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/swingers/</guid>
+  <author>Алиса Дмитриева</author>
+  <title>Женщина укрепила отношения с возлюбленным сексом с другими мужчинами</title>
+  <link>https://lenta.ru/news/2022/12/26/swingers/</link>
+  <description>
+    <![CDATA[Влюбленная пара из Великобритании начала регулярно ходить в свингер-клубы и заявила, что таким образом значительно укрепила свои сексуальные отношения. Пара посещает свингер-клубы один или два раза в месяц. Они находят людей со схожими взглядами и меняются партнерами, а затем занимаются сексом в одном помещении. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 07:00:49 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/23/16/20221223165341714/pic_7f1d1487c750e72ecf6243ad01e3ede9.jpg" type="image/jpeg" length="17052"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/sexmistakes/</guid>
+  <author>Наталья Обрядина</author>
+  <title>Названы приводящие к исчезновению секса ошибки в отношениях</title>
+  <link>https://lenta.ru/news/2022/12/26/sexmistakes/</link>
+  <description>
+    <![CDATA[Психолог-сексолог Риналия Сафина рассказала об ошибках в отношениях, приводящих к исчезновению секса. Она посоветовала отказаться от идеи примирения с помощью секса. Если мозг начинает работать по алгоритму «чтобы получить секс, надо поругаться», со временем негатив накопится, и останутся только скандалы.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 07:00:46 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/23/11/20221223112815150/pic_c34bcda45cf9527edaa91862f183f4a1.jpeg" type="image/jpeg" length="16822"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/23/ukrash/</guid>
+  <author>Александра Качан</author>
+  <title>Названа нужная россиянам сумма для украшения дома к Новому году</title>
+  <link>https://lenta.ru/news/2022/12/23/ukrash/</link>
+  <description>
+    <![CDATA[Большая часть россиян потратит на украшения к Новому году от тысячи до трех тысяч рублей. Уложиться в такой бюджет планируют 37 процентов из 2,7 тысячи участников опроса. Еще 25 процентов рассчитывают потратить на декор от трех до пяти тысяч рублей, а 20 процентов — до тысячи рублей.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 07:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/23/16/20221223161722100/pic_4f872ef52a9ffcb0ec7bf37bc40cd97d.jpg" type="image/jpeg" length="26724"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/troubles/</guid>
+  <author>Марина Совина</author>
+  <title>Россиянин Винник пожаловался на проблемы со здоровьем после тюрьмы США</title>
+  <link>https://lenta.ru/news/2022/12/26/troubles/</link>
+  <description>
+    <![CDATA[Россиянин Александр Винник, обвиняемый в США в отмывании денег с помощью криптобиржы ВТС-е, рассказал, что у него появились проблемы со здоровьем. Предлагаемую в тюрьме пищу «просто невозможно выдержать человеку». «Так что я за время, что здесь провел, стал хуже видеть, у меня начал болеть желудок, — заявил он.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 06:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/06/20221226064550003/pic_a10dbd2e9284be3dbe153ae0e58435c0.jpg" type="image/jpeg" length="17482"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/nikolaev/</guid>
+  <author>Марина Совина</author>
+  <title>Стало известно о вручении украинцам повесток от ликвидированного военкомата</title>
+  <link>https://lenta.ru/news/2022/12/26/nikolaev/</link>
+  <description>
+    <![CDATA[Координатор подполья Сергей Лебедев заявил, что в Николаеве жителям вручают повестки от ликвидированного военкомата. По его словам, организация определяется как «Корабельный районный военный комиссариат», которого уже не существует. В этом случае возможны проблемы со статусом украинских военнослужащих.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 06:41:28 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/06/20221226064150569/pic_f52a6ae8818a41e026e5e23724efcc8a.jpg" type="image/jpeg" length="35220"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/enggels_/</guid>
+  <author>Марина Совина</author>
+  <title>Губернатор Саратовской области прокомментировал сообщения о ЧП в Энгельсе</title>
+  <link>https://lenta.ru/news/2022/12/26/enggels_/</link>
+  <description>
+    <![CDATA[Губернатор Саратовской области Роман Бусаргин рассказал, что правоохранительные органы проверяют сообщения о чрезвычайном происшествии на военном объекте в городе Энгельс. «Никаких чрезвычайных происшествий в жилых кварталах города не было. Никакой угрозы для жителей абсолютно нет», — подчеркнул политик. ]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 06:41:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/06/20221226064058180/pic_a3c3e492d2e628362e06ec580921dfea.jpg" type="image/jpeg" length="19703"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/prison/</guid>
+  <author>Марина Совина</author>
+  <title>Винник опроверг свою просьбу освободить его под залог</title>
+  <link>https://lenta.ru/news/2022/12/26/prison/</link>
+  <description>
+    <![CDATA[Находящийся в предварительном заключении в Калифорнии россиянин Александр Винник ответил на информацию о его просьбе к суду освободить его под залог. Винник опроверг эти данные, подчеркнув, что впервые услышал об этом от мамы. Россиянин подчеркнул, что для освобождения под залог требуются большие суммы денег.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 06:36:45 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/06/20221226062253000/pic_5e0f97067eb7d5ebc5df2afbc8ad3fb6.jpg" type="image/jpeg" length="20994"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/china_ru/</guid>
+  <author>Марина Совина</author>
+  <title>В Китае заявили о несправедливом отношении Запада к России</title>
+  <link>https://lenta.ru/news/2022/12/26/china_ru/</link>
+  <description>
+    <![CDATA[Многие в Китае считают, что Запад несправедливо обошелся с Москвой, и то, что западные страны сделали с РФ на Украине, рано или поздно может произойти на китайском Тайване. При этом многие китайцы почувствовали, что завтра их стране предстоит столкнуться с тем, что Запад сделал с Россией сегодня.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 06:31:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/06/20221226063123946/pic_184ed9274ff0f3eca9ac614eb64acad1.jpg" type="image/jpeg" length="17263"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/mars/</guid>
+  <author>Александр Еникеев</author>
+  <title>Опровергнута популярная гипотеза о кислородной атмосфере на Марсе</title>
+  <link>https://lenta.ru/news/2022/12/26/mars/</link>
+  <description>
+    <![CDATA[Ученые Вашингтонского университета в Сент-Луисе опровергли популярную гипотезу, что оксиды марганца в горных породах марсианских кратеров Гейл и Индевор возникли из-за большого содержания кислорода в атмосфере миллиарды лет назад. Для этого достаточно присутствия галогенов и их солей, окисляющих марганец.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 06:30:25 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/23/15/20221223155923802/pic_b1236995a6f32c528cd265706de7da6c.jpg" type="image/jpeg" length="18804"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/engels_/</guid>
+  <author>Марина Совина</author>
+  <title>В Энгельсе начали проверку после сообщений о ЧП на военном объекте</title>
+  <link>https://lenta.ru/news/2022/12/26/engels_/</link>
+  <description>
+    <![CDATA[В городе Энгельс Саратовской области начали проверку после сообщений о ЧП на военном объекте в Энгельсе. «Объекты гражданской инфраструктуры не пострадали. Сведения о происшествии на военном объекте проверяют силовые структуры», — подчеркнул он.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 06:18:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/06/20221226061908214/pic_fce115b8b4c3b2d4b618b68e55dce14d.jpg" type="image/jpeg" length="27427"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/biden/</guid>
+  <author>Марина Совина</author>
+  <title>В США назвали восемь крупных ошибок Байдена в 2022 году</title>
+  <link>https://lenta.ru/news/2022/12/26/biden/</link>
+  <description>
+    <![CDATA[Американский журнал Newsweek представил список наиболее крупных ошибок, которые допустил президент страны Джо Байден в этом году. Статья опубликована на сайте издания. Первой ошибкой Байдена в 2022 году журнал назвал оговорку, когда он перепутал украинцев и иранцев, что «быстро стало вирусным».]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 06:12:48 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/26/05/20221226054615251/pic_078e73481d8d5b89d33219846bf169dd.jpg" type="image/jpeg" length="32897"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/26/driver/</guid>
+  <author>Денис Савосин</author>
+  <title>Женщина опубликовала хвалебный ролик в TikTok и лишилась работы</title>
+  <link>https://lenta.ru/news/2022/12/26/driver/</link>
+  <description>
+    <![CDATA[Пользовательница TikTok пожаловалась на увольнение по неожиданной причине. По ее словам, она была уволена за то, что похвалила работодателя и призвала других утраиваться в эту компанию на работу в своих роликах на видеоплатформе. На историю женщины обратило внимание издание Daily Dot.]]>
+  </description>
+  <pubDate>Mon, 26 Dec 2022 06:00:21 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/23/19/20221223191022465/pic_7bf8f76f60a322e7195e2bd5227f1c24.jpeg" type="image/jpeg" length="21246"/>
+  <category>Интернет и СМИ</category>
+</item>
+  </channel>
+</rss>

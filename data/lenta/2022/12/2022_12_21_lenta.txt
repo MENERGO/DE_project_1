@@ -1,0 +1,2417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <language>ru</language>
+    <title>Lenta.ru : Новости</title>
+    <description>Новости, статьи, фотографии, видео. Семь дней в неделю, 24 часа в сутки.</description>
+    <link>https://lenta.ru</link>
+    <image>
+      <url>https://lenta.ru/images/small_logo.png</url>
+      <title>Lenta.ru</title>
+      <link>https://lenta.ru</link>
+      <width>134</width>
+      <height>22</height>
+    </image>
+    <atom:link rel="self" type="application/rss+xml" href="http://lenta.ru/rss"/>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/jilprod/</guid>
+  <author>Платон Щукин</author>
+  <title>В России стали чаще выставлять на продажу жилье с пометкой «срочно»</title>
+  <link>https://lenta.ru/news/2022/12/21/jilprod/</link>
+  <description>
+    <![CDATA[Доля объявлений о продаже квартир на вторичном рынке с пометкой «срочно» в России составила 4 процента, достигнув пика за три года. Доля таких квартир в объявлениях начала расти с весны, локальный максимум был достигнут в июне (3,9 процента). Затем доля начала немного снижаться, но в октябре снова выросла.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:48:47 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/17/20221221172630512/pic_7357ed6ecce82315584fc24344d62637.jpeg" type="image/jpeg" length="42770"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/frying_pan/</guid>
+  <author>Алиса Дмитриева</author>
+  <title>Подросток ударил мать сковородой и ножом за просьбу убраться в комнате</title>
+  <link>https://lenta.ru/news/2022/12/21/frying_pan/</link>
+  <description>
+    <![CDATA[Подросток в США напал на мать из-за того, что та многократно просила его убраться в комнате. Он ударил женщину по голове сковородой и несколько раз ранил ее ножом. Пострадавшую в критическом состоянии госпитализировали. После нападения подросток попытался скрыться от полиции, но был пойман.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:47:32 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/10/20221221103537230/pic_691a76aa7529f657f735bffce7299cbe.jpg" type="image/jpeg" length="19081"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/chooseyourgender/</guid>
+  <author>Глеб Бажуткин</author>
+  <title>Британских парламентариев обязали указать пол их родителей</title>
+  <link>https://lenta.ru/news/2022/12/21/chooseyourgender/</link>
+  <description>
+    <![CDATA[Всех сотрудников парламента Великобритании обязали указать в анкете пол их родителей. Об этом пишет британская газета Daily Mail. Отмечается, что нововведение вызвало недоумение у работников Вестминстера, тем более что помимо женского и мужского пола появился вариант «иное».]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/17/20221221174434172/pic_79284e70504335ae81ea2b3542a5cea4.jpg" type="image/jpeg" length="41986"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/sbu50del/</guid>
+  <author>Кристина Есикова</author>
+  <title>На Украине открыли 50 уголовных дел в отношении священников УПЦ</title>
+  <link>https://lenta.ru/news/2022/12/21/sbu50del/</link>
+  <description>
+    <![CDATA[Врио председателя Службы безопасности Украины (СБУ) Василий Малюк заявил об открытии в отношении священников Украинской православной церкви (УПЦ) свыше 50 уголовных дел, по пяти из которых суды вынесли приговоры. «Мы должны вычистить всю эту вражескую среду "кротов" в рясах», — сказал он. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:38:52 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/17/20221221172920104/pic_feaa9a66c8f1d94c5c9b4b55324bf493.jpg" type="image/jpeg" length="20228"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/fifa/</guid>
+  <author>Ксения Курашкина</author>
+  <title>ФИФА представила список лучших голов чемпионата мира</title>
+  <link>https://lenta.ru/news/2022/12/21/fifa/</link>
+  <description>
+    <![CDATA[ФИФА назвала претендентов на звание автора лучшего гола чемпионата мира. Среди них бразильцы Неймар и Ришарлисон, француз Килиан Мбаппе, аргентинец Энцо Фернандес, камерунец Венсан Абубакар, мексиканец Луис Чавес, кореец Пайк Сын Хо, а также Салем Аль-Досари из сборной Саудовской Аравии и Коди Гакпо из Нидерландов.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:37:08 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/17/20221221172043417/pic_0707426145e1517e07a584a944654204.jpg" type="image/jpeg" length="16916"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/vyzovny/</guid>
+  <author>Дениза Мацаева</author>
+  <title>Тизер фильма «Вызов» покажут перед новогодним обращением Путина</title>
+  <link>https://lenta.ru/news/2022/12/21/vyzovny/</link>
+  <description>
+    <![CDATA[Тизер «Вызова», первого в истории кинофильма, снятого в космосе, покажут перед новогодним обращением президента России Владимира Путина. Зрители смогут увидеть первые кадры картины 31 декабря на Первом канале. Фильм расскажет о враче Жене Беляевой, которая отправляется на МКС, чтобы оказать помощь космонавту.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:33:31 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/17/20221221172413461/pic_ebeb59eb887c1585257abb52dfd6c5a2.jpg" type="image/jpeg" length="36287"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/greece/</guid>
+  <author>Дарья Рыбак</author>
+  <title>Греция закрыла небо для полетов из Белоруссии</title>
+  <link>https://lenta.ru/news/2022/12/21/greece/</link>
+  <description>
+    <![CDATA[Греция закрыла свое воздушное пространство для самолетов из Беларуси и запретила национальным авиаперевозчикам выполнять полеты в республику. В опубликованном документе Управления гражданской авиации Греции говорится, что греческие авиаперевозчики и капитаны воздушных судов не должны выполнять полеты в Белоруссию.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:30:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/17/20221221173035413/pic_d37d11bf67a5c3a41d3c5e3daad8bc89.jpg" type="image/jpeg" length="34062"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/nrcg/</guid>
+  <author>Иван Потапов</author>
+  <title>В США рассказали о проблемах с европейскими ракетами</title>
+  <link>https://lenta.ru/news/2022/12/21/nrcg/</link>
+  <description>
+    <![CDATA[Авария итальянской легкой ракеты Vega C нанесла ущерб Arianespace и Airbus, а также ставит под сомнения возможности Европы самостоятельно проводить запуски носителей космического назначения. Об этом пишет американское издание SpaceNews в публикации, посвященной последней аварии носителя.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:28:34 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221142111690/pic_1fcf324183168e99ecc1ddab0289fb02.jpg" type="image/jpeg" length="34403"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/ptr/</guid>
+  <author>Наталия Белова</author>
+  <title>Последствия введения потолка цен на нефть из России оценили</title>
+  <link>https://lenta.ru/news/2022/12/21/ptr/</link>
+  <description>
+    <![CDATA[После введения потолка цен российская нефть стала продаваться на 5-15 долларов за баррель дешевле, отметил международный эксперт рынка ресурсов и энергетики Владимир Демидов. Об этом он заявил в разговоре с «Лентой.ру». Это связано с дисконтом, который установлен на нефть из России.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:21:38 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221152916704/pic_5b61bb0a130714773632c74119e32c45.jpg" type="image/jpeg" length="26072"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/ladanissan/</guid>
+  <author>Платон Щукин</author>
+  <title>На бывшем заводе Nissan в Петербурге начнут производить Lada</title>
+  <link>https://lenta.ru/news/2022/12/21/ladanissan/</link>
+  <description>
+    <![CDATA[На бывшем заводе автоконцерна Nissan в Санкт-Петербурге запустят производство Lada. По словам гендиректора «АвтоВАЗа» Максима Соколова, машины под брендом Lada будут «современными, качественными, с высокими потребительскими достоинствами и высочайшими стандартами безопасности».]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:21:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/17/20221221170656977/pic_aa1a5eaab9294cceeb856ce94d868e68.jpg" type="image/jpeg" length="32439"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/womanss/</guid>
+  <author>Анна Щербакова</author>
+  <title>Пригожин заявил о планах набирать снайперов и диверсантов в женских колониях</title>
+  <link>https://lenta.ru/news/2022/12/21/womanss/</link>
+  <description>
+    <![CDATA[Бизнесмен, основатель частной военной компании «Вагнер» Евгений Пригожин допустил, что будет набирать снайперов и диверсантов среди женщин, отбывающих наказание в российских колониях. До этого с таким предложением к Пригожину обратился депутат свердловского заксобрания Вячеслав Вегнер.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:21:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/17/20221221170313025/pic_d7560ecf7f0322e7f845b5faebba92c1.jpg" type="image/jpeg" length="46249"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/no_patriots/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Германия заявила об отсутствии ПРО Patriot для отправки Украине</title>
+  <link>https://lenta.ru/news/2022/12/21/no_patriots/</link>
+  <description>
+    <![CDATA[На данный момент у Германии нет доступных систем противоракетной обороны (ПРО) Patriot для отправки Украине. Об их отсутствии у страны заявил официальный представитель кабинета министров ФРГ Штеффен Хебештрайт. Он добавил, что ФРГ не возражает против поставок этих систем Киеву, но в данный момент их не хватает. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:20:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/17/20221221172003333/pic_a6a5d0c6f54c99c9cf28cf037596115c.jpg" type="image/jpeg" length="24488"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/drobysh_died/</guid>
+  <author>Дениза Мацаева</author>
+  <title>Умер заслуженный артист России Иван Дробыш</title>
+  <link>https://lenta.ru/news/2022/12/21/drobysh_died/</link>
+  <description>
+    <![CDATA[Ушел из жизни заслуженный артист России Иван Дробыш. Актер скончался в возрасте 71 года, причина его смерти не раскрывается. Более 40 лет Дробыш выступал на театральной сцене. Работал в Кустанайском драматическом театре Горького и Курганском театре, где сыграл более семидесяти ролей.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221162624942/pic_4d60b046f337ac443fc2ebff5a60e95b.jpg" type="image/jpeg" length="23442"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/rosgvvv/</guid>
+  <author>Любовь Ширижик</author>
+  <title>Росгвардейцы задержали пособника ВСУ в Запорожской области</title>
+  <link>https://lenta.ru/news/2022/12/21/rosgvvv/</link>
+  <description>
+    <![CDATA[В Запорожской области военнослужащие Росгвардии обнаружили и задержали пособника Вооруженных сил Украины. В ходе специальных мероприятий была отработана информация, поступившая росгвардейцам от местных жителей. В итоге была установлена личность подозреваемого. По месту его жительства изъят пистолет Макарова.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:16:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/17/20221221171550137/pic_367260dceac3a1b998504a73ccd1bf7b.jpg" type="image/jpeg" length="32798"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/letyat_hphli/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Байден приветствовал летящего к нему Зеленского</title>
+  <link>https://lenta.ru/news/2022/12/21/letyat_hphli/</link>
+  <description>
+    <![CDATA[Президент США Джо Байден заявил, что с нетерпением ждет прилета в страну своего украинского коллеги Владимира Зеленского, добавив, что рассчитывает обсудить большой круг вопросов. Об этом американский глава государства написал в Twitter. Он добавил, что рад возможности встретиться с Зеленским в Вашингтоне.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:15:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/17/20221221171026893/pic_91d4fef3271418fee4c30fba39a0eb87.jpg" type="image/jpeg" length="15593"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/noviy_vibukh/</guid>
+  <author>Георгий Нестеров</author>
+  <title>В Киеве произошел взрыв</title>
+  <link>https://lenta.ru/news/2022/12/21/noviy_vibukh/</link>
+  <description>
+    <![CDATA[В одном из районов Киева произошел взрыв. Об этом сообщает Telegram-канал издания «Страна.ua». Отмечается, что над местом взрыва поднялся столб дыма, воздушной тревоги при этом не было. До этого сообщалось о мощном взрыве в Киевской области, который прогремел сразу же после отбоя воздушной тревоги.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:14:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/17/20221221171744084/pic_acebc8b3281f304af73f9e4d0463ddae.jpg" type="image/jpeg" length="29340"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/seyshells_disgust/</guid>
+  <author>Дарья Рыбак</author>
+  <title>Россиянка побывала на любимом курорте богачей и назвала его главные недостатки</title>
+  <link>https://lenta.ru/news/2022/12/21/seyshells_disgust/</link>
+  <description>
+    <![CDATA[Российская туристка, побывавшая на Сейшельских островах, рассказала об основных неприятных нюансах, с которыми сталкиваются путешественники на курорте. Так, несмотря на наличие на Сейшелах большого количества роскошных пляжей, купание могут омрачить постоянно прибивающиеся к берегу водоросли.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221134933696/pic_ef0953db5cefd926fd0eda0099be55cc.jpg" type="image/jpeg" length="13164"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/stulist/</guid>
+  <author>Майя Пономаренко</author>
+  <title>Россиянкам перечислили подходящие к пуховикам сумки</title>
+  <link>https://lenta.ru/news/2022/12/21/stulist/</link>
+  <description>
+    <![CDATA[Российский стилист бренда Emka Владимир Казарян перечислил лучшие сумки для сочетания с пуховиками. По словам эксперта, больше всего к объемным курткам подойдут сумки из таких материалов, как кожа, искусственный мех, твид, замша, а также бархат или нейлон базовых или пастельных тонов.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221164203867/pic_ed4f6d7d3abf3fafd7f3f66800b8924f.jpg" type="image/jpeg" length="12166"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/bel_citizenship/</guid>
+  <author>Георгий Нестеров</author>
+  <title>В Белоруссии одобрили новые условия для выдачи гражданства</title>
+  <link>https://lenta.ru/news/2022/12/21/bel_citizenship/</link>
+  <description>
+    <![CDATA[Совет республики Национального собрания Белоруссии одобрил законопроект о новых условиях для выдачи гражданства. Согласно документу, желающие получить гражданство республики будут обязаны принести присягу и знать один из двух государственных языков — русский или белорусский.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:11:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221163113099/pic_c7ddc8dbc3ff561fd422fdefe798c739.jpg" type="image/jpeg" length="28579"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/kostya/</guid>
+  <author>Нина Ташевская</author>
+  <title>Звезда «Ворониных» оказался недоволен отношением приезжих к Москве</title>
+  <link>https://lenta.ru/news/2022/12/21/kostya/</link>
+  <description>
+    <![CDATA[Звезда сериала «Воронины» актер Георгий Дронов оказался недоволен тем, как приезжие из других регионов относятся к Москве. Своим мнением он поделился в разговоре с «Москвич Mag». Дронов отметил, что ему не нравится большое количество людей в столице, так как коммуникации в городе рассчитаны на определенные стандарты.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221164317536/pic_8b4151192a8b868ed95cc06d048568c2.jpg" type="image/jpeg" length="36531"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/bishkek/</guid>
+  <author>Кристина Есикова</author>
+  <title>Власти Киргизии приступили к дерусификации Бишкека</title>
+  <link>https://lenta.ru/news/2022/12/21/bishkek/</link>
+  <description>
+    <![CDATA[Власти Бишкека приступили к дерусификации города, начав разрабатывать новые названия четырех районов. «Они [местные власти] уже обозначили свою позицию, противодействия не будет. Готовятся предложения о переименовании всех четырех районов», — сказал чиновник Эльчибек Жантаев.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221165548677/pic_97c2f68d21114991aef0a547454b698a.jpg" type="image/jpeg" length="27389"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/ivlev/</guid>
+  <author>Олег Давыдов</author>
+  <title>Популярный телеведущий раскрыл подробности развода</title>
+  <link>https://lenta.ru/news/2022/12/21/ivlev/</link>
+  <description>
+    <![CDATA[Популярный российский шеф-повар и телеведущий Константин Ивлев раскрыл подробности развода с первой женой. Во время разговора с блогершей Анастасией Ивлеевой он, в частности, рассказал, как сын Матвей и дочь Мария отнеслись к его расставанию с супругой. Запись их беседы опубликована на YouTube.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221160635257/pic_39bfab74dd3b3ea6331c6326c36045c7.jpg" type="image/jpeg" length="22667"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/antibiotics/</guid>
+  <author>Кирилл Садовский</author>
+  <title>Описана смертельная опасность приема антибиотиков без рекомендаций врача</title>
+  <link>https://lenta.ru/news/2022/12/21/antibiotics/</link>
+  <description>
+    <![CDATA[Бесконтрольный прием антибиотиков крайне опасен не только для самого пациента, но и для всей человеческой популяции. В беседе с «Лентой.ру» врач Ирина Ярцева рассказала, что в результате такого применения антибиотиков формируется коллективная устойчивость населения к этой группе препаратов.<br />]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221141806228/pic_9636d63755ef3aceb5f60a925f655b19.jpeg" type="image/jpeg" length="40350"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/emelya/</guid>
+  <author>Анастасия Борисова</author>
+  <title>Менеджер Александра Емельяненко оценил вероятность проведения боя с Джигурдой</title>
+  <link>https://lenta.ru/news/2022/12/21/emelya/</link>
+  <description>
+    <![CDATA[Никита Бурчак, менеджер российского бойца смешанного стиля (MMA) Александра Емельяненко, оценил вероятность проведения боя его подопечного с актером Никитой Джигурдой. Бурчак заявил, что подобный выставочный поединок мог бы стать хорошим шоу, который помог бы актеру и бойцу заработать.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 17:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221163225198/pic_97825473ca688b1f28c62396ca90d733.jpg" type="image/jpeg" length="33785"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/twitterplane/</guid>
+  <author>Данил Дмитриев</author>
+  <title>Маск сравнил Twitter с терпящим крушение горящим самолетом</title>
+  <link>https://lenta.ru/news/2022/12/21/twitterplane/</link>
+  <description>
+    <![CDATA[Глава социальной сети Twitter миллиардер Илон Маск сравнил положение дел в компании с самолетом, терпящим крушение. По словам миллиардера, если бы он не провел реформы в компании и не уволил большую часть сотрудников, Twitter пришел бы к отрицательному денежному потоку в размере трех миллиардов долларов. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:57:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221161221636/pic_0eb4b10ccd5e9856d88d99db815bf375.jpg" type="image/jpeg" length="25794"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/estodvadevyat/</guid>
+  <author>Елена Апазиди</author>
+  <title>Популярный пищевой краситель вызвал нарушения работы кишечника</title>
+  <link>https://lenta.ru/news/2022/12/21/estodvadevyat/</link>
+  <description>
+    <![CDATA[Ученые университета Макмастера выявили, что популярный пищевой краситель E129 способен вызывать нарушения работы кишечника, которые, в частности, проявляются в легкой форме колита. Е129 обладает ярко-красным цветом и часто применяется в пищевой промышленности для сладких напитков, конфет и даже в лекарствах.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221124558058/pic_4bb521ff5cf15590e3ef6651cab61e1c.jpg" type="image/jpeg" length="53336"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/zapustil/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Путин запустил работу Ковыктинского месторождения</title>
+  <link>https://lenta.ru/news/2022/12/21/zapustil/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин запустил работу крупнейшего на востоке страны Ковыктинского месторождения и участка Ковыкта — Чаянда газопровода «Сила Сибири». Российский лидер принял участие в мероприятии по видеосвязи. По словам Путина, извлекаемые запасы месторождения — 1,8 триллиона кубометров газа.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221165835618/pic_ae43ce1f8bbc7c0a656233459ac2cd32.jpeg" type="image/jpeg" length="28822"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/srok_/</guid>
+  <author>Марк Леонов</author>
+  <title>В Вооруженных силах России высказались об изменении срока службы по призыву</title>
+  <link>https://lenta.ru/news/2022/12/21/srok_/</link>
+  <description>
+    <![CDATA[Планов по увеличению срока службы по призыву в рядах Вооруженных сил России нет, сообщает ТАСС со ссылкой на источник в военных кругах. Речь идет исключительно о повышении верхней и нижней планок призывного возраста. Идею об увеличении срока срочной службы высказывал член Совфеда Владимир Джабаров.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221164419655/pic_873ac3098507045d1662b521b7464cb0.jpg" type="image/jpeg" length="37803"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/gossvt/</guid>
+  <author>Татьяна Романова</author>
+  <title>На семинаре-совещании по подготовке к Госсовету обсудили молодежную политику</title>
+  <link>https://lenta.ru/news/2022/12/21/gossvt/</link>
+  <description>
+    <![CDATA[В Москве прошел семинар-совещание по подготовке к Государственному Совету РФ «О реализации молодежной политики в современных условиях». В обсуждении приняли участие не только члены Государственного Совета РФ — главы субъектов, представители администрации президента, члены правительства, но и эксперты.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221165201428/pic_1058fa7ae6dd119ea1024e40451e3a1b.jpg" type="image/jpeg" length="15794"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/switzerlandcoservative/</guid>
+  <author>Глеб Бажуткин</author>
+  <title>Швейцария отказалась признавать существование третьего пола</title>
+  <link>https://lenta.ru/news/2022/12/21/switzerlandcoservative/</link>
+  <description>
+    <![CDATA[Правительство Швейцарии отказалось признавать существование третьего пола. Об этом сообщается в документе Федерального совета страны, опубликованном на сайте местного правительства. «Принцип двух полов остается глубоко укоренившимся в швейцарском обществе», — говорится в заявлении.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221161647535/pic_3ba8e4c3eb1c805ad7353d176cd396d8.jpg" type="image/jpeg" length="17103"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/sovfeddd/</guid>
+  <author>Любовь Ширижик</author>
+  <title>Совфед рассмотрит закон о пожизненном сроке за диверсии в России</title>
+  <link>https://lenta.ru/news/2022/12/21/sovfeddd/</link>
+  <description>
+    <![CDATA[Совет Федерации назначил на 23 декабря рассмотрение закона о пожизненном лишении свободы за диверсии. В Уголовном кодексе России появятся три новые статьи: «Содействие диверсионной деятельности», «Прохождение обучения в целях осуществления диверсионной деятельности» и «Организация диверсионного сообщества и участие».]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221162220249/pic_bee6a71e55711a942f933557f84a3f27.jpg" type="image/jpeg" length="41963"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/bessarab/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Россиянам рассказали о социальных выплатах в 2023 году</title>
+  <link>https://lenta.ru/news/2022/12/21/bessarab/</link>
+  <description>
+    <![CDATA[Размер социальных выплат для всех граждан, которые их получают, будет увеличен в 2023 году. Об этом в разговоре с «Лентой.ру» рассказала член комитета Госдумы по труду, социальной политике и делам ветеранов Светлана Бессараб. Она также напомнила о новом виде пособий для семей с детьми.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221163755791/pic_0205de9fb2bbf3e3f9b7f9f0e5c40b8a.jpg" type="image/jpeg" length="32930"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/vspafganistan/</guid>
+  <author>Анна Щербакова</author>
+  <title>Роспотребнадзор прокомментировал вспышку неизвестной инфекции в Афганистане</title>
+  <link>https://lenta.ru/news/2022/12/21/vspafganistan/</link>
+  <description>
+    <![CDATA[В России были усилены все необходимые санитарно-карантинные меры после известия о вспышке неизвестной инфекции в Афганистане, сообщили в Роспотребнадзоре. По предварительным данным, причиной заболевания стала широко распространенная в Афганистане крымская геморрагическая лихорадка. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:44:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221162701883/pic_4153b31cea24a1a1ecddd3f145375e01.jpg" type="image/jpeg" length="38490"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/arms_ukraine/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>США раскрыли принцип использования отправленного Украине оружия</title>
+  <link>https://lenta.ru/news/2022/12/21/arms_ukraine/</link>
+  <description>
+    <![CDATA[Власти Украины самостоятельно принимают решения о том, как применять поставленное США оружие. Принцип использования отправленных Киеву вооружений раскрыл координатор по стратегическим коммуникациям в Совете национальной безопасности Белого дома Джон Кирби. Его слова передает ТАСС.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:44:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221165255770/pic_a14441ce4102c5438f96ef9a079b7ec3.jpg" type="image/jpeg" length="28489"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/oligarhi/</guid>
+  <author>Алевтина Запольская</author>
+  <title>На Украине захотели отправить олигархов в окопы</title>
+  <link>https://lenta.ru/news/2022/12/21/oligarhi/</link>
+  <description>
+    <![CDATA[Украинским олигархам придется спуститься в окопы и защищать страну с оружием в руках, если это потребуется. Об этом заявил врио председателя Службы безопасности Украины (СБУ) Василий Малюк. По его словам, олигархи сейчас находятся под пристальным вниманием СБУ, некоторые из них ходят на допросы.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:43:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221164035489/pic_157c8a80308000c121a77ad456e64aa7.jpeg" type="image/jpeg" length="49755"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/shoigu_vozrast/</guid>
+  <author>Марк Леонов</author>
+  <title>Шойгу предложил изменить призывной возраст</title>
+  <link>https://lenta.ru/news/2022/12/21/shoigu_vozrast/</link>
+  <description>
+    <![CDATA[Министр обороны России Сергей Шойгу выступил с предложением увеличить призывной возраст с 18 до 21 года. Такое предложение он сделал на расширенном заседании коллегии оборонного ведомства. В какие сроки будет производиться изменение возраста призыва, глава министерства не уточнил. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221155702543/pic_26003e81593d0d706c4dcc457695737d.jpg" type="image/jpeg" length="30407"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/balencabdsm/</guid>
+  <author>Майя Пономаренко</author>
+  <title>Рекламу Gucci с Гарри Стайлсом обругали за сходство с кампанией Balenciaga</title>
+  <link>https://lenta.ru/news/2022/12/21/balencabdsm/</link>
+  <description>
+    <![CDATA[Английский певец Гарри Стайлс представил рекламу собственной коллекции HAHAHA, созданной для итальянского бренда Gucci, и подвергся критике в сети. Речь идет о промоснимках, на которых он позирует в футболке с мишкой Тедди напротив детской кровати. Клиенты заметили сходства со скандальной кампанией марки Balenciaga.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:39:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221162150505/pic_7e862824b47d4a6d962e1b3b917ee3a1.webp" type="image/webp" length="26426"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/utair/</guid>
+  <author>Валентина Процкова</author>
+  <title>Упавший в туалете самолета россиянин засудил авиакомпанию за страдания</title>
+  <link>https://lenta.ru/news/2022/12/21/utair/</link>
+  <description>
+    <![CDATA[Россиянин, упавший в туалете самолета, засудил российскую авиакомпанию за полученные физически и моральные страдания. Уточняется, что инцидент произошел на рейсе перевозчика Utair, следующем по маршруту Москва — Сургут. Лайнер попал в зону турбулентности в момент, когда один из пассажиров пошел в туалет. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:37:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221152335450/pic_0260e81be34be1f041c120d584edbaca.jpg" type="image/jpeg" length="20086"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/lipeck/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Двое детей с симптомами ОРВИ скончались в Липецкой области</title>
+  <link>https://lenta.ru/news/2022/12/21/lipeck/</link>
+  <description>
+    <![CDATA[Двое детей с признаками простуды скончались в Липецкой области. Первый случай был зафиксирован в селе Верхняя Колыбелка. Восьмилетний школьник в течение недели находился дома из-за ОРВИ, к медикам семья не обращалась. Мать мальчика ушла на работу в ночную смену, с ребенком остался дедушка. Утром ребенка нашли мертвым]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221163643904/pic_d860f27c000c9b7550e4d993e290e5a7.jpeg" type="image/jpeg" length="25545"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/ecozit/</guid>
+  <author>Александра Качан</author>
+  <title>Массовую гибель животных в российском регионе захотели приравнять к экоциду</title>
+  <link>https://lenta.ru/news/2022/12/21/ecozit/</link>
+  <description>
+    <![CDATA[Экоактивисты просят строже наказать виновных в массовой гибели животных в Ставропольском крае. Неравнодушные захотели приравнять подобные случаи к экоциду, за который грозит срок лишения свободы от 12 до 20 лет. Эколог Каваносян отметил, что животные не впервые массово погибают в российском регионе.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:30:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221151358133/pic_c2c23919bddbda0c3d96d800327318b0.jpg" type="image/jpeg" length="35002"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/foxconn/</guid>
+  <author>Андрей Ставицкий</author>
+  <title>На производстве iPhone заметили больных работников Foxconn</title>
+  <link>https://lenta.ru/news/2022/12/21/foxconn/</link>
+  <description>
+    <![CDATA[Китайская Foxconn принуждает сотрудников, занимающиеся сборкой iPhone, не покидать рабочие места. Работники обеспечены масками N95, однако на предприятии все равно остается высокий риск заражения. Один из рабочих анонимно сообщил, что его начальство просит не проходить тестирование на коронавирус.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:28:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221120427640/pic_862c1279169e21b8ae2a6d008be5635f.jpg" type="image/jpeg" length="22929"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/vygoranie/</guid>
+  <author>Александра Лисица</author>
+  <title>Названы грозящие выгоранием профессии</title>
+  <link>https://lenta.ru/news/2022/12/21/vygoranie/</link>
+  <description>
+    <![CDATA[80 процентов российских работодателей признают, что их сотрудники сталкиваются со стрессом и выгоранием. Больше всего, как выяснилось в ходе опроса, страдают специалисты творческих специальностей (26 процентов), финансисты и экономисты (25 процентов) и медицинские работники (19 процентов).]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221133322546/pic_e15fd667cc566c3dff4e4de76fa30352.jpg" type="image/jpeg" length="18611"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/mexico/</guid>
+  <author>Зарина Дзагоева</author>
+  <title>Российские туристы случайно попали в доминиканскую тюрьму и засудили турфирму</title>
+  <link>https://lenta.ru/news/2022/12/21/mexico/</link>
+  <description>
+    <![CDATA[Российские супруги, отправившиеся в путешествие, оказались в доминиканской тюрьме вместо Мексики из-за ошибки турагента, которая, в свою очередь, отказалась решать их проблему. С помощью российского консульства они вернулись домой, подали иск и отсудили 672 000 рублей — неустойку, штраф и расходы.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:24:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221140102803/pic_c38e37b6f509c2d2a3209821ef0e5704.jpeg" type="image/jpeg" length="55263"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/avatarno/</guid>
+  <author>Дениза Мацаева</author>
+  <title>В США призвали бойкотировать «Аватар» из-за расизма и культурной апроприации</title>
+  <link>https://lenta.ru/news/2022/12/21/avatarno/</link>
+  <description>
+    <![CDATA[Представители коренных народов США призвали бойкотировать премьеру фильма «Аватар: Путь воды» Джеймса Кэмерона. Причиной тому стали идеи расизма и апроприации, поднятые в картине. По словам активистки Юэ Бегай, режиссер фильма присвоил обитателям Пандоры культуры разных народов.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:24:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221160419360/pic_201a5f4b2b43f17e95609177f6faa35e.jpg" type="image/jpeg" length="19658"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/vzrr/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Под Киевом произошел мощный взрыв</title>
+  <link>https://lenta.ru/news/2022/12/21/vzrr/</link>
+  <description>
+    <![CDATA[В Киевской области произошел мощный взрыв, сообщил военный корреспондент Юрий Котенок. По информации журналиста, взрыв прогремел сразу же после отбоя воздушной тревоги. На прикрепленном к посту кадре виден поднимающийся в небо столб дыма. Другие подробности случившегося уточняются.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:23:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221162329252/pic_1c187033732cac25af505b9ce5c6419b.jpg" type="image/jpeg" length="9316"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/saldooo/</guid>
+  <author>Любовь Ширижик</author>
+  <title>Задержаны причастные к покушению на замглавы администрации Херсонской области</title>
+  <link>https://lenta.ru/news/2022/12/21/saldooo/</link>
+  <description>
+    <![CDATA[Правоохранители задержали шесть человек по подозрению в причастности к покушению на первого заместителя главы администрации Херсонской области Виталия Булюка. Об этом сообщил врио губернатора региона Владимир Сальдо. Полиция установила личности всех причастных к преступлению. Они дают показания.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:15:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221160135933/pic_9102974c0f5ab74479f7ca083da77572.jpg" type="image/jpeg" length="30530"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/beautymacron/</guid>
+  <author>Екатерина Ештокина</author>
+  <title>Российский хирург раскрыл секреты молодости 69-летней жены Макрона</title>
+  <link>https://lenta.ru/news/2022/12/21/beautymacron/</link>
+  <description>
+    <![CDATA[Пластический хирург Александр Вдовин раскрыл секреты молодости 69-летней жены президента Франции Эммануэля Макрона Брижит. Он предположил, что женщина делала операцию по подтяжке кожи, а также деликатную коррекцию скуловой области филлерами на основе гиалуроновой кислоты.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221152840446/pic_14dd1ef1edccb20385e505abad365fb9.jpg" type="image/jpeg" length="21939"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/dostuzh/</guid>
+  <author>Никита Абрамов</author>
+  <title>Путин выразил уверенность в достижении всех целей Минобороны</title>
+  <link>https://lenta.ru/news/2022/12/21/dostuzh/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин выразил уверенность в том, что все цели страны и Минобороны в частности будут достигнуты. Об этом он заявил во время расширенного заседания коллегии Минобороны. Он также подчеркнул, что вся страна смотрит на Вооруженные силы России и желает им успехов. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221160744272/pic_7b6913dcebff4ed85b9ca53b2c327133.jpg" type="image/jpeg" length="34585"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/totallyagree/</guid>
+  <author>Алина Гончарова</author>
+  <title>Путин поддержал предложения Шойгу по структурным изменениям ВС России</title>
+  <link>https://lenta.ru/news/2022/12/21/totallyagree/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин согласился с предложениями министра обороны Сергея Шойгу по поводу структурных изменений Вооруженных сил (ВС) РФ. «После обсуждения на коллегии прошу вас доложить, и мы с вами еще тоже об этом подробно поговорим», — обратился глава государства к министру.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:07:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221160913333/pic_1713a1b76fae9284f4b207709fcae3ed.jpeg" type="image/jpeg" length="26995"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/podachki/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Путин высказался о будущем Украины</title>
+  <link>https://lenta.ru/news/2022/12/21/podachki/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин на расширенном заседании коллегии Минобороны России высказался о возможном будущем Украины. По словам главы государства, в скором времени у Киева не останется ничего, кроме «подачек». Путин подчеркнул, что Россия знает свои преимущества: ядерную триаду, военно-космические силы.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221160849355/pic_64b2c6fe7bbab1282e474daeb2a6e7dc.jpeg" type="image/jpeg" length="24402"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/military/</guid>
+  <author>Варвара Родикова</author>
+  <title>Путин исключил милитаризацию России</title>
+  <link>https://lenta.ru/news/2022/12/21/military/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин заявил об отсутствии планов по милитаризации страны и экономики. Об этом он сообщил на расширенном заседании коллегии Минобороны России. Он подчеркнул, что Россия будет совершенствовать вооруженные силы и военную составляющую государства, но это будет происходить в спокойном темпе.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221160816694/pic_306b69a80f23272f0f632834ffae821c.jpg" type="image/jpeg" length="36274"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/years_apart/</guid>
+  <author>Алиса Дмитриева</author>
+  <title>Пенсионерка вышла замуж за возлюбленного после 60 лет разлуки</title>
+  <link>https://lenta.ru/news/2022/12/21/years_apart/</link>
+  <description>
+    <![CDATA[В 1962 году жительница Аргентины влюбилась в бельгийца, который приезжал в ее страну на работу. Между ними завязались отношения. Позже мужчина уехал на родину, и женщина вышла замуж за другого человека. После смерти мужа она решила разыскать своего бельгийского возлюбленного. Они встретились и вскоре поженились.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/09/20221221095648749/pic_73e1d757fb142bfb2b15f6b86c51dce4.jpeg" type="image/jpeg" length="23651"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/naz/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Путин признал наличие националистов в России</title>
+  <link>https://lenta.ru/news/2022/12/21/naz/</link>
+  <description>
+    <![CDATA[Националисты существуют везде в мире, в том числе и в России. Однако в стране их идеология не возводится в ранг национальной политики. Об этом на расширенном заседании коллегии Минобороны заявил президент Владимир Путин. По его словам, пособники националистов на Украине ходят со свастикой в центре крупных городов. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221160338808/pic_21a487618687999fe6ed005a7bc69215.jpg" type="image/jpeg" length="20484"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/tiktok_trend/</guid>
+  <author>Олег Давыдов</author>
+  <title>В TikTok начали гадать на замужество с помощью искусственного интеллекта</title>
+  <link>https://lenta.ru/news/2022/12/21/tiktok_trend/</link>
+  <description>
+    <![CDATA[В TikTok завирусился тренд, в котором девушки гадают, выйдут ли они замуж в новом году. Для определения вероятности замужества пользовательницы платформы снимают на камеру свою правую руку, при этом используя фильтр AI Manga, превращающий фотоснимки в изображение, выполненное в аниме-стиле.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221134017488/pic_36aeeb2be16647b3201a60725a928462.jpg" type="image/jpeg" length="13277"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/sbu_kanal/</guid>
+  <author>Алевтина Запольская</author>
+  <title>На Украине перекрыли канал отправки уклонистов за границу</title>
+  <link>https://lenta.ru/news/2022/12/21/sbu_kanal/</link>
+  <description>
+    <![CDATA[Служба безопасности Украины (СБУ) ликвидировала каналы переправки мужчин призывного возраста за границу под видом волонтеров или в обход контрольно-пропускных пунктов. Об этом в Telegram сообщила пресс-служба ведомства.  За свои услуги организаторы просили от 4 тысяч долларов.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221153845970/pic_56934338f054c20ee2f699d6c8ee7d5c.jpg" type="image/jpeg" length="34910"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/sobb/</guid>
+  <author>Сергей Истомин</author>
+  <title>Путин назвал трагедией происходящие на Украине события</title>
+  <link>https://lenta.ru/news/2022/12/21/sobb/</link>
+  <description>
+    <![CDATA[Происходящие сейчас на Украине события — трагедия, однако это результат политики не России, а других стран. Об этом на расширенном заседании коллегии Минобороны заявил президент Владимир Путин. Это является результатом политики третьих стран, которые всегда стремились к дезинтеграции русского мира, добавил он. <br /><br /> ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 16:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221155948214/pic_aeb95b34fc0ef62dade8778230fbfacb.jpg" type="image/jpeg" length="23606"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/2023/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Шойгу назвал главную задачу СВО на 2023 год</title>
+  <link>https://lenta.ru/news/2022/12/21/2023/</link>
+  <description>
+    <![CDATA[Министр обороны России Сергей Шойгу назвал главной задачей на 2023 год продолжение специальной военной операции на Украине до полного выполнения всех задач. Кроме того, по словам руководителя министерства, российские группировки войск и сил продолжат обеспечивать сохранение мира и стабильности в Сирии.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:59:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/16/20221221160006007/pic_06675c7f7b685064686c12dd66bcee30.jpg" type="image/jpeg" length="13564"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/net2023/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Орбан высказался о возможном посещении Киева</title>
+  <link>https://lenta.ru/news/2022/12/21/net2023/</link>
+  <description>
+    <![CDATA[Премьер-министр Венгрии Виктор Орбан не планирует посещать Киев в 2023 году. Об этом глава правительства заявил в ходе пресс-конференции в Будапеште. На вопрос журналистов о том, собирается ли премьер посетить украинскую столицу в следующем году, Орбан ответил, что визит не входит в его программу.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:58:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221155754291/pic_8f2c16545f52e81a51b5485de0d934d4.jpg" type="image/jpeg" length="19450"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/11435/</guid>
+  <author>Даниил Иринин</author>
+  <title>В Мурманске выведут «Адмирала Кузнецова» из дока</title>
+  <link>https://lenta.ru/news/2022/12/21/11435/</link>
+  <description>
+    <![CDATA[На 35-м судоремонтном заводе в Мурманске 20 декабря начали операцию по выводу из сухого дока тяжелого авианесущего крейсера «Адмирал Кузнецов». Ранее генеральный директор Объединенной судостроительной корпорации Алексей Рахманов сообщал, что доковый ремонт корабля почти завершен.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:58:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/10/20221221104742657/pic_199cc16fab4011b632e3ebd255bb9cfa.jpeg" type="image/jpeg" length="31340"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/pochikat/</guid>
+  <author>Константин Лысяков</author>
+  <title>Путин обвинил Запад в желании «почикать и раздробить» Россию</title>
+  <link>https://lenta.ru/news/2022/12/21/pochikat/</link>
+  <description>
+    <![CDATA[Запад веками хотел «почикать и раздробить» Россию. Об этом на расширенном заседании коллегии Минобороны заявил президент Владимир Путин. По словам главы государства, на протяжении веков целью стратегических партнеров России являлась попытка «дезинтеграции и ослабления, разобщения нашей страны».]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221155813947/pic_9ff98ef4389d819feaf08975e27288b4.jpg" type="image/jpeg" length="37110"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/kontraktniki/</guid>
+  <author>Никита Абрамов</author>
+  <title>Шойгу предложил увеличить число контрактников до 521 тысячи</title>
+  <link>https://lenta.ru/news/2022/12/21/kontraktniki/</link>
+  <description>
+    <![CDATA[Численность военнослужащих по контракту в России необходимо довести до 521 тысячи. С таким предложением выступил министр обороны страны Сергей Шойгу во время расширенного заседания коллегии Минобороны. Он объяснил, что число контрактников должно быть увеличено до конца 2023 года.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221155550948/pic_a3fcacabf8b3dc5cfe7911c04a613910.jpg" type="image/jpeg" length="28494"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/chislennost/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Шойгу призвал увеличить численность армии до 1,5 миллиона военнослужащих</title>
+  <link>https://lenta.ru/news/2022/12/21/chislennost/</link>
+  <description>
+    <![CDATA[Численность Вооруженных сил Российской Федерации необходимо довести до 1,5 миллиона военнослужащих. Об этом заявил глава Минобороны Сергей Шойгу. Министр добавил, что численность контрактников в том числе нужно увеличить до 670 тысяч. Он также объявил о планах увеличить возраст призыва.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221155502809/pic_18f65873497deacd58de8ab5c5413aa9.jpg" type="image/jpeg" length="33727"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/okrr/</guid>
+  <author>Анна Щербакова</author>
+  <title>Московский и Ленинградский военные округа предложили создать в ВС РФ</title>
+  <link>https://lenta.ru/news/2022/12/21/okrr/</link>
+  <description>
+    <![CDATA[Необходимо создать два межвидовых стратегических территориальных объединения Вооруженных сил России — Московский и Ленинградский военные округа. С таким предложением выступил глава Минобороны Сергей Шойгу в ходе расширенного заседания ведомства с участием президента России в среду, 21 декабря.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221155327302/pic_45114c48e1728230095ef755ec3d4629.jpg" type="image/jpeg" length="24318"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/vinogradova2/</guid>
+  <author>Анастасия Борисова</author>
+  <title>Появились новые подробности гибели 17-летней российской футболистки</title>
+  <link>https://lenta.ru/news/2022/12/21/vinogradova2/</link>
+  <description>
+    <![CDATA[Вратарь молодежного женского футбольного клуба ЦСКА Виктория Виноградова умерла от отравления неизвестным веществом. Сотрудники правоохранительных органов забрали из квартиры пакетик с метадоном массой примерно 0,3 грамма. Окончательную причину смерти футболистки покажет экспертиза.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221150526010/pic_a156a391e3a8acc1c032583565003fc3.jpg" type="image/jpeg" length="48891"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/gruppirovka/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Шойгу анонсировал создание новой группировки войск на северо-западе России</title>
+  <link>https://lenta.ru/news/2022/12/21/gruppirovka/</link>
+  <description>
+    <![CDATA[На северо-западе России будет создана новая группировка войск. Работы по ее формированию анонсировал глава российского Минобороны Сергей Шойгу в ходе расширенного заседания коллегии ведомства. По словам министра, подобное решение обусловлено дальнейшим расширением НАТО близ границ РФ.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:49:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221155142567/pic_9314b1eb730c324664e3ac6b43abd95d.jpg" type="image/jpeg" length="30391"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/leeds/</guid>
+  <author>Зарина Дзагоева</author>
+  <title>В Турции разбившего голову туриста выгнали из отеля без оказания первой помощи</title>
+  <link>https://lenta.ru/news/2022/12/21/leeds/</link>
+  <description>
+    <![CDATA[Британец, отдыхающий в Турции вместе с девушкой, оказался недоволен персоналом отеля Sunprime C-Lounge. В своем отзыве он указал, что сотрудники отеля не повесили запрещающих ныряние знаков у бассейна, из-за чего он разбил голову, а затем был выдворен менеджером на улицу.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221130019863/pic_c084e243aa387045e0aeb1f897513490.jpg" type="image/jpeg" length="35789"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/21prizyv/</guid>
+  <author>Марк Леонов</author>
+  <title>Шойгу предложил изменить призывной возраст</title>
+  <link>https://lenta.ru/news/2022/12/21/21prizyv/</link>
+  <description>
+    <![CDATA[Министр обороны Сергей Шойгу заявил о планах увеличить возраст призыва с 18 до 21 года, а предельный — с 27 до 30 лет. С таким предложением он выступил на коллегии Минобороны. Трансляция мероприятия доступна на платформе «Смотрим». По предложению министра обороны, увеличение возраста призыва будет проходить поэтапно.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221154659085/pic_5b749b8c707bdd06cf35e49f72a7290a.jpg" type="image/jpeg" length="36351"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/zaprmetod/</guid>
+  <author>Кристина Есикова</author>
+  <title>Шойгу перечислил используемые Киевом запрещенные методы</title>
+  <link>https://lenta.ru/news/2022/12/21/zaprmetod/</link>
+  <description>
+    <![CDATA[Киев применяет запрещенные методы противоборства, в том числе теракты, обстрелы мирных жителей тяжелым вооружением и заказные убийства, заявил министр обороны России Сергей Шойгу. По его словам, страны Запада пытаются не замечать и элементы ядерного шантажа. В пример он привел провокации на Запорожской АЭС. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:44:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221154057782/pic_c53e7d7f16fff880a8456405785c5d9b.jpg" type="image/jpeg" length="25132"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/vooruzhenienato/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Путин призвал использовать вооружения НАТО для улучшения армии России</title>
+  <link>https://lenta.ru/news/2022/12/21/vooruzhenienato/</link>
+  <description>
+    <![CDATA[Вооружения Организации Североатлантического договора (НАТО) необходимо проанализировать и использовать для улучшения российской армии. Об этом заявил президент России Владимир Путин. По его словам, это нужно сделать «для повышения боевых возможностей наших войск, а также отечественных специальных служб».]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:44:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221154623023/pic_32d1a078f0c864f7bcb3ef6258ccac3d.jpg" type="image/jpeg" length="35782"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/nukes_russia/</guid>
+  <author>Полина Матюхина</author>
+  <title>Шойгу сообщил об отработке нанесения ответного ядерного удара</title>
+  <link>https://lenta.ru/news/2022/12/21/nukes_russia/</link>
+  <description>
+    <![CDATA[Ядерные силы России успешно отработали задачи по нанесению ответного массированного ядерного удара. Об этом в ходе расширенного заседания коллегии Минобороны сообщил глава министерства Сергей Шойгу. Он уточнил, что велась отработка  нанесения удара в ответ на применение противником оружия массового поражения (ОМП).]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:44:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221154251468/pic_3965cc9e5234c819f5ff626ee9f00bba.jpg" type="image/jpeg" length="42377"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/shoygudenies/</guid>
+  <author>Глеб Бажуткин</author>
+  <title>Шойгу заявил о невиновности России в начале конфликта на Украине</title>
+  <link>https://lenta.ru/news/2022/12/21/shoygudenies/</link>
+  <description>
+    <![CDATA[Россия не является источником конфликта на Украине. Об этом заявил глава российского министерства обороны Сергей Шойгу в ходе выступления на коллегии оборонного ведомства. По словам Шойгу, невиновность России в развязывания конфликта доказывают откровения зарубежных политиков.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:43:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221154438717/pic_241d5f551f3e8784c14bcdc61bcb7970.jpg" type="image/jpeg" length="35515"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/broken_equip/</guid>
+  <author>Алевтина Запольская</author>
+  <title>На Украине согласились получать сломанное энергооборудование</title>
+  <link>https://lenta.ru/news/2022/12/21/broken_equip/</link>
+  <description>
+    <![CDATA[Гендиректор оператора литовских энергосетей Litgrid Рокас Масюлис сообщил, что Украина согласилась получать неработающее или сломанное энергетическое оборудование, чтобы самостоятельно ремонтировать его и использовать для поддержания работы своей энергосистемы. По его словам, стране уже поставляют трансформаторы.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:38:31 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221153438287/pic_b8d81f23d5858355d1fb35b8088fa56c.jpg" type="image/jpeg" length="21295"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/no_baum/</guid>
+  <author>Нина Ташевская</author>
+  <title>Верхушку рождественской елки в Берлине спилили в знак протеста</title>
+  <link>https://lenta.ru/news/2022/12/21/no_baum/</link>
+  <description>
+    <![CDATA[Активисты экологического движения Letzte Generation («Последнее поколение») в знак протеста срезали верхушку рождественской елки, которая стоит в центре Берлина. Об этом сообщает Der Spirgel. На место проведения акции прибыла полиция. Другие подробности инцидента неизвестны.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:37:25 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221152607448/pic_13e9e1d505da417a4bc7f7bfa8b753ad.jpg" type="image/jpeg" length="31562"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/usa_tsar/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Пригожин обвинил США в атаке на главу Русского дома в ЦАР</title>
+  <link>https://lenta.ru/news/2022/12/21/usa_tsar/</link>
+  <description>
+    <![CDATA[США ответственны за покушение на главу Русского дома в Центрально-Африканской Республике (ЦАР) Дмитрия Сытого. В причастности к атаке обвинил Вашингтон российский предприниматель Евгений Пригожин. Он рассказал, что подключил специалистов к собственному расследованию происшествия и делится результатами с властями ЦАР.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:37:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221153905154/pic_b44040952183922455a01622af95d493.jpg" type="image/jpeg" length="16219"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/mat/</guid>
+  <author>Илона Палей</author>
+  <title>Россиянка из-за ссоры с родственниками задушила своих детей и покончила с собой</title>
+  <link>https://lenta.ru/news/2022/12/21/mat/</link>
+  <description>
+    <![CDATA[В Белгороде мать задушила двоих детей и совершила самоубийство. Следствием установлено, что 13 августа женщина на фоне конфликта с родственниками решила убить своих детей, которым было два и четыре года. Их мать усадила в машину, пристегнула удерживающими устройствами и задушила мужским ремнем. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:35:39 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221142143114/pic_7435b6f63b284576d2eaa550f4defa95.jpg" type="image/jpeg" length="22893"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/zirkon_shoigu/</guid>
+  <author>Алина Гончарова</author>
+  <title>Шойгу заявил о начале серийных поставок «Цирконов»</title>
+  <link>https://lenta.ru/news/2022/12/21/zirkon_shoigu/</link>
+  <description>
+    <![CDATA[Начались серийные поставки гиперзвуковой ракеты морского базирования «Циркон». Об этом заявил министр обороны России Сергей Шойгу на расширенном заседании коллегии министерства. На завершающем этапе находится подготовка фрегата "Адмирал флота Советского Союза Горшков" с гиперзвуковыми ракетами, сказал он.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221153621790/pic_988984381d9fe75bc78b8144214fe141.jpg" type="image/jpeg" length="9006"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/sarm/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Россия начала развертывание «Сарматов»</title>
+  <link>https://lenta.ru/news/2022/12/21/sarm/</link>
+  <description>
+    <![CDATA[В России начались работы по развертыванию межконтинентальных баллистических ракет «Сармат», сообщил министр обороны Сергей Шойгу на расширенном заседании коллегии ведомства. «Успешные пуски новой ракеты тяжелого класса ракетного комплекса "Сармат" позволили приступить к работе по его развертыванию», — пояснил он.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221153648859/pic_f365ea987bc1c70d19fbba5d8d63bcce.jpg" type="image/jpeg" length="27754"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/azovstal/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Шойгу отчитался об уничтожении 4 тысяч украинских военных на «Азовстали»</title>
+  <link>https://lenta.ru/news/2022/12/21/azovstal/</link>
+  <description>
+    <![CDATA[При взятии металлургического комбината «Азовсталь» в Мариуполе были уничтожены более 4 тысяч военных Вооруженных сил Украины (ВСУ). Об этом в среду, 21 декабря, отчитался глава Минобороны России Сергей Шойгу на расширенном заседании коллегии ведомства, трансляция ведется в Telegram-канале Кремля.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221153511218/pic_9e8e4c36e8de220c3b1813499ccbc621.jpg" type="image/jpeg" length="33848"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/shweytsaria/</guid>
+  <author>Мария Грушко</author>
+  <title>Швейцария присоединилась к мерам ЕС по экономии энергии</title>
+  <link>https://lenta.ru/news/2022/12/21/shweytsaria/</link>
+  <description>
+    <![CDATA[Для борьбы с энергетическим кризисом Швейцария решила ввести в стране те же меры по экономии энергии, которые запланировал Евросоюз. О присоединении Берна к мерам блока сообщает Федеральный совет страны. Организация также постановила продолжить кампанию по сокращению потребления топлива до зимы 2023-2024 года.<br />]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:34:26 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221152654814/pic_08eef37959c33b3c9cb268e8dd08b624.jpg" type="image/jpeg" length="16586"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/energo/</guid>
+  <author>Софья Ермакова</author>
+  <title>Турция собралась стать полностью независимой от иностранных энергоресурсов</title>
+  <link>https://lenta.ru/news/2022/12/21/energo/</link>
+  <description>
+    <![CDATA[Турция собралась стать полностью независимой от иностранных энергоресурсов. О намерении страны обеспечивать себя самостоятельно заявил ее президент Реджеп Тайип Эрдоган. Достичь независимости от импорта энергии республике поможет разработка нового газового месторождения в Черном море и запуск первой АЭС «Аккую».]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:32:04 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221153045469/pic_4c6796d527e9c3dde9891b02afd0f542.jpg" type="image/jpeg" length="25135"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/more/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Шойгу объявил Азовское море внутренним морем России</title>
+  <link>https://lenta.ru/news/2022/12/21/more/</link>
+  <description>
+    <![CDATA[Азовское море вновь стало внутренним морем России. Об этом заявил глава Минобороны Сергей Шойгу, отчитавшийся о достижениях спецоперации на Украине. Он также сообщил, что Вооруженные силы России освободили территорию в пять раз больше той, которую Луганская и Донецкая народные республики занимали до 24 февраля. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:31:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221153121530/pic_b2693b04a070f449eaa4e22d5b5c5732.jpg" type="image/jpeg" length="24538"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/dobrovv/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Шойгу назвал число добровольцев в российской армии</title>
+  <link>https://lenta.ru/news/2022/12/21/dobrovv/</link>
+  <description>
+    <![CDATA[В качестве добровольцев в российскую армию в рамках частичной мобилизации поступили более 20 тысяч человек. Такое число назвал министр обороны России Сергей Шойгу на расширенном заседании коллегии Минобороны. В ноябре в Генштабе сообщали, что с начала СВО в добровольческие отряды записались более 15 тысяч человек.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:31:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221152948123/pic_bc3a6693a81ca02acda44910eeb24502.jpg" type="image/jpeg" length="36272"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/premiakatya/</guid>
+  <author>Карина Черных</author>
+  <title>Российский дизайнер разделась на ковровой дорожке премии</title>
+  <link>https://lenta.ru/news/2022/12/21/premiakatya/</link>
+  <description>
+    <![CDATA[Российский дизайнер Екатерина Дорогина разделась на красной ковровой дорожке премии Fashion TV и привлекла внимание фотографов. Владелица одноименного бренда поделилась видео, на котором она позирует в блестящем пеньюаре. На размещенных кадрах бизнесвумен снимает с себя накидку, демонстрируя гостям мероприятия боди. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:29:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221153438819/pic_db8bb186a50a3fd12f70bd1eee185169.jpg" type="image/jpeg" length="13915"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/mobil/</guid>
+  <author>Никита Абрамов</author>
+  <title>Шойгу признал неполную готовность системы во время частичной мобилизации</title>
+  <link>https://lenta.ru/news/2022/12/21/mobil/</link>
+  <description>
+    <![CDATA[Система частичной мобилизации оказалась не полностью готова. Об этом заявил министр обороны России Сергей Шойгу во время расширенного заседания коллегии Минобороны, трансляцию которого ведет Telegram-канал Кремля. По словам главы оборонного ведомства, министерство столкнулось с определенными трудностями.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221152748169/pic_013fc2545c8c3ce37471292273d0a7cc.jpg" type="image/jpeg" length="34188"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/shiogu/</guid>
+  <author>Анастасия Шейкина</author>
+  <title>Шойгу назвал число освобожденных от частичной мобилизации россиян</title>
+  <link>https://lenta.ru/news/2022/12/21/shiogu/</link>
+  <description>
+    <![CDATA[От частичной мобилизации в России освободили более 830 тысяч человек. Такое число назвал глава Минобороны Сергей Шойгу, выступая на расширенном заседании коллегии министерства, трансляция ведется в Telegram-канале Кремля. По его словам, эти россияне работали на предприятиях ОПК и в других сферах.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221152409637/pic_8a4cd1c21c098cac6d3a73d24d945a5a.jpg" type="image/jpeg" length="44181"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/pricch/</guid>
+  <author>Сергей Истомин</author>
+  <title>Шойгу назвал причины прошедшей в России частичной мобилизации</title>
+  <link>https://lenta.ru/news/2022/12/21/pricch/</link>
+  <description>
+    <![CDATA[Частичная мобилизация была проведена для стабилизации обстановки, защиты новых территорий и проведения дальнейших наступательных действий. Такие причины назвал министр обороны России Сергей Шойгу на расширенном заседании коллегии Минобороны, которое прошло в среду, 21 декабря.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:26:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221152225865/pic_ffe64161ed06e9be3103e2a22dbbeb43.jpg" type="image/jpeg" length="36137"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/sh_ua/</guid>
+  <author>Антон Похиляк</author>
+  <title>Шойгу заявил о значительных потерях Украины</title>
+  <link>https://lenta.ru/news/2022/12/21/sh_ua/</link>
+  <description>
+    <![CDATA[Министр обороны РФ Сергей Шойгу заявил, что с начала российской спецоперации украинская армия понесла значительные потери. По его утверждению, была уничтожена существенная часть вооружения и техники, имевшаяся у ВСУ на момент начала СВО. Он добавил, что российские войска продолжают уничтожать на Украине военные цели.<br />]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:26:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221152801569/pic_42dfb9e87c1fe51ee85f4f271d67b96f.jpg" type="image/jpeg" length="23287"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/vsu_prest/</guid>
+  <author>Константин Лысяков</author>
+  <title>Шойгу назвал верхом цинизма молчание западных СМИ о военных преступлениях ВСУ</title>
+  <link>https://lenta.ru/news/2022/12/21/vsu_prest/</link>
+  <description>
+    <![CDATA[Тотальное молчание западных СМИ о военных преступлениях Вооруженных сил Украины (ВСУ) является верхом цинизма, завил глава Минобороны Сергей Шойгу. По его словам, одновременно с этим происходит «героизация преступного киевского режима неонацистов», а методы украинских военных преподносятся как самооборона.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221152730454/pic_acf7d319d2db0b2c41145443fdb2233d.jpg" type="image/jpeg" length="35265"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/orban_putin/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Орбан рассказал о разговоре с Путиным</title>
+  <link>https://lenta.ru/news/2022/12/21/orban_putin/</link>
+  <description>
+    <![CDATA[Премьер-министр Венгрии Виктор Орбан поговорил по телефону с российским президентом Владимиром Путиным в ходе визита главы венгерского кабмина на похороны первого президента СССР Михаила Горбачева. Об этом венгерский премьер рассказал на правительственном брифинге, передает РИА Новости.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221152725021/pic_68014af7ec6a4a2533441e75e3d4bdf0.jpg" type="image/jpeg" length="40359"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/vystupleniye_putina/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Путин начал выступление на коллегии Минобороны с минуты молчания</title>
+  <link>https://lenta.ru/news/2022/12/21/vystupleniye_putina/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин начал выступление на коллегии Минобороны с минуты молчания в память о погибших в зоне специальной военной операции бойцах. «Конечно, мы сегодня должны почтить память всех наших боевых товарищей, отдавших жизнь за Родину», — отметил глава государства.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:21:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221152344028/pic_9cb63f0dd1c015fc4ab32ab5c051beab.jpg" type="image/jpeg" length="32669"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/vopross/</guid>
+  <author>Анна Щербакова</author>
+  <title>Путин заявил о достаточном числе мобилизованных в зоне СВО</title>
+  <link>https://lenta.ru/news/2022/12/21/vopross/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин заявил, что 150 тысяч из 300 тысяч мобилизованных находятся в зоне боевых действий в ходе проведения специальной военной операции (СВО) на Украине. Это число российский лидер назвал достаточным. Путин также отметил, что еще 150 тысяч резервистов проходят подготовку на полигонах.<br />]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:21:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221152237821/pic_feb90301d7f4505417a3d535b2b01534.jpg" type="image/jpeg" length="31098"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/rosbank/</guid>
+  <author>Платон Щукин</author>
+  <title>Россияне посчитали рациональным забрать деньги из банков</title>
+  <link>https://lenta.ru/news/2022/12/21/rosbank/</link>
+  <description>
+    <![CDATA[Каждый третий россиянин (35 процентов) посчитал рациональным в настоящий момент забрать деньги из банка. Об этом свидетельствуют данные недавнего опроса ВЦИОМ. Аналитики констатировали, что за два года показатель сократился на 11 процентных пунктов. Это связано со стабилизацией инвестиционных стратегий.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:21:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221150147801/pic_2fbb56902a5b17f24f12f28a391652a2.jpg" type="image/jpeg" length="31130"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/sobchak_house/</guid>
+  <author>Нина Ташевская</author>
+  <title>Собчак показала новый дом</title>
+  <link>https://lenta.ru/news/2022/12/21/sobchak_house/</link>
+  <description>
+    <![CDATA[Журналистка и телеведущая Ксения Собчак показала свой новый дом. Она провела экскурсию по своему жилью, запись опубликована на YouTube. Дом выполнен с современном стиле из природных материалов. В начале видео Собчак отметила, что на территории уложена брусчатка, по которой удобно ходить на каблуках.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:20:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221143025483/pic_258009342f45839b78fbda3e76efa2f5.jpg" type="image/jpeg" length="26165"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/sevroute/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>В США призвали оспорить превосходство России в Арктике</title>
+  <link>https://lenta.ru/news/2022/12/21/sevroute/</link>
+  <description>
+    <![CDATA[Военно-морские силы (ВМС) США способны оспорить единоличное превосходство России в Арктике путем проведения операций по обеспечению свободного судоходства на Северном морском пути вопреки нормам российского законодательства. К этому призвали обозреватели американского журнала Foreign Policy.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:20:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221143302416/pic_eda398ebb3508b3614c54a8e08150355.jpeg" type="image/jpeg" length="21465"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/zapad/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Шойгу заявил о стремлении Запада затянуть конфликт на Украине</title>
+  <link>https://lenta.ru/news/2022/12/21/zapad/</link>
+  <description>
+    <![CDATA[Запад стремится максимально затянуть военные действия на Украине. Об этом заявил глава Министерства обороны России Сергей Шойгу. «Особое беспокойство вызывает наращивание передового присутствия НАТО у границ Российской Федерации и Республики Беларусь», — сказал министр обороны. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:20:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221151946143/pic_e487c214dc0e9c46c9da76e739c7a9e5.jpg" type="image/jpeg" length="40224"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/bpla/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Путин высказался о повсеместности беспилотников в ВС России</title>
+  <link>https://lenta.ru/news/2022/12/21/bpla/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин считает, что необходимо активно развивать и использовать беспилотные летательные аппараты в Вооруженных силах страны. По мнению главы государства, беспилотники должны быть повсеместно — их следует интегрировать в единую сеть и внедрять во все отделения и роты. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:18:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221152250255/pic_563f5b716aad56de835d4a4cce30810a.jpeg" type="image/jpeg" length="42718"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/putsarmat/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Путин анонсировал поставки «Сармата» российской армии</title>
+  <link>https://lenta.ru/news/2022/12/21/putsarmat/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин заявил на расширенном заседании коллегии Минобороны России, что межконтинентальные ракеты «Сармат» будут поставлены на боевое дежурство в ближайшее время. «Мы знаем, там есть некоторое движение вправо. Это не меняет наших планов. Все будет реализовано», — заверил президент.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221151737127/pic_ad70771e5e66241fcd15792d7b9690a4.jpg" type="image/jpeg" length="27476"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/mobilisation/</guid>
+  <author>Анастасия Шейкина</author>
+  <title>Путин заявил о проблемах при проведении частичной мобилизации</title>
+  <link>https://lenta.ru/news/2022/12/21/mobilisation/</link>
+  <description>
+    <![CDATA[При проведении частичной мобилизации в России были выявленные определенные проблемы. Об этом на расширенном заседании коллегии Минобороны России заявил президент Владимир Путин. Он поручил оперативно решить возникшие вопросы, обратить на них внимание и выстраивать современную систему. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221152117344/pic_52b4050f9e1e26735f558a27af78cef9.jpg" type="image/jpeg" length="34747"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/nucleartriad/</guid>
+  <author>Алина Гончарова</author>
+  <title>Путин оценил уровень вооружений в составе ядерной триады</title>
+  <link>https://lenta.ru/news/2022/12/21/nucleartriad/</link>
+  <description>
+    <![CDATA[Уровень современных образцов вооружений в составе ядерной триады составляет 91 процент. О высоком уровне оснащенности заявил президент России Владимир Путин на расширенном заседании коллегии Минобороны. Путин также отметил, что Россия будет поддерживать и совершенствовать боеготовность своей ядерной триады.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:16:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221152442868/pic_ba883e64b87eb6f325e41d9e498e99b3.jpg" type="image/jpeg" length="24759"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/finansirovanie/</guid>
+  <author>Никита Абрамов</author>
+  <title>Путин заявил об отсутствии ограничений по финансированию российской армии</title>
+  <link>https://lenta.ru/news/2022/12/21/finansirovanie/</link>
+  <description>
+    <![CDATA[Нет никаких ограничений по финансированию Вооруженных сил (ВС) России. Об этом заявил президент Владимир Путин во время расширенного заседания коллегии Минобороны. Глава государства обратил внимание представителей Минобороны на то, что страна дает армии «все, что просят».]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:15:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221151814181/pic_d8fa6930d19ce9650c41426b623ff676.jpg" type="image/jpeg" length="41340"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/tokaevuzb/</guid>
+  <author>Василий Мека</author>
+  <title>Токаев прибыл в Узбекистан с официальным визитом</title>
+  <link>https://lenta.ru/news/2022/12/21/tokaevuzb/</link>
+  <description>
+    <![CDATA[Президент Казахстана Касым-Жомарт Токаев прибыл с официальным визитом в Узбекистан, где проведет переговоры с главой республики Шавкатом Мирзиеевым, сообщает пресс-служба лидера Казахстана. В рамках двухдневного визита запланированы переговоры в узком и расширенном составах, а также подписание документов.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:14:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221151157841/pic_ae0c5b2fe31d8838096a7d74285dac55.jpg" type="image/jpeg" length="24757"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/premierukr/</guid>
+  <author>Кристина Есикова</author>
+  <title>Премьер Украины поручил увеличить защиту инфраструктуры</title>
+  <link>https://lenta.ru/news/2022/12/21/premierukr/</link>
+  <description>
+    <![CDATA[Премьер-министр Украины Денис Шмыгаль поручил увеличить защиту объектов критической инфраструктуры страны. «Глава правительства дал задание ответственным министерствам и ведомствам принять необходимые меры также в вопросе усиления защиты критической инфраструктуры», — сказано в заявлении кабмина.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:13:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221144430218/pic_1f2b9caa6b089ed7a0fcf82473f31f78.jpg" type="image/jpeg" length="30520"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/hobby/</guid>
+  <author>Анна Щербакова</author>
+  <title>Мишустин рассказал о странном увлечении в детстве</title>
+  <link>https://lenta.ru/news/2022/12/21/hobby/</link>
+  <description>
+    <![CDATA[В детстве премьер-министр России Михаил Мишустин интересовался НЛО и астрономией. Об этом глава кабмина рассказал на встрече со своими школьными учителями во время поездки в подмосковную Лобню. Кроме того, в школьные годы премьер Мишустин увлекался поэзией.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221145741165/pic_bacf2e8e0672c8d6cb45dcb90770a72e.jpg" type="image/jpeg" length="19839"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/romanceisover/</guid>
+  <author>Наталья Обрядина</author>
+  <title>Названы явные признаки достижения точки невозврата в отношениях</title>
+  <link>https://lenta.ru/news/2022/12/21/romanceisover/</link>
+  <description>
+    <![CDATA[Психолог Юбин Парк назвала тревожные признаки-предвестники скорого разрыва отношений. По ее мнению, о желании «тихо расстаться» с партнером могут свидетельствовать стремление отгородиться от некогда любимого человека, беспричинное исчезновение интереса к сексу и ряд других тревожных звонков.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:10:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/19/15/20221219151456353/pic_64b9218e57ab492dacdb87a52cd03f8a.jpg" type="image/jpeg" length="25907"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/conor/</guid>
+  <author>Анастасия Борисова</author>
+  <title>Макгрегор сделал заявление о дебюте бойца без ног в ММА</title>
+  <link>https://lenta.ru/news/2022/12/21/conor/</link>
+  <description>
+    <![CDATA[Ирландский боец смешанного стиля (MMA) Конор Макгрегор сделал заявление о дебюте родившегося без ног американца Зайона Кларка. Спортсмен назвал восхитительным выступление 25-летнего Кларка в MMA и заявил, что уважает бойца. «Как же здорово было слышать о дебюте этого человека и теперь увидеть его!» — подчеркнул он.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:10:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221141826964/pic_d9c3cf5d79b08c5089f25fe579ab639f.jpg" type="image/jpeg" length="24535"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/putttin/</guid>
+  <author>Сергей Истомин</author>
+  <title>Путин сравнил бойцов СВО с героями предыдущих войн</title>
+  <link>https://lenta.ru/news/2022/12/21/putttin/</link>
+  <description>
+    <![CDATA[Бойцы специальной военной операции (СВО) сражаются так же, как в войну 1812 года, Первую мировую, а также Великую Отечественную войну. Такое сравнение в среду, 21 декабря, на расширенном заседании коллегии Министерства обороны России сделал президент страны Владимир Путин. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221151035627/pic_b42077ae27b945c1fbe25072ed0fcfcd.jpg" type="image/jpeg" length="33733"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/ncto/</guid>
+  <author>Иван Потапов</author>
+  <title>Выход астронавтов НАСА за борт МКС отменили из-за космического мусора</title>
+  <link>https://lenta.ru/news/2022/12/21/ncto/</link>
+  <description>
+    <![CDATA[Выход в открытый космос астронавтов НАСА Фрэнка Рубио и Джоша Кассада, которые должны были провести монтажные работы по модернизации энергоснабжения Международной космической станции (МКС), отменен. Об этом со ссылкой на космонавта «Роскосмоса» Дмитрия Петелина сообщает ТАСС.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:08:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221150326707/pic_4f332605a41bfb1abe34be43e1e51c02.jpg" type="image/jpeg" length="28904"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/putin_nato/</guid>
+  <author>Константин Лысяков</author>
+  <title>Путин заявил об активном использовании военного потенциала НАТО против России</title>
+  <link>https://lenta.ru/news/2022/12/21/putin_nato/</link>
+  <description>
+    <![CDATA[Против России активно используется военный потенциал почти всех основных стран НАТО, заявил президент Владимир Путин в рамках выступления на коллегии Минобороны. Глава государства подчеркнул, что несмотря на это, российские военнослужащие «уверенно и шаг за шагом решают поставленные задачи».]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:08:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221150807743/pic_071e64c9a7bd3a283e0a2545c6f64b4c.jpg" type="image/jpeg" length="44797"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/putin/</guid>
+  <author>Анастасия Шейкина</author>
+  <title>Путин обратился к принимающим участие в СВО российским военным</title>
+  <link>https://lenta.ru/news/2022/12/21/putin/</link>
+  <description>
+    <![CDATA[Российские солдаты и офицеры, которые участвуют в боевых действиях в зоне специальной военной операции, выполняют свой долг достойно и рискуют жизнью. Об этом, обращаясь к военнослужащим, на расширенном заседании коллегии Минобороны России заявил президент Владимир Путин, трансляция мероприятия ведется в <a href="https]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221150539701/pic_af2b829a93e1adde5d3b90d79945cb5e.jpg" type="image/jpeg" length="28178"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/obespech/</guid>
+  <author>Никита Абрамов</author>
+  <title>Путин пообещал обеспечить безопасность россиянам на всех территориях</title>
+  <link>https://lenta.ru/news/2022/12/21/obespech/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин пообещал обеспечить безопасность граждан на всех территориях страны, в том числе и новых. Такое заявление глава государства сделал во время расширенного заседания коллегии Минобороны. Он подчеркнул, что российские солдаты, офицеры и сержанты мужественно и стойко сражаются за Россию.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/15/20221221150738907/pic_fe0e6236c2d44a40bb4761fb85ef58d7.jpg" type="image/jpeg" length="15385"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/polom/</guid>
+  <author>Илона Палей</author>
+  <title>Бывшего сотрудника Минобороны приговорили к трем годам за коррупцию</title>
+  <link>https://lenta.ru/news/2022/12/21/polom/</link>
+  <description>
+    <![CDATA[Басманный суд Москвы признал виновным бывшего офицера продовольственного управления Минобороны РФ Александра Пожидаева. Его приговорили к трем годам колонии за пособничество при превышении должностных полномочий. Он помог предпринимателю Алексею Калитину наладить сотрудничество с военными для получения госзаказов.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221133345892/pic_e23fcb3c6e20b7351b66fc84522be54f.jpg" type="image/jpeg" length="19019"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/lastchinesewarning/</guid>
+  <author>Глеб Бажуткин</author>
+  <title>МИД КНР потребовал от США и НАТО перестать создавать мнимых врагов</title>
+  <link>https://lenta.ru/news/2022/12/21/lastchinesewarning/</link>
+  <description>
+    <![CDATA[Китай призывает США и НАТО прекратить создавать мнимых врагов, заявила официальный представитель МИД КНР Мао Нин. «Соответствующая сторона должна прекратить беспочвенные обвинения и клевету в адрес Китая», — сказала она. По ее словам, Китай всегда был привержен идее процветания во всем мире.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 15:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221145122194/pic_0adff799bd73181439c1b2b1370486f9.jpg" type="image/jpeg" length="20539"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/perfect/</guid>
+  <author>Александра Качан</author>
+  <title>Россияне рассказали о своем идеальном жилье</title>
+  <link>https://lenta.ru/news/2022/12/21/perfect/</link>
+  <description>
+    <![CDATA[Почти половина россиян — 44 процента респондентов — мечтают жить в загородном доме, в то же время одним из главных критериев при выборе недвижимости является транспортная доступность. О своем идеальном жилье граждане рассказали в опросе сервисов «Работа.ру» и «Ремонт со СберУслугами».]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221131919924/pic_74a3e3bd1e8cf1f29a4674169fd44b64.jpg" type="image/jpeg" length="38475"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/svo_karabin/</guid>
+  <author>Константин Лысяков</author>
+  <title>Россиянка с карабином попыталась прорваться в военную часть и уехать на СВО</title>
+  <link>https://lenta.ru/news/2022/12/21/svo_karabin/</link>
+  <description>
+    <![CDATA[В Ленинградской области женщина с карабином «Сайга» в рюкзаке попыталась прорваться на территорию учебной базы военной академии связи в Сертолово. 24-летняя россиянка заявила, что неделю назад прибыла из Ярославля для встречи с коммандиром, который якобы пообещал отправить ее на спецоперацию.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221142308327/pic_cfbc453c44f3196aa98b0ffbb28235c2.jpg" type="image/jpeg" length="24023"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/germanygiftstanks/</guid>
+  <author>Глеб Бажуткин</author>
+  <title>Германия передала Чехии танки взамен переданной Украине советской техники</title>
+  <link>https://lenta.ru/news/2022/12/21/germanygiftstanks/</link>
+  <description>
+    <![CDATA[Германия начала процедуру по передаче Чехии танков «Леопард-2» взамен старой советской техники, переданной Украине. «Таким образом, мы переходим на современную технику, отказываясь от вооружения советского периода», — заявила глава Министерства обороны Чехии Яна Чернохова.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221142938659/pic_f3f61f5346f32444c6fca06f4778c332.jpg" type="image/jpeg" length="41383"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/zadacha/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Глава Херсонской области назвал главную задачу армии на 2023 год</title>
+  <link>https://lenta.ru/news/2022/12/21/zadacha/</link>
+  <description>
+    <![CDATA[Возвращение правобережной части Херсонской области является главной задачей армии на 2023 год. Об этом заявил врио губернатора региона Владимир Сальдо. В числе приоритетных вопросов он также назвал восстановление экономических связей и помощь местным жителям в регионе. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221144625523/pic_56464007e61ffa3b13cf5e571056f405.jpg" type="image/jpeg" length="37682"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/sud_dud/</guid>
+  <author>Олег Давыдов</author>
+  <title>На Дудя подали в суд</title>
+  <link>https://lenta.ru/news/2022/12/21/sud_dud/</link>
+  <description>
+    <![CDATA[Арбитражный суд Москвы получил иск к видеоблогеру и журналисту Юрию Дудю (включен в реестр СМИ-иноагентов). «В суде зарегистрировано исковое заявление Миронова Артема Вальрьевича к Дудю Юрию Александровичу и Алексееву Ивану Александровичу», — говорится в сообщении суда. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:44:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221144414935/pic_ac9df3bd6d31e5543fe339be48fa6d3a.jpg" type="image/jpeg" length="14320"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/newyearstyle/</guid>
+  <author>Екатерина Ештокина</author>
+  <title>Александр Васильев назвал неподходящую одежду для встречи Нового года дома</title>
+  <link>https://lenta.ru/news/2022/12/21/newyearstyle/</link>
+  <description>
+    <![CDATA[Российский и французский историк моды, искусствовед и театральный художник Александр Васильев перечислил самую неподходящую одежду для встречи Нового года дома. В первую очередь стилист призвал продумать образ заранее и не надевать спортивный костюм, треники или халат, а также тапки, шорты и футболки. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:43:50 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221142605798/pic_8d485ea5f467ae770641bf16249f3453.jpg" type="image/jpeg" length="35000"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/krmnk/</guid>
+  <author>Мария Сметанина</author>
+  <title>Украине предрекли расширение поставок оружия</title>
+  <link>https://lenta.ru/news/2022/12/21/krmnk/</link>
+  <description>
+    <![CDATA[Поставки США зенитно-ракетных комплексов (ЗРК) Patriot Украине говорят о возможном расширении военной помощи стране. Такое мнение в разговоре с «Лентой.ру» высказал научный сотрудник Центра американских исследований ИМЭМО РАН, военный эксперт Илья Крамник. Он объяснил, как эти системы повлияют на ход военных действий.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:42:23 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221135800773/pic_f29f3fd30f17de0661abd3d1087c8523.jpg" type="image/jpeg" length="21088"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/heart/</guid>
+  <author>Алиса Дмитриева</author>
+  <title>Рабочие нашли на складе человеческое сердце</title>
+  <link>https://lenta.ru/news/2022/12/21/heart/</link>
+  <description>
+    <![CDATA[Работники Департамента транспорта в США готовили соляной раствор и нашли на складе с солью человеческое сердце. Оно пролежало там долгое время, так как успело уже высохнуть. Полицейские установили, что орган принадлежал взрослому мужчине. Сердце направят на анализ ДНК. Полиция ведет расследование.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:41:54 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/10/20221221103707563/pic_39dc645de22c4d126d361cab3a88d20c.jpg" type="image/jpeg" length="29351"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/iphonese/</guid>
+  <author>Андрей Ставицкий</author>
+  <title>Выход нового iPhone SE сорвали</title>
+  <link>https://lenta.ru/news/2022/12/21/iphonese/</link>
+  <description>
+    <![CDATA[Apple может отменить выход нового смартфона серии iPhone SE. В отчете авторитетный инсайдер Мин-Чи Ко заявил, что в компании оценивают необходимость выпуска iPhone SE четвертого поколения. По словам инсайдера, в Apple обратили внимание на сниженный спрос на недорогие телефоны, поэтому могут отменить выход гаджета.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:40:39 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/09/20221221092506266/pic_c3953bac0087039a44f46a9b6df03004.jpg" type="image/jpeg" length="26835"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/osv/</guid>
+  <author>Наталия Белова</author>
+  <title>Названа геополитическая цель освоения Луны Китаем и Россией</title>
+  <link>https://lenta.ru/news/2022/12/21/osv/</link>
+  <description>
+    <![CDATA[Военный политолог, доцент кафедры политического анализа РЭУ имени Плеханова Александр Перенджиев заявил, что Россия и Китай активно конкурируют с США в вопросе освоения космоса, странам необходимо как можно скорее объединиться для создания базы на Луне, которая поможет решить ряд геополитических и других задач.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:37:11 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221141938746/pic_28ccc032382529807620c1ffcb5c993b.jpg" type="image/jpeg" length="6756"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/strann/</guid>
+  <author>Сергей Истомин</author>
+  <title>В Совфеде указали на странное отношение НАТО к России и Китаю</title>
+  <link>https://lenta.ru/news/2022/12/21/strann/</link>
+  <description>
+    <![CDATA[НАТО является «странной организацией», выражая недовольство из-за взаимодействия России и Китая. На это указал глава <br />комиссии Совета Федерации по информационной политике и взаимодействию со СМИ Алексей Пушков. Так он прокомментировал слова постпреда США при альянсе Джулианн Смит. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:36:34 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221143542966/pic_f3cc47e1ad6c0a1efcadc605b593d1ec.jpg" type="image/jpeg" length="32708"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/eaes_usloviya/</guid>
+  <author>Георгий Нестеров</author>
+  <title>В Белоруссии поддержали расширение ЕАЭС</title>
+  <link>https://lenta.ru/news/2022/12/21/eaes_usloviya/</link>
+  <description>
+    <![CDATA[Посол Белоруссии в Таджикистане Виктор Денисенко заявил, что республика поддерживает идею расширения Евразийского экономического союза (ЕАЭС) «на взаимовыгодных условиях для его членов». При этом дипломат отметил, что Таджикистан имеет тесные экономические связи со всеми странами ЕАЭС.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:35:21 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221140039579/pic_7e5f0bf796dd4baaa894ff28660c067f.jpg" type="image/jpeg" length="38695"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/dzuba/</guid>
+  <author>Анастасия Борисова</author>
+  <title>Дзюба пошутил о неприличном жесте аргентинца во время награждения на ЧМ-2022</title>
+  <link>https://lenta.ru/news/2022/12/21/dzuba/</link>
+  <description>
+    <![CDATA[Российский футболист Артем Дзюба пошутил о неприличном жесте вратаря сборной Аргентины Эмилиано Мартинеса во время награждения на чемпионате мира 2022 года в Катаре. «Мне привет передавал», — написал Дзюба, отреагировав на фото, где голкипер приложил к паху награду лучшему голкиперу турнира.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:32:41 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221133210888/pic_669a711454b0ad390ffb3af807f7e1f3.jpg" type="image/jpeg" length="20978"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/kazsouz/</guid>
+  <author>Платон Щукин</author>
+  <title>Казахстан уточнил условия создания «тройственного» газового союза</title>
+  <link>https://lenta.ru/news/2022/12/21/kazsouz/</link>
+  <description>
+    <![CDATA[Реализации идеи «тройственного газового союза» Казахстана, России и Узбекистана зависит от условий, которые Москва предложит Астане и Ташкенту. Об этом заявил заместитель министра иностранных дел Казахстана Алмас Айдаров. Никаких деталей и предложений от российской стороны нет, добавил он.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221132507181/pic_a5683dff81abcbeec432326aec15d236.jpg" type="image/jpeg" length="33161"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/ural_avia/</guid>
+  <author>Валентина Процкова</author>
+  <title>Еще одна крупная российская авиакомпания отменила рейсы в Египет</title>
+  <link>https://lenta.ru/news/2022/12/21/ural_avia/</link>
+  <description>
+    <![CDATA[Еще одна крупная российская авиакомпания — «Уральские авиалинии» — следом за iFly, Nordwind и «Икар» отменила рейсы в Египет. Наиболее вероятной причиной приостановки выполнения рейсов в Египет стало закрытие Иорданией своего воздушного пространства для отечественных авиалайнеров с двойной регистрацией.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:26:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221143214108/pic_9dd737c5dafaae426f516bc0a1e2571a.jpg" type="image/jpeg" length="23282"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/arestantt/</guid>
+  <author>Елизавета Новикова</author>
+  <title>СКР возбудил дело из-за нападения арестанта на сотрудницу СИЗО</title>
+  <link>https://lenta.ru/news/2022/12/21/arestantt/</link>
+  <description>
+    <![CDATA[Во Владивостоке следователи возбудили уголовное дело о дезорганизации деятельности исправительного учреждения в отношении 33-летнего арестанта, напавшего на сотрудницу СИЗО-1. Инцидент произошел 18 декабря в коридоре прогулочного дворика режимного корпуса. Мужчина набросился на девушку-надзирателя.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:26:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/10/20221221104839440/pic_d6fca99cdd39f102b496c198060b58c8.jpeg" type="image/jpeg" length="33837"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/dezactivision/</guid>
+  <author>Платон Щукин</author>
+  <title>Геймеры захотели помешать Microsoft купить разработчика Call of Duty</title>
+  <link>https://lenta.ru/news/2022/12/21/dezactivision/</link>
+  <description>
+    <![CDATA[Геймеры из США подали в суд на Microsoft, рассчитывая помешать корпорации купить компанию Activision Blizzard — разработчика серии игр Call of Duty. Речь идет о частном иске от лица 10 граждан, переданном в суд в Калифорнии, они обеспокоены угрозой ущерба для конкуренции в отрасли. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:24:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221135840072/pic_4f60ab82005c23c1b4b5249b3230ec1a.jpg" type="image/jpeg" length="27115"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/finwar/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Финский генерал заявил о способности «вести войну, как на Украине»</title>
+  <link>https://lenta.ru/news/2022/12/21/finwar/</link>
+  <description>
+    <![CDATA[Финляндия имеет значительную оборонительную возможность и способна «вести войну, подобной той, что идет на Украине». Об этом заявил командующий Вооруженными силами (ВС) страны генерал Тимо Кивинен. По его словам, в Финляндии, вероятно, самая большая в Европе огневая мощь на душу населения.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221140430528/pic_49421b62f7fa42e0cc644ed5c24cad2d.jpeg" type="image/jpeg" length="29327"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/proizoshli/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>В Очакове и Кривом Роге произошли взрывы</title>
+  <link>https://lenta.ru/news/2022/12/21/proizoshli/</link>
+  <description>
+    <![CDATA[В городах Очаков и Кривой Рог в Николаевской и Днепропетровской областях Украины произошли взрывы. Об этом сообщили украинские СМИ. Данных о количестве взрывов и местах случившегося или о пострадавших не приводится. Ранее по всей территории Украины была объявлена воздушная тревога.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221141034407/pic_c2a004450b9632207b407fdae5c2002f.jpg" type="image/jpeg" length="47092"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/less_sky/</guid>
+  <author>Нина Ташевская</author>
+  <title>В Москве стали продавать меньше квартир в небоскребах</title>
+  <link>https://lenta.ru/news/2022/12/21/less_sky/</link>
+  <description>
+    <![CDATA[В 2022 году в небоскребах Москвы стали выставлять на продажу меньше квартир комфорт-класса. Предложение снизилось на 19 процентов. Об этом сообщают «Известия» со ссылкой на данные компании «Метриум». На фоне того, что количество квартир в продаже сократилось, число проектов с небоскребами осталось прежним.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:09:03 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221133755685/pic_01e244d1cef2742f41f1268f320b27ef.jpg" type="image/jpeg" length="32908"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/enigma/</guid>
+  <author>Александр Еникеев</author>
+  <title>Решена загадка галактик-спутников вокруг Млечного Пути</title>
+  <link>https://lenta.ru/news/2022/12/21/enigma/</link>
+  <description>
+    <![CDATA[Астрономы решили загадку необъяснимого расположения карликовых галактик-спутников вокруг Млечного Пути, которые образуют плоскость, а не сферическую область. Оказалось, что плоскость является лишь случайной конфигурацией, которая существует всего несколько сотен миллионов лет.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/20/17/20221220170205794/pic_59da20d6461d8424568bb6b6700daf95.jpg" type="image/jpeg" length="10588"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/huge/</guid>
+  <author>Софья Ермакова</author>
+  <title>Россия и Иран вложат миллиарды в новый торговый коридор на 3000 километров</title>
+  <link>https://lenta.ru/news/2022/12/21/huge/</link>
+  <description>
+    <![CDATA[Россия и Иран занимаются созданием нового трансконтинентального торгового коридора от востока Европы до Индийского океана протяженностью 3 тысячи километров. По оценке экспертов, страны вложат в этот проект до 25 миллиардов долларов. Он ускорить транспортировку грузов и сократить маршрут доставки на тысячи километров.<br />]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221140504306/pic_11cdc3d6e6d0952bad186449f008479d.jpg" type="image/jpeg" length="32765"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/hojes_died/</guid>
+  <author>Дениза Мацаева</author>
+  <title>Умер режиссер фильма «Убрать Картера» Майк Ходжес</title>
+  <link>https://lenta.ru/news/2022/12/21/hojes_died/</link>
+  <description>
+    <![CDATA[Ушел из жизни британский режиссер, сценарист и продюсер Майк Ходжес. Кинодеятель скончался в возрасте 90 лет, находясь у себя дома в Дорсете, Англия. Причиной его смерти стала сердечная недостаточность. Ходжес известен по проектам «Убрать Картера», «Черная радуга», «Чтиво» и другим.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:07:43 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221121018394/pic_bf2c353e8a997f2c430e20771db4bb4b.jpg" type="image/jpeg" length="20535"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/usl/</guid>
+  <author>Мария Грушко</author>
+  <title>Зарубежным компаниям назвали условия продажи активов в России</title>
+  <link>https://lenta.ru/news/2022/12/21/usl/</link>
+  <description>
+    <![CDATA[Министерство финансов России ввело четыре критерия, которыми будет руководствоваться при одобрении сделок по продаже активов зарубежных компаний в стране. Среди них — добровольное перечисление иностранной компанией не менее 10 процентов от операции в федеральный бюджет России.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221133249067/pic_610a93656bcab0f6c4fbbf8b39ffbd23.jpg" type="image/jpeg" length="24272"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/skincare/</guid>
+  <author>Екатерина Ештокина</author>
+  <title>Нутрициолог перечислил омолаживающие кожу продукты</title>
+  <link>https://lenta.ru/news/2022/12/21/skincare/</link>
+  <description>
+    <![CDATA[Нутрициолог Ник Диллер перечислил пять необходимых для организма типов продуктов, которые омолаживают кожу. Так, эксперт с никнеймом nickdiller_ рассказал, что нужно отдавать предпочтение еде, которая богата жирными кислотами: лососю, устрицам, грецким орехам. Также эксперт отметил, что в рацион должны входить киви. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221131340353/pic_ee4a4b1d5cc03d63263f432aa478feb5.jpg" type="image/jpeg" length="14563"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/turkey/</guid>
+  <author>Валентина Процкова</author>
+  <title>Предсказано значительное повышение стоимости отдыха в Турции для россиян</title>
+  <link>https://lenta.ru/news/2022/12/21/turkey/</link>
+  <description>
+    <![CDATA[Россиянам предсказали значительное повышение стоимости отдыха на курортах Турции в ближайшее время. По информации издания, туры в популярную пляжную страну могут подорожать на 20 процентов уже в 2023 году. Это произойдет при условии введения правительством республики нового налога для постояльцев отелей.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221124247331/pic_ddb09383ac64c22755f17a68189bb121.jpg" type="image/jpeg" length="36102"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/europarl/</guid>
+  <author>Кирилл Садовский</author>
+  <title>В Финляндии выдвинули ЕС требование из-за санкций против России</title>
+  <link>https://lenta.ru/news/2022/12/21/europarl/</link>
+  <description>
+    <![CDATA[Санкционная политика Европейского союза против России наносит ущерб региональной экономике приграничных скандинавских территорий, заявили депутаты Европарламента от Финляндии Маури Пеккаринен и Элси Катайнен. Как выяснила «Лента.ру», парламентарии требуют от Европейской комиссии компенсировать регионам данные потери. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/11/20221221115658577/pic_a6112a4a6155744fc9d085f0d1b0b41f.jpg" type="image/jpeg" length="48829"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/vssu/</guid>
+  <author>Сергей Истомин</author>
+  <title>Командир «Ахмата» рассказал о ежедневном отступлении ВСУ в Донбассе</title>
+  <link>https://lenta.ru/news/2022/12/21/vssu/</link>
+  <description>
+    <![CDATA[Вооруженные силы Украины (ВСУ) перешли к обороне, их ежедневно вытесняют с занимаемых позиций в Донбассе. Об этом рассказал помощник главы Чечни, командир спецназа «Ахмат», замкомандующего 2-го армейского корпуса НМ ЛНР Апти Алаудинов. По его словам, украинские войска несут большие потери. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221140314505/pic_457e40c758f20a103f27db0600a2f186.jpg" type="image/jpeg" length="47202"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/piyavki/</guid>
+  <author>Варвара Родикова</author>
+  <title>Российские ученые обнаружили в Арктике древнюю неизвестную пиявку</title>
+  <link>https://lenta.ru/news/2022/12/21/piyavki/</link>
+  <description>
+    <![CDATA[Российские ученые из Федерального исследовательского центра комплексного изучения Арктики имени академика Лаверова Уральского отделения РАН и СПбГУ обнаружили в Арктической зоне древнюю пиявку, ранее неизвестную науке. Пиявка гипербореомизон полярный была найдена на острове Колгуев и плато Путорана. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 14:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221121044273/pic_476b3587831cce3ddb4e14511fc81d26.jpg" type="image/jpeg" length="26487"/>
+  <category>69-я параллель</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/obsttrrr/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Военкор сообщил об обстреле Херсонской области</title>
+  <link>https://lenta.ru/news/2022/12/21/obsttrrr/</link>
+  <description>
+    <![CDATA[Вооруженные силы Украины (ВСУ) обстреляли город Новая Каховка. Об этом сообщил военный корреспондент «Известий» Эмиль Тимашев. По данным военкора, после обстрела города в Херсонской области погибли два человека. Ранее утверждалось, что ВСУ обстреливают область по графику. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221135823052/pic_9d0b3f984de36495151290649d0f0705.jpg" type="image/jpeg" length="20069"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/guerre_total/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Во Франции оценили возможность тотальной войны в Европе</title>
+  <link>https://lenta.ru/news/2022/12/21/guerre_total/</link>
+  <description>
+    <![CDATA[Тотальная война в Европе никогда не будет развязана, так как ни одна европейская страна не хочет воевать с Россией. Так оценил возможность масштабного конфликта в европейском регионе бывший глава службы экономической разведки Франции Ален Жюйе. Он напомнил, что страны ЕС призывают стороны найти мирное решение. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221135720388/pic_bce898f2f23b00f32a66a4bfc9f5340c.jpeg" type="image/jpeg" length="41941"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/oxy/</guid>
+  <author>Дениза Мацаева</author>
+  <title>Альбом Оксимирона «Красота и уродство» попал в мировой топ-10 лучших пластинок</title>
+  <link>https://lenta.ru/news/2022/12/21/oxy/</link>
+  <description>
+    <![CDATA[Альбом рэпера Оксимирона «Красота и уродство» вошел в мировой топ-10 самых популярных пластинок по версии портала Genius. Тексты песен из пластинки исполнителя пользователи посмотрели более 3 миллионов раз за год. С этим результатом Оксимирон попал на десятую строчку рейтинга.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/14/20221221140020969/pic_cbe0a87d8737f3516ab3a9fc7a39d6e3.jpg" type="image/jpeg" length="15351"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/meetings/</guid>
+  <author>Марк Леонов</author>
+  <title>Собянин высказался о возможности проведения митингов в Москве</title>
+  <link>https://lenta.ru/news/2022/12/21/meetings/</link>
+  <description>
+    <![CDATA[Москвичи смогут участвовать в массовых мероприятиях и митингах, когда придет подходящее время. Об этом заявил мэр Москвы Сергей Собянин, его слова приводит РИА Новости. Градоначальник отметил, что лишь на городских мероприятиях есть возможность обеспечить соблюдение всех санитарных мер.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:54:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221135937776/pic_556fae9cf90a7568090bac00be5e9ecc.jpg" type="image/jpeg" length="19011"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/vsuenergodar/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>В Энергодаре прогремели взрывы</title>
+  <link>https://lenta.ru/news/2022/12/21/vsuenergodar/</link>
+  <description>
+    <![CDATA[Председатель движения «Мы вместе с Россией» Владимир Рогов сообщил о взрывах, прогремевших в Энергодаре Запорожской области. По предварительным данным, Вооруженные силы Украины (ВСУ) произвели обстрел прилегающей территории из тяжелой артиллерии натовского образца, уточнил он.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:54:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221135736281/pic_efbce7252211c858b87a8765d85fd685.jpg" type="image/jpeg" length="27999"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/kaz_perevorot/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Готовивший госпереворот житель Казахстана оказался бывшим силовиком</title>
+  <link>https://lenta.ru/news/2022/12/21/kaz_perevorot/</link>
+  <description>
+    <![CDATA[Житель Казахстана, готовивший государственный переворот и теракт в Астане, оказался бывшим правоохранителем. По данным суда, мужчина, нарушая присягу сотрудника внутренних дел, спланировал насильственный захват власти с изменением конституционного строя страны и стал искать для этого единомышленников.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221135231980/pic_7e09b74d5e75ad4ed766b594e2765248.jpg" type="image/jpeg" length="30857"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/vazhnoye_oborudovaniye/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Российский разведчик рассказал о важном для бойцов в зоне СВО оборудовании</title>
+  <link>https://lenta.ru/news/2022/12/21/vazhnoye_oborudovaniye/</link>
+  <description>
+    <![CDATA[Разведчик из Екатеринбурга Иван Парядин назвал одно из самых необходимых устройств в зоне проведения специальной военной операции. «На фронте крайне важно, чтобы все бойцы максимально были оснащены тепловизионными прицелами», — подчеркнул российский военнослужащий в интервью Ura.ru.<br />]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221133746303/pic_71d0ce83964413dabcb44db47f747b9b.jpg" type="image/jpeg" length="19292"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/marocco_top/</guid>
+  <author>Анастасия Борисова</author>
+  <title>Сборная Марокко пожертвовала все призовые за чемпионат мира-2022</title>
+  <link>https://lenta.ru/news/2022/12/21/marocco_top/</link>
+  <description>
+    <![CDATA[Сборная Марокко по футболу пожертвовала все призовые за чемпионат мира 2022 года в Катаре. Сумма бонусов за выступление на турнире составила 25 миллионов долларов. Журналист Халед Бейдун рассказал, что деньги пойдут на помощь бедным соотечественникам. Сборная Марокко дошла до полуфинала чемпионата мира.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221123451056/pic_8ff904a9fe613ae2c347ea4a20d81e27.jpeg" type="image/jpeg" length="37424"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/orbansays/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Орбан предложил исключить Киев из переговоров по Украине</title>
+  <link>https://lenta.ru/news/2022/12/21/orbansays/</link>
+  <description>
+    <![CDATA[Премьер-министр Венгрии Виктор Орбан считает, что для урегулирования конфликта на Украине нужно провести переговоры между Россией и США, тем самым предлагая исключить Киев из мирного процесса. Об этом он заявил на пресс-конференции в Будапеште по итогам 2022 года. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221135241198/pic_05ba492004dd37ac6c128c864c77f5e7.jpg" type="image/jpeg" length="13974"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/chuvachia/</guid>
+  <author>Анастасия Шейкина</author>
+  <title>Глава Чувашии раскрыл состояние пострадавшего при мощном взрыве на газопроводе</title>
+  <link>https://lenta.ru/news/2022/12/21/chuvachia/</link>
+  <description>
+    <![CDATA[Состояние единственного мужчины, который пострадал при мощном взрыве на газопроводе Уренгой — Помары — Ужгород в Чувашии, оценивается как стабильное. Об этом заявил глава российского региона Олег Николаев. «Констатировано три процента поражения поверхности тела в результате ожога», — написал он. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221132654626/pic_ea6a3a30b0ae345555a3c1e783a556f4.jpg" type="image/jpeg" length="21026"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/sobianin/</guid>
+  <author>Анастасия Шейкина</author>
+  <title>Собянин сравнил нагрузку на поликлиники Москвы из-за COVID-19 и ОРВИ</title>
+  <link>https://lenta.ru/news/2022/12/21/sobianin/</link>
+  <description>
+    <![CDATA[Нагрузка на поликлиники Москвы из-за ОРВИ и гриппа превысила загруженность медицинских учреждений в период пандемии коронавируса в начале этого года. Об этом во время ежегодного отчета о результатах деятельности столичного правительства в Мосгордуме заявил мэр Москвы Сергей Собянин, его цитирует ТАСС.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:49:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221134621963/pic_5c7d73c046720c49e71d858771baecdb.jpg" type="image/jpeg" length="25235"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/sbusum/</guid>
+  <author>Кристина Есикова</author>
+  <title>СБУ пришла в монастырь УПЦ в Сумской области</title>
+  <link>https://lenta.ru/news/2022/12/21/sbusum/</link>
+  <description>
+    <![CDATA[Служба безопасности Украины (СБУ) проводит контрразведывательные мероприятия в монастыре Украинской православной церкви (УПЦ) в Сумской области. Уточняется, что сотрудники СБУ осматривают территорию и помещения для выявления лиц, которые могут быть причастны к «противоправной деятельности».]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221131357577/pic_d2a1e68f546527cb74a329b74f9c31eb.jpeg" type="image/jpeg" length="28717"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/rutube/</guid>
+  <author>Евгения Наумова</author>
+  <title>Украинский министр назвал ответственных за атаку на Rutube</title>
+  <link>https://lenta.ru/news/2022/12/21/rutube/</link>
+  <description>
+    <![CDATA[Министр цифровой трансформации Украины Михаил Федоров назвал украинских хакеров ответственными за масштабную кибератаку на российский видеохостинг Rutube 9 мая. «IТ-армии даже удалось взломать пропуски сотрудников Rutube, чтобы они не могли попасть внутрь здания компании», — уточнил он.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:41:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221134032813/pic_80ea326b56c72120368f4682d70a3542.jpg" type="image/jpeg" length="19619"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/salekh/</guid>
+  <author>Марк Леонов</author>
+  <title>Российские ученые нашли древнейшие следы первобытного человека у полярного круга</title>
+  <link>https://lenta.ru/news/2022/12/21/salekh/</link>
+  <description>
+    <![CDATA[Древнейшие следы пребывания первобытного человека были обнаружены российскими учеными возле полярного круга. Об этом сообщил заведующий отделом археологии каменного века Института археологии и этнографии Сибирского отделения РАН Михаил Шуньков, его слова приводит РИА Новости.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:40:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221134307854/pic_054d89a4498948205d43f85dd6422d5d.jpg" type="image/jpeg" length="26327"/>
+  <category>69-я параллель</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/nosalute/</guid>
+  <author>Полина Матюхина</author>
+  <title>Матвиенко высказалась об уместности масштабных новогодних гуляний</title>
+  <link>https://lenta.ru/news/2022/12/21/nosalute/</link>
+  <description>
+    <![CDATA[Сейчас не время устраивать в России масштабные новогодние гуляния с фейерверками и салютами. Об уместности таких мероприятий высказалась спикер Совета Федерации (СФ) Валентина Матвиенко. В то же время она призвала не отменять детские праздники, так как дети «должны всегда верить в чудо».]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:39:22 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221132131587/pic_b9ed146f8ede3a3cda142698d54b6422.jpg" type="image/jpeg" length="52436"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/mskmetro/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Школьник в женском наряде устроил стриптиз в московском метро</title>
+  <link>https://lenta.ru/news/2022/12/21/mskmetro/</link>
+  <description>
+    <![CDATA[В московском метро девушка в красных чулках устроила стриптиз в поезде между станциями «Щукинская» и «Тушинская». Впоследствии стало известно, что дебоширом оказался российский школьник, переодевшийся в женщину. Сейчас его задержали, он находится под подпиской о невыезде. Возбуждено уголовное дело о хулиганстве. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:39:20 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221132813390/pic_11e514e8316bf0595fe19b21c542faaa.jpg" type="image/jpeg" length="12901"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/peskov_plennye/</guid>
+  <author>Константин Лысяков</author>
+  <title>Кремль прокомментировал сообщения о захвате убивших пленных россиян бойцов ВСУ</title>
+  <link>https://lenta.ru/news/2022/12/21/peskov_plennye/</link>
+  <description>
+    <![CDATA[Пресс-секретарь президента России Дмитрий Песков не смог подтвердить достоверность сообщений о взятии в плен бойцов Вооруженных сил Украины (ВСУ), расстрелявших военнопленных россиян в Макеевке. Представитель Кремля напомнил, что президент получает доклады о происходящем в зоне спецоперации напрямую по линии военных.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:39:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221133949591/pic_0b299ec4ad141d642b6255ab7aacfe16.jpg" type="image/jpeg" length="35316"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/vinogradova_vika/</guid>
+  <author>Екатерина Смирная</author>
+  <title>Стали известны подробности смерти 17-летней российской футболистки</title>
+  <link>https://lenta.ru/news/2022/12/21/vinogradova_vika/</link>
+  <description>
+    <![CDATA[Вратарь молодежного женского футбольного клуба ЦСКА 17-летняя Виктория Виноградова умерла в гостях у подруги. Об этом «Ленте.ру» рассказал брат спортсменки. Ранее о смерти девушки сообщили на сайте московской команды. Отмечалось, что она находилась в отпуске. Клуб выразил соболезнования родным.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:37:59 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221133624538/pic_cddbe4a2eef1c5d7aa82f95d87bfb2fa.jpg" type="image/jpeg" length="22543"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/astma/</guid>
+  <author>Елена Апазиди</author>
+  <title>Разработан способ продления действия препарата от астмы</title>
+  <link>https://lenta.ru/news/2022/12/21/astma/</link>
+  <description>
+    <![CDATA[Специалисты из Центра трансляционной медицины Джефферсона разработала препарат способ продлить действие препарата от астмы. Ученые решили создать другое соединение, которое действует после попадания бета-агониста на рецептора и изменяет его способ захвата. Оно показало увеличение эффективности на 60-70 процентов.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:36:39 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/20/19/20221220191608185/pic_1b36111212bc19cda436304560d58398.jpg" type="image/jpeg" length="16421"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/eu_visas/</guid>
+  <author>Фариза Бацазова</author>
+  <title>В МИД оценили решение ЕС о невыдаче шенгенских виз жителям новых регионов России</title>
+  <link>https://lenta.ru/news/2022/12/21/eu_visas/</link>
+  <description>
+    <![CDATA[Невыдача Евросоюзом шенгенских виз жителям новых регионов России нарушает положения Всеобщей декларации прав человека 1948 года и Международного пакта о гражданских и политических правах 1966 года, заявила представитель МИД России Мария Захарова, посчитав это «политикой визовой дискриминации».]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:35:35 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221132334673/pic_6956ae12752236e2ce827508ed6abd9c.jpg" type="image/jpeg" length="20686"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/acne/</guid>
+  <author>Вера Владзиевская</author>
+  <title>Врач назвала способы избавиться от рубцов на лице из-за акне</title>
+  <link>https://lenta.ru/news/2022/12/21/acne/</link>
+  <description>
+    <![CDATA[Дерматовенеролог Алена Девятова рассказала, как избавиться от глубоких рубцов на лице, образовавшихся из-за акне. Она отметила, что сделать кожу здоровой и красивой помогут лечебные мази, а также пилинги и мезотерапия. По ее словам, во время лечения важно не травмировать кожу и не выдавливать гнойники.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/20/11/20221220111001744/pic_59c0f62ec5ae20f950dcb97f111be9d4.jpeg" type="image/jpeg" length="20395"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/presssluzhb/</guid>
+  <author>Елизавета Новикова</author>
+  <title>Россиянину дали восемь с половиной лет за финансирование террористов в Сирии</title>
+  <link>https://lenta.ru/news/2022/12/21/presssluzhb/</link>
+  <description>
+    <![CDATA[Жителя Волгоградской области приговорили к восьми с половиной годам за финансирование запрещенной в России террористической организации «Хайят Тахрир Аш-Шам». Он будет отбывать наказание в колонии строгого режима. Два с половиной года из срока он проведет в тюрьме. Защита фигуранта пыталась обжаловать приговор.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:34:09 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221121814480/pic_272c59bbe1738e843bc030f89d70a449.jpg" type="image/jpeg" length="22855"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/trevogaukr/</guid>
+  <author>Василий Мека</author>
+  <title>По всей Украине объявили воздушную тревогу</title>
+  <link>https://lenta.ru/news/2022/12/21/trevogaukr/</link>
+  <description>
+    <![CDATA[Воздушная тревога объявлена во всех регионах Украины, а также на подконтрольных Киеву частях Запорожской, Херсонской областей, Луганской и Донецкой народных республик России. Ранее стало известно, что президент Украины Владимир Зеленский отправился в США для встречи с американским коллегой Джо Байденом.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:33:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221133414307/pic_7d8fd192ed9a1e910a1b05d6f3c0851b.jpg" type="image/jpeg" length="30365"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/karta_21_12/</guid>
+  <author>Варвара Родикова</author>
+  <title>Опубликована карта боевых действий на Украине на 21 декабря</title>
+  <link>https://lenta.ru/news/2022/12/21/karta_21_12/</link>
+  <description>
+    <![CDATA[Министерство обороны России в ходе брифинга показало карту боевых действий на Украине на 21 декабря. На карте отражены основные события, произошедшие в зоне проведения специальной военной операции за последние сутки: передвижение сторон, места боестолкновений и зоны обстрелов.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:32:41 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221132634242/pic_7d58f9f013b37949f7052b9190d0ab3e.jpg" type="image/jpeg" length="23715"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/ikra/</guid>
+  <author>Платон Щукин</author>
+  <title>Россиян научили выбирать настоящую красную икру</title>
+  <link>https://lenta.ru/news/2022/12/21/ikra/</link>
+  <description>
+    <![CDATA[Наличие «глазка» в икринках в форме пузырька под оболочкой, а также их цвет и форма помогут отличить настоящую икру от имитированной, сообщили в Роскачестве. В натуральной икринке виден зародыш — небольшой пузырек, плавающий под оболочкой в белково-жировой эмульсии. Иногда встречается имитированная продукция.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:30:29 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221121526470/pic_163b181364465f4663c64ebc9c40e9e0.jpg" type="image/jpeg" length="36236"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/zelenski/</guid>
+  <author>Анастасия Шейкина</author>
+  <title>Пригожин отреагировал на визит Зеленского в США</title>
+  <link>https://lenta.ru/news/2022/12/21/zelenski/</link>
+  <description>
+    <![CDATA[Бизнесмен, создатель частной военной компании (ЧВК) «Вагнер» Евгений Пригожин отреагировал на визит президента Украины Владимира Зеленского в США. Слова Пригожина публикует его пресс-служба в Telegram-канале. «Владимир Александрович, так нечестно. Сижу, жду Вас у Бахмута. А Вы хвостом вильнули и в США», — написал он.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:29:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221131236448/pic_3413da83c4948e73383b781cb01efb72.jpg" type="image/jpeg" length="17997"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/blinovskaya/</guid>
+  <author>Олег Давыдов</author>
+  <title>Раскрыты детали иска Блиновской из-за несостоявшейся встречи с матерью Маска</title>
+  <link>https://lenta.ru/news/2022/12/21/blinovskaya/</link>
+  <description>
+    <![CDATA[Замоскворецкий районный суд Москвы рассматривает иск российской блогерши Елены Блиновской к бизнесмену Максиму Кузнецову. Ответчик обещал познакомить блогершу с матерью американского миллиардера Илона Маска и взял за это семь миллионов рублей, но в итоге так и не выполнил обещание.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:28:14 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221124030761/pic_1bc3173b9339be2473ca2b6b1f80a19b.jpg" type="image/jpeg" length="28901"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/putinwontcongratulate/</guid>
+  <author>Глеб Бажуткин</author>
+  <title>Путин не поздравил Макрона с днем рождения</title>
+  <link>https://lenta.ru/news/2022/12/21/putinwontcongratulate/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин не поздравит своего французского коллегу Эммануэля Макрона с его 45-летием, заявил пресс-секретарь российского лидера Дмитрий Песков. «Нет, сегодня нет в планах президента телефонного разговора с Макроном», — сказал он, пообещав уточнить, намерен ли Путин отправить телеграмму.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:22:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221131717181/pic_dc365224c79f6b9525a924e6ddbdb565.jpg" type="image/jpeg" length="14256"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/zel_usa/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Стало известно о планах Зеленского посетить США летом</title>
+  <link>https://lenta.ru/news/2022/12/21/zel_usa/</link>
+  <description>
+    <![CDATA[Президент Украины Владимир Зеленский хотел посетить США еще летом, но не смог этого сделать из соображений безопасности. По словам украинских чиновников, Зеленский хотел увязать свой визит с крупным запросом на поставку оружия, в том числе комплексов противовоздушной обороны (ПВО) Patriot.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:21:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221131424170/pic_c3ed956dfd2ba75d09eac398b50f8c4e.jpg" type="image/jpeg" length="15750"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/angarsk_lnr/</guid>
+  <author>Марк Леонов</author>
+  <title>Российский мэр заявил об отправке сына в Донбасс после скандала с флагом Украины</title>
+  <link>https://lenta.ru/news/2022/12/21/angarsk_lnr/</link>
+  <description>
+    <![CDATA[Глава Ангарска Сергей Петров заявил об отправке сына Александра в Донбасс после скандала с флагом Украины. Об этом российский мэр сообщил изданию «Подъем». Ранее Петрова-младшего заметили в черной футболке с украинским флагом на горнолыжном курорте в Байкальске. По его словам, на него тут же обрушились с критикой.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:20:21 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221131722514/pic_904f0ccf5cdac88cf4c5ce3de87b9b06.jpg" type="image/jpeg" length="35262"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/vinogradova/</guid>
+  <author>Анастасия Борисова</author>
+  <title>Российская футболистка умерла в 17 лет</title>
+  <link>https://lenta.ru/news/2022/12/21/vinogradova/</link>
+  <description>
+    <![CDATA[Вратарь молодежного женского футбольного клуба ЦСКА Виктория Виноградова умерла в возрасте 17 лет. Причины смерти не уточняются. Отмечается, что футболистка находилась в отпуске. В ЦСКА выразили соболезнования родным спортсменки. Виноградова выступала в молодежной команде ЦСКА в сезоне 2022 года.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:20:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221130059148/pic_d8a9c14901b3eafaafacb3481ad5cb90.jpg" type="image/jpeg" length="18507"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/france_west/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Во Франции напомнили Западу о силе России</title>
+  <link>https://lenta.ru/news/2022/12/21/france_west/</link>
+  <description>
+    <![CDATA[Страны Запада должны перестать думать, что силы России на исходе, в то время как Украина лишена проблем. К отказу от иллюзий в отношении Москвы призвал западные государства бывший глава службы экономической разведки Франции Ален Жюйе. Он отметил, что европейцы часто принимают желаемое за реальность. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221132008614/pic_6a7aed210f34901b09bb6d18b63d069a.jpg" type="image/jpeg" length="30137"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/lock/</guid>
+  <author>Алиса Дмитриева</author>
+  <title>Женщина повесила на холодильник замок из-за объедавшего ее мужа</title>
+  <link>https://lenta.ru/news/2022/12/21/lock/</link>
+  <description>
+    <![CDATA[Беременная пользовательница Reddit рассказала, что купила в дом второй холодильник и повесила на него замок, так как муж постоянно съедал все закуски, которые она покупала для себя. Когда она заявила ему о проблеме, он посоветовал ей покупать больше еды. Теперь они не разговаривают.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/20/10/20221220104101614/pic_c6dab9fd0479d59ebbd2ee72073ef0c5.jpeg" type="image/jpeg" length="20922"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/willis_baby/</guid>
+  <author>Анастасия Астахова</author>
+  <title>Страдающий афазией Брюс Уиллис впервые станет дедушкой</title>
+  <link>https://lenta.ru/news/2022/12/21/willis_baby/</link>
+  <description>
+    <![CDATA[Американский актер и продюсер Брюс Уиллис, страдающий афазией, впервые станет дедушкой. Его старшая дочь от актрисы Деми Мур объявила о беременности. 34-летняя Румер Уиллис опубликовала в социальных сетях фотографии с округлившимся животом. Отцом будущего ребенка является участник группы Vista Kicks Дерек Ричард Томас.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:16:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/11/20221221112254222/pic_bb994455639992593a2e9a4021ab726f.jpg" type="image/jpeg" length="18036"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/sani/</guid>
+  <author>Константин Лысяков</author>
+  <title>Российский ребенок остался один в тундре ночью в 38-градусный мороз и выжил</title>
+  <link>https://lenta.ru/news/2022/12/21/sani/</link>
+  <description>
+    <![CDATA[На Ямале ребенок остался один в тундре ночью в 38-градусный мороз и выжил, благодаря случайно заметившим его спасателям. Мальчик 2010 года рождения рассказал, что потерялся, когда сани с ним отцепились от снегохода, которым управлял его отец. При этом, мужчина ничего не заметил и уехал. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:15:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/11/20221221115832263/pic_c17fef5d0fa38fa56192a7637148a113.jpg" type="image/jpeg" length="25588"/>
+  <category>69-я параллель</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/un_funds_winter/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>В ООН рассказали об исчерпанной за 10 месяцев боевых действий помощи Украине</title>
+  <link>https://lenta.ru/news/2022/12/21/un_funds_winter/</link>
+  <description>
+    <![CDATA[Вскоре украинцы, переживающие перебои с электроэнергией и отоплением из-за обстрелов, получат дополнительную помощь от фонда, который направляет деньги волонтерам, общественным группам и организациям гражданского общества, заявил во вторник руководитель гуманитарной миссии ООН на Украине Дениз Браун. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:14:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221130436395/pic_3513e7b173c6ff55577adb009c001c6b.jpg" type="image/jpeg" length="30963"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/sevpot_russia/</guid>
+  <author>Анжелика Бережная</author>
+  <title>Запад не нашел доказательств виновности России во взрывах на «Северных потоках»</title>
+  <link>https://lenta.ru/news/2022/12/21/sevpot_russia/</link>
+  <description>
+    <![CDATA[У Запада нет доказательств причастности России к диверсии на газопроводах «Северный поток-1» и «Северный поток-2». «На данный момент нет никаких доказательств в пользу того, что за диверсией стояла Россия», — сообщил европейский чиновник. Его позиция совпадает с позицией 23 представителей дипведомств и разведок.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:13:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/13/20221221130514487/pic_82e32ba982138e3e46ee0e3ed1bb8001.jpeg" type="image/jpeg" length="29459"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/50feltgood/</guid>
+  <author>Майя Пономаренко</author>
+  <title>Звезда «Зачарованных» снялась без макияжа в честь 50-летия</title>
+  <link>https://lenta.ru/news/2022/12/21/50feltgood/</link>
+  <description>
+    <![CDATA[Американская актриса Алисса Милано показала естественную внешность в честь дня рождения и порадовала поклонников. 50-летняя звезда сериала «Зачарованные» опубликовала селфи, на котором запечатлена в кровати. На размещенных кадрах видно, что на лице знаменитости, которая снялась в пижаме, отсутствует макияж. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221120453457/pic_525f38989a56a6d90b3eb0402c50490a.jpg" type="image/jpeg" length="32211"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/kirkorov/</guid>
+  <author>Александра Качан</author>
+  <title>Адвокат Киркорова рассказал о проблемах певца с недвижимостью</title>
+  <link>https://lenta.ru/news/2022/12/21/kirkorov/</link>
+  <description>
+    <![CDATA[Певец Филипп Киркоров захотел разделить свой двухэтажный пентхаус в Москве на две отдельные квартиры. Таким образом артист хочет уменьшить стоимость объекта и снизить налог. Адвокат Киркорова Добровинский рассказал, что артист обратился в суд после того, как в налоговой допустили ошибку.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221120440049/pic_3015e5b0aae9ac68715556042c1947c5.jpg" type="image/jpeg" length="28407"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/hybrid/</guid>
+  <author>Даниил Иринин</author>
+  <title>В России изготовили демонстратор гибридного двигателя для беспилотников</title>
+  <link>https://lenta.ru/news/2022/12/21/hybrid/</link>
+  <description>
+    <![CDATA[Объединенная двигателестроительная корпорация «Ростеха» изготовила демонстратор гибридной силовой установки ГСУ-100 мощностью 100 киловатт. Установка может использоваться в беспилотниках и легких вертолетах. ГСУ позволит улучшить летно-технические характеристики авиатехники.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 13:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/20/17/20221220172815711/pic_ea0fe9a696b06845155beebe9934f320.jpg" type="image/jpeg" length="34790"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/trotilgr/</guid>
+  <author>Елизавета Новикова</author>
+  <title>В заброшенном здании под Херсоном нашли тайник с гранатами и тротилом</title>
+  <link>https://lenta.ru/news/2022/12/21/trotilgr/</link>
+  <description>
+    <![CDATA[В заброшенном доме под Херсоном полиция и Росгвардия обнаружили тайник с оружием и боеприпасами. Схрон находился в Новоалексеевке. Из него силовики изъяли две гранаты РГД-5, взрыватель УЗРГМ-2, тротиловую и дымовую шашки, а также охотничье гладкоствольное ружье марки ТОЗ-34. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221125022756/pic_07b4536b3f14c74a9bd4cac1c7778d6a.jpeg" type="image/jpeg" length="34831"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/moskvisbb/</guid>
+  <author>Анна Щербакова</author>
+  <title>В Кремле порассуждали о возможном намерении Путина протестировать «Москвич 3»</title>
+  <link>https://lenta.ru/news/2022/12/21/moskvisbb/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин пока не намерен тестировать новый кроссовер «Москвич 3». Об этом сообщил официальный представитель Кремля Дмитрий Песков. Пресс-секретарь главы государства отметил, что в Кремле с радостью встретили известие о запуске производства кроссоверов.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:54:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221125302997/pic_2ae6f8bbdfec4d9cb0bc0eb7729980b5.jpg" type="image/jpeg" length="38609"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/ulyanovannaunces/</guid>
+  <author>Глеб Бажуткин</author>
+  <title>Анонсирован визит главы МАГАТЭ в Москву</title>
+  <link>https://lenta.ru/news/2022/12/21/ulyanovannaunces/</link>
+  <description>
+    <![CDATA[Глава Международного агентства по атомной энергии (МАГАТЭ) Рафаэль Гросси посетит с официальным визитом Москву, заявил постпред России в Вене Михаил Ульянов. «Консультации с Рафаэлем Гросси состоятся в Москве уже завтра», — сказал он и подчеркнул, что переговоры будут касаться создания безопасной зоны на ЗАЭС.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:54:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221124738386/pic_321bc4bd15e7dbd188a4177b11f8e560.jpeg" type="image/jpeg" length="14716"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/habibulin/</guid>
+  <author>Анастасия Астахова</author>
+  <title>Названа причина смерти гитариста группы «Танцы минус» Антона Хабибулина</title>
+  <link>https://lenta.ru/news/2022/12/21/habibulin/</link>
+  <description>
+    <![CDATA[Названа причина смерти гитариста группы «Танцы минус» Антона Хабибулина. Лидер музыкального коллектива Вячеслав Петкун рассказал, что артист скончался в реанимации после перенесенной операции. Коллега Хабибулина добавил, что незадолго до этого у музыканта обострилось хроническое заболевание поджелудочной железы. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221124318009/pic_2313f48020a8c9120b6fbd943104d7a1.jpg" type="image/jpeg" length="18634"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/ikry/</guid>
+  <author>Олег Давыдов</author>
+  <title>Врач назвал неожиданные свойства красной икры</title>
+  <link>https://lenta.ru/news/2022/12/21/ikry/</link>
+  <description>
+    <![CDATA[Врач-диетолог Михаил Гинзбург в эфире «О самом главном» на канале «Россия 1» назвал неожиданные свойства красной икры. Специалист рассказал, что продукт снижает уровень холестерина, повышает настроение, защищает от проблем сердечно-сосудистой системы, а также предотвращает развитие онкологических заболеваний.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/11/20221221115733907/pic_cc4208e465d59a55b7f5d1a089e051fe.jpg" type="image/jpeg" length="23086"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/mo_peskov/</guid>
+  <author>Константин Лысяков</author>
+  <title>В Кремле заявили о принятии Минобороны всех мер для улучшения ситуации в ДНР</title>
+  <link>https://lenta.ru/news/2022/12/21/mo_peskov/</link>
+  <description>
+    <![CDATA[Минобороны России принимает все меры для выправления сложной ситуации в Донецкой народной республики к лучшему. Об этом заявил пресс-cсекретарь президента Владимира Путина Дмитрий Песков. Ранее глава республики Денис Пушилин попросил российского лидера усилить систему противовоздушной обороны в регионе.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221124841415/pic_0854d3e5a5cee925df70bafe16722fef.jpg" type="image/jpeg" length="52186"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/muskmoney/</guid>
+  <author>Данил Дмитриев</author>
+  <title>Состояние Илона Маска рухнуло до минимума более чем за два года</title>
+  <link>https://lenta.ru/news/2022/12/21/muskmoney/</link>
+  <description>
+    <![CDATA[Состояние одного из богатейших людей планеты, главы SpaceX, Tesla и Twitter Илона Маска по итогам года сократилось на рекордные 123 миллиарда долларов. Таким образом, стоимость активов Маска в настоящее время оценивается в 148 миллиардов долларов — это минимум более чем за два года. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221121533125/pic_407d04a3a3d0144508dd551639a0bf0a.jpg" type="image/jpeg" length="19406"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/blackadam/</guid>
+  <author>Дениза Мацаева</author>
+  <title>Дуэйн Джонсон не вернется к роли Черного Адама в новых проектах DC</title>
+  <link>https://lenta.ru/news/2022/12/21/blackadam/</link>
+  <description>
+    <![CDATA[Дуэйн Джонсон заявил, что не вернется к роли Черного Адама в будущих проектах DC. Решение было принято после разговора актера с новым руководителем DC Studios Джеймсом Ганном. Джонсон написал, что DC и его компания Seven Bucks подумают над тем, как можно будет задействовать его в мультивселенной.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221121300328/pic_3e8d885440b742a740a5c4ac066f7b4f.jpg" type="image/jpeg" length="17150"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/invst/</guid>
+  <author>Наталия Белова</author>
+  <title>Россиянам назвали лучшую иностранную валюту для хранения сбережений</title>
+  <link>https://lenta.ru/news/2022/12/21/invst/</link>
+  <description>
+    <![CDATA[Генеральный директор аналитического агентства «БизнесДром» Павел Самиев заявил, что в случае формирования мультивалютных накоплений лучше выбирать доллар, поскольку евро в среднесрочной перспективе может ослабевать к американской валюте ввиду кризиса, который переживает еврозона. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221121708480/pic_b78149de10eea443da56ad372841c900.jpg" type="image/jpeg" length="29278"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/honkonen/</guid>
+  <author>Анастасия Борисова</author>
+  <title>Финский министр заявил о недопустимости возвращения России в мировой спорт</title>
+  <link>https://lenta.ru/news/2022/12/21/honkonen/</link>
+  <description>
+    <![CDATA[Министр науки и культуры Финляндии Петри Хонконен заявил о недопустимости возвращения России в мировой спорт. Политик посчитал, что Международный олимпийский комитет (МОК) допустит ошибку, если смягчит свою позицию в отношении спортсменов из России и Белоруссии. «Их нельзя пускать обратно», — заявил он.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:44:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221120157921/pic_f0db42c8b1b7a498df438191c91f24e0.jpg" type="image/jpeg" length="34999"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/putnebud/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Путин огласит послание Федеральному собранию в следующем году</title>
+  <link>https://lenta.ru/news/2022/12/21/putnebud/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин не будет оглашать послание Федеральному собранию в 2022 году, рассказал журналистам официальный представитель Кремля Дмитрий Песков. «До Нового года, разумеется, президент не будет оглашать послание. Сейчас уже по времени график идет очень напряженный», — заявил пресс-секретарь.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:44:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221124617381/pic_728212b47a1a11163bce827ab487fe3a.jpg" type="image/jpeg" length="21593"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/vnuki/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Кремль ответил на вопрос о внуках Путина и новой молодежной организации</title>
+  <link>https://lenta.ru/news/2022/12/21/vnuki/</link>
+  <description>
+    <![CDATA[Вопрос о том, отправит ли президент России Владимир Путин внуков в новую молодежную организацию «Движение первых» относится к личной жизни главы государства. Об этом заявил представитель Кремля Дмитрий Песков. Он также отметил, что новое движение — это очень важное явление, но ему предстоит еще формироваться.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:43:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221124638612/pic_d9bf3875bf2e49feb4d722028cd63bd4.jpg" type="image/jpeg" length="18757"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/filler/</guid>
+  <author>Александра Лисица</author>
+  <title>Телеведущая удалила филлеры из-за аллергии и стала винить в болезнях импланты</title>
+  <link>https://lenta.ru/news/2022/12/21/filler/</link>
+  <description>
+    <![CDATA[39-летняя американская телеведущая Кристина Холл из-за тяжелой аллергической реакции решила удалить филлеры из-под глаз. Кроме того, размышляя о своей реакции на филлеры, Холл заподозрила, что грудные импланты, с которыми она живет уже некоторое время, виновны в развитии у нее других заболеваний и состояний. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/20/16/20221220160005361/pic_47f2bac0440ed497d74eae131c69346c.jpg" type="image/jpeg" length="19362"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/shtabb/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>В Кремле высказались о местоположении посещенного Путиным штаба СВО</title>
+  <link>https://lenta.ru/news/2022/12/21/shtabb/</link>
+  <description>
+    <![CDATA[В Кремле не стали уточнять, где расположен штаб объединенной группировки войск СВО, который ранее посещал президент России Владимир Путин. «Место расположения этого штаба мы не указывали. Не имеем права этого делать», — пояснил пресс-секретарь главы государства Дмитрий Песков. ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:38:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221123913420/pic_fa6d8c488b4c42d520dc33d77ab14991.jpg" type="image/jpeg" length="25722"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/60minutlitva/</guid>
+  <author>Кристина Есикова</author>
+  <title>Литва захотела поддержать Украину отключением света</title>
+  <link>https://lenta.ru/news/2022/12/21/60minutlitva/</link>
+  <description>
+    <![CDATA[Мэр Вильнюса Ремигиюс Шимашюс заявил, что столица Литвы отключит свет в поддержку Украины, приняв участие в акции «Час с Украиной». «В знак солидарности с Украиной Вильнюс примет участие в этой акции и на час выключит все рождественские декорации: огни на главной елке и освещение улиц и мостов», — сказал мэр города.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:37:21 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221122529972/pic_a2f24aec796ba8852938d7a8e5d57080.jpg" type="image/jpeg" length="39628"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/netplanov/</guid>
+  <author>Варвара Родикова</author>
+  <title>В Кремле заявили об отсутствии в планах Путина встречи с главой МАГАТЭ</title>
+  <link>https://lenta.ru/news/2022/12/21/netplanov/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин не планирует встречаться с главой МАГАТЭ Рафаэлем Гросси во время его визита в Москву. Об этом заявил пресс-секретарь главы государства Дмитрий Песков. Ранее стало известно, что Гросси будет присутствовать на консультациях по зоне безопасности вокруг ЗАЭС в Москве 22 декабря.]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:37:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221123833872/pic_eb879e3a912bc10d3327d31008ff4924.jpeg" type="image/jpeg" length="19588"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/alone/</guid>
+  <author>Елена Апазиди</author>
+  <title>Социальную изоляцию и сердечные заболевания связали с преждевременной смертью</title>
+  <link>https://lenta.ru/news/2022/12/21/alone/</link>
+  <description>
+    <![CDATA[Команда международных специалистов из Университета Лимерика в Ирландии, Медицинского колледжа Университета штата Флорида и факультета психологии Университета Гумбольдта в Берлине заметила, что ощущение одиночества, социальная изоляция связаны с преждевременной смертью у людей с сердечно-сосудистыми заболеваниями (ССЗ).]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:36:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/20/18/20221220180326065/pic_fdd66e22a5ba7942ddf86b98a32e1bc4.jpg" type="image/jpeg" length="21379"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/zell/</guid>
+  <author>Сергей Истомин</author>
+  <title>Кремль отреагировал на поездку Зеленского в Вашингтон</title>
+  <link>https://lenta.ru/news/2022/12/21/zell/</link>
+  <description>
+    <![CDATA[У Кремля нет позитивных ожиданий от поездки президента Украины Владимира Зеленского в Вашингтон. Так на это отреагировал пресс-секретарь президента России Дмитрий Песков. Также Песков добавил, что российские власти не ожидают изменения риторики сторон в более позитивном ключе. <br /> ]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221124154292/pic_82335a1fec05d123acac11d59b2e2356.jpg" type="image/jpeg" length="33517"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/12/21/vazhn/</guid>
+  <author>Марк Леонов</author>
+  <title>Кремль анонсировал важное и объемное выступление Путина</title>
+  <link>https://lenta.ru/news/2022/12/21/vazhn/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин выступит с важным и достаточно объемным посланием на коллегии Минобороны в среду, 21 декабря. Представитель Кремля отметил, что на коллегии также запланировано выступление министра обороны Сергея Шойгу, к которому президент добавит заключительные ремарки]]>
+  </description>
+  <pubDate>Wed, 21 Dec 2022 12:34:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/12/21/12/20221221123546614/pic_7b33d56355a843c596a07719654601c6.jpeg" type="image/jpeg" length="24800"/>
+  <category>Россия</category>
+</item>
+  </channel>
+</rss>
