@@ -10,4 +10,4 @@ COPY ./requirements.txt .
 RUN pip install -r requirements.txt
 COPY . /parser
 
-CMD ["python", "parser/main.py" ]
+CMD ["python", "parser/main.py"]

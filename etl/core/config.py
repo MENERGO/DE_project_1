@@ -11,7 +11,7 @@ class Settings(BaseSettings):
     db_user = "news_postgres"
     db_password = "news_password_user"
     db_host = "127.0.0.1"
-    db_port = "5432"
+    db_port = "5433"
 
     data_folder = "../data"
     state_filepath = 'core/state.json'

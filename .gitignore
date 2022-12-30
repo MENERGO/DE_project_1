@@ -1,4 +1,3 @@
 /venv/
 /.env
-/etl/data_pg/
-
+/etl/pg_data/

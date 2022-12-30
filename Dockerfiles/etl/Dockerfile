@@ -10,4 +10,4 @@ COPY ./requirements.txt .
 RUN pip install -r requirements.txt
 COPY . /etl
 
-CMD ["python", "etl/main.py" ]
+CMD ["python", "etl/main.py"]
